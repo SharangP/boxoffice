@@ -1,12 +1,18 @@
+import os
 import json
 import urllib2
 
 class RTApi:
 
-    __baseUrl__ = "http://api.rottentomatoes.com/api/public/v1.0{endpoint}.json?apikey={apiKey}{params}"
+    __baseUrl__ = "http://api.rottentomatoes.com/api/public/v1.0/{endpoint}.json?apikey={apiKey}{params}"
 
-    def __init__(self,apiKey):
-        self.__ApiKey__ = apiKey
+    def __init__(self):
+        cd = os.path.dirname(os.path.abspath(__file__))
+        fp = os.path.join(cd, 'api.keys')
+        with open(fp) as f:
+            self.__ApiKey__ = json.load(f)["key"]
+        if not self.__ApiKey__:
+            raise("RT Api Key Error")
 
     def MovieSearch(self,query,limit):
         results = []
