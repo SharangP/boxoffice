@@ -35,5 +35,8 @@ nosetests.xml
 .project
 .pydevproject
 
+# Miscellaneous
+.~*
+
 # Api Keys
 *.keys
