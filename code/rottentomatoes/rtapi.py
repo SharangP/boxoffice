@@ -19,8 +19,7 @@ class RTApi:
         url = self.__baseUrl__.format(
                 endpoint = "movies",
                 apiKey = self.__ApiKey__,
-                params = "&q=" + query + "&page_limit=" + str(limit))
-        url = url.replace(' ','%20')
+                params = "&q=" + urllib2.quote(query) + "&page_limit=" + str(limit))
         try:
             req = urllib2.Request(url)
             jsonResponse = urllib2.urlopen(req)
