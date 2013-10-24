@@ -25,3 +25,6 @@ DOCUMENTATION NOTES
 
 choosing a training set
 	- found the 2000 "best" and 1000 "worst" movies according to the Sagel Index, keeping only those that hare documented in the rottentomatoes DB
+
+research
+    - Google Box Office Prediction (#searches): https://docs.google.com/viewer?url=http://ssl.gstatic.com/think/docs/quantifying-movie-magic_research-studies.pdf&chrome=true
