@@ -37,6 +37,7 @@ nosetests.xml
 
 # Miscellaneous
 .~*
+*.swp
 .idea/
 
 # Api Keys
