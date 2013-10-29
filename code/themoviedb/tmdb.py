@@ -30,6 +30,38 @@ class TMDBApi:
             print e.message
             return results
 
+    def MovieById(self,id):
+        results = []
+        headers = {"Accept": "application/json"}
+        url = self.__baseUrl__.format(
+                endpoint = "movie/" + str(id),
+                apiKey = self.__ApiKey__,
+                params = "")
+        try:
+            req = urllib2.Request(url, headers=headers)
+            jsonResponse = urllib2.urlopen(req)
+            results = json.load(jsonResponse)#["results"]
+            return results
+        except urllib2.URLError, e:
+            print e.message
+            return results
+
+    def MovieCastById(self,id):
+        results = []
+        headers = {"Accept": "application/json"}
+        url = self.__baseUrl__.format(
+                endpoint = "movie/" + str(id) + "/casts",
+                apiKey = self.__ApiKey__,
+                params = "")
+        try:
+            req = urllib2.Request(url, headers=headers)
+            jsonResponse = urllib2.urlopen(req)
+            results = json.load(jsonResponse)["cast"]
+            return results
+        except urllib2.URLError, e:
+            print e.message
+            return results
+
     def PersonSearch(self,query):
         results = []
         headers = {"Accept": "application/json"}
@@ -41,6 +73,22 @@ class TMDBApi:
             req = urllib2.Request(url, headers=headers)
             jsonResponse = urllib2.urlopen(req)
             results = json.load(jsonResponse)["results"]
+            return results
+        except urllib2.URLError, e:
+            print e.message
+            return results
+
+    def PersonCreditsById(self,id):
+        results = []
+        headers = {"Accept": "application/json"}
+        url = self.__baseUrl__.format(
+                endpoint = "person/" + str(id) + "/credits",
+                apiKey = self.__ApiKey__,
+                params = "")
+        try:
+            req = urllib2.Request(url, headers=headers)
+            jsonResponse = urllib2.urlopen(req)
+            results = json.load(jsonResponse)["cast"]
             return results
         except urllib2.URLError, e:
             print e.message
