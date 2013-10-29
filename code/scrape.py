@@ -9,21 +9,49 @@ D = Database('boxoffice.db')
 TMDB = TMDBApi()
 
 # load sagat csvs
-for file in sagat:
-    with open(file, 'rb') as csvfile:
+for sagatList in sagat:
+    with open(sagatList, 'rb') as csvfile:
         reader = csv.reader(csvfile, delimiter=',', quotechar='"')
         for movie in reader:
             try:
-                mid = TMDB.MovieSearch(movie[0])[0]['id']
-                #print mid, movie[0]
-            except IndexError, e:
-                print "Could not find movie: " + movie[0]
-                print e.message
-            try:
-                info = TMDB.MovieById(mid)
+                # fix up movie names
+                movieName = movie[0]
+                paren = str.rfind(movie[0], " (")
+                if paren > 0:
+                    movieName = movieName[0:paren]
 
-                print info
+                print "Processing movie: " + movieName
+                mid = TMDB.MovieSearch(movieName)[0]['id']
+                info = TMDB.MovieById(mid)
+                cast = TMDB.MovieCastById(mid)
+
+                if len(cast['cast']) == 0:
+                    continue
+
+                prod_companies = info['production_companies']
+                if len(prod_companies) == 0:
+                    prod_companies = [{'id': None, 'name': None}]
+
+                if not D.AddMovie(info['id'],
+                                  info['title'],
+                                  info['release_date'],
+                                  prod_companies[0]['id'],
+                                  prod_companies[0]['name']):
+                    continue
+
+                for genre in info['genres']:
+                    D.AddGenre(info['id'], genre['id'], genre['name'])
+
+                for person in cast['crew']:
+                    if person['job'] == "Director":
+                        D.AddPerson(person['id'], person['name'])
+                        D.AddCast(mid, person['id'], 0)
+                for person in cast['cast'][0:4]:
+                    D.AddPerson(person['id'], person['name'])
+                    D.AddCast(mid, person['id'], person['order'])
+
             except Exception, e:
+                print "Error with movie: " + movieName
                 print e.message
 
 
