@@ -37,6 +37,7 @@ nosetests.xml
 
 # Miscellaneous
 .~*
+.idea/
 
 # Api Keys
 *.keys
