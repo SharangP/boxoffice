@@ -45,7 +45,7 @@ for sagatList in sagat:
                 for person in cast['crew']:
                     if person['job'] == "Director":
                         D.AddPerson(person['id'], person['name'])
-                        D.AddCast(mid, person['id'], 0)
+                        D.AddCast(mid, person['id'], 100)
                 for person in cast['cast'][0:4]:
                     D.AddPerson(person['id'], person['name'])
                     D.AddCast(mid, person['id'], person['order'])
