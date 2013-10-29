@@ -13,8 +13,18 @@ for file in sagat:
     with open(file, 'rb') as csvfile:
         reader = csv.reader(csvfile, delimiter=',', quotechar='"')
         for movie in reader:
-            mid = TMDB.MovieSearch(movie)[0]['id']
-            print mid, movie
+            try:
+                mid = TMDB.MovieSearch(movie[0])[0]['id']
+                #print mid, movie[0]
+            except IndexError, e:
+                print "Could not find movie: " + movie[0]
+                print e.message
+            try:
+                info = TMDB.MovieById(mid)
+
+                print info
+            except Exception, e:
+                print e.message
 
 
 # connect to db
@@ -27,4 +37,3 @@ for file in sagat:
 #   for person in cast: (not everyone)
 #       db.AddPerson(person.["id"],person["name"])
 #       db.AddCastMember(id,person["id"])
-
