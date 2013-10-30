@@ -71,6 +71,6 @@ class Database:
             try:
                 self.cur.execute('SELECT person_id, person_name FROM people;')
                 data = self.cur.fetchall()
-                return data;
+                return data
             except Exception, err:
                 print ('SQL BROKE: %s\n' % str(err))
