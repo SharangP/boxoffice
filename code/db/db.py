@@ -64,8 +64,7 @@ class Database:
 		with self.conn:
 			try:
 				self.cur.execute('SELECT person_id FROM people;')
-				data=self.cur.fetchall()
-				return data;
+				return self.cur.fetchall();
 			except Exception, err:
 				print ('SQL BROKE: %s\n' % str(err))
 
