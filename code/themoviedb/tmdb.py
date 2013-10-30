@@ -88,7 +88,7 @@ class TMDBApi:
         try:
             req = urllib2.Request(url, headers=headers)
             jsonResponse = urllib2.urlopen(req)
-            results = json.load(jsonResponse)#["cast"]
+            results = json.load(jsonResponse)
             return results
         except urllib2.URLError, e:
             print "Error finding credits by person id: " + str(id)
