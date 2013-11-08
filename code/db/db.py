@@ -57,7 +57,7 @@ class Database:
                 print ('Sqlite error in AddCast: %s' % str(err))
                 return False
 
-    def AddRotten(self, movie_id, movie_title, score, rotten_id):
+    def AddRotten(self, movie_id, movie_title, score, rotten_id, release_date):
         with self.conn:
             try:
                 self.cur.execute('INSERT INTO rotten VALUES(?,?,?,?,?)', [movie_id, movie_title, score, rotten_id, release_date])
