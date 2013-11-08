@@ -16,7 +16,9 @@ class Database:
                 self.cur.execute(
                     'CREATE TABLE IF NOT EXISTS cast (movie_id INTEGER , person_id INTEGER, order_num INTEGER, PRIMARY KEY(movie_id, person_id), FOREIGN KEY(movie_id) REFERENCES movies(movie_id),FOREIGN KEY(person_id) REFERENCES people(person_id));')
                 self.cur.execute(
-                    'CREATE TABLE IF NOT EXISTS rotten (movie_id INTEGER PRIMARY KEY, movie_title VARCHAR(64), score REAL, rotten_id INTEGER, release_date VARCHAR(32));')
+                    'CREATE TABLE IF NOT EXISTS rottencast (person_id INTEGER, movie_id INTEGER, PRIMARY KEY(person_id, movie_id), FOREIGN KEY(movie_id) REFERENCES rottenmovies(movie_id),FOREIGN KEY(person_id) REFERENCES people(person_id));')
+                self.cur.execute(
+                    'CREATE TABLE IF NOT EXISTS rottenmovies (movie_id INTEGER PRIMARY KEY, movie_title VARCHAR(64), score REAL, rotten_id INTEGER, release_date VARCHAR(32));')
             except Exception, err:
                 print ('Sqlite error creating tables: %s' % str(err))
 
@@ -56,14 +58,21 @@ class Database:
             except Exception, err:
                 print ('Sqlite error in AddCast: %s' % str(err))
                 return False
-
-    def AddRotten(self, movie_id, movie_title, score, rotten_id, release_date):
+    def AddRottenCast(self, person_id, movie_id):
         with self.conn:
             try:
-                self.cur.execute('INSERT INTO rotten VALUES(?,?,?,?,?)', [movie_id, movie_title, score, rotten_id, release_date])
+                self.cur.execute('INSERT INTO rottencast VALUES(?,?)', [person_id, movie_id])
                 return True
             except Exception, err:
-                print ('Sqlite error in AddRotten: %s' % str(err))
+                print ('Sqlite error in AddRottenCast: %s' % str(err))
+                return False
+    def AddRottenMovie(self, movie_id, movie_title, score, rotten_id, release_date):
+        with self.conn:
+            try:
+                self.cur.execute('INSERT INTO rottenmovies VALUES(?,?,?,?,?)', [movie_id, movie_title, score, rotten_id, release_date])
+                return True
+            except Exception, err:
+                print ('Sqlite error in AddRottenMovie: %s' % str(err))
                 return False
 
     def GetAllPersonIdsNames(self):
