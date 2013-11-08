@@ -16,7 +16,7 @@ class Database:
                 self.cur.execute(
                     'CREATE TABLE IF NOT EXISTS cast (movie_id INTEGER , person_id INTEGER, order_num INTEGER, PRIMARY KEY(movie_id, person_id), FOREIGN KEY(movie_id) REFERENCES movies(movie_id),FOREIGN KEY(person_id) REFERENCES people(person_id));')
                 self.cur.execute(
-                    'CREATE TABLE IF NOT EXISTS rotten (movie_id INTEGER PRIMARY KEY, movie_title VARCHAR(64), score REAL, rotten_id INTEGER);')
+                    'CREATE TABLE IF NOT EXISTS rotten (movie_id INTEGER PRIMARY KEY, movie_title VARCHAR(64), score REAL, rotten_id INTEGER, release_date VARCHAR(32));')
             except Exception, err:
                 print ('Sqlite error creating tables: %s' % str(err))
 
@@ -57,10 +57,10 @@ class Database:
                 print ('Sqlite error in AddCast: %s' % str(err))
                 return False
 
-    def AddRotten(self, movie_id, movie_title, score, rotten_id):
+    def AddRotten(self, movie_id, movie_title, score, rotten_id, release_date):
         with self.conn:
             try:
-                self.cur.execute('INSERT INTO rotten VALUES(?,?,?,?)', [movie_id, movie_title, score, rotten_id])
+                self.cur.execute('INSERT INTO rotten VALUES(?,?,?,?,?)', [movie_id, movie_title, score, rotten_id, release_date])
                 return True
             except Exception, err:
                 print ('Sqlite error in AddRotten: %s' % str(err))
