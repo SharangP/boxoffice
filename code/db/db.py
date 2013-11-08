@@ -1,5 +1,6 @@
 import sqlite3 as lite
 
+
 class Database:
     def __init__(self, db_file):
         self.conn = lite.connect(db_file)
@@ -58,6 +59,7 @@ class Database:
             except Exception, err:
                 print ('Sqlite error in AddCast: %s' % str(err))
                 return False
+
     def AddRottenCast(self, person_id, movie_id):
         with self.conn:
             try:
@@ -66,6 +68,7 @@ class Database:
             except Exception, err:
                 print ('Sqlite error in AddRottenCast: %s' % str(err))
                 return False
+
     def AddRottenMovie(self, movie_id, movie_title, score, rotten_id, release_date):
         with self.conn:
             try:
@@ -82,4 +85,13 @@ class Database:
                 data = self.cur.fetchall()
                 return data
             except Exception, err:
-                print ('SQL BROKE: %s\n' % str(err))
+                print ('Sqlite error in GetAllPersonIdsNames: %s\n' % str(err))
+
+    def GetRottenCastByPersonId(self, person_id):
+        with self.conn:
+            try:
+                self.cur.execute('SELECT person_id, movie_id FROM rottencast WHERE person_id = (?);', [person_id])
+                data = self.cur.fetchall()
+                return data
+            except Exception, err:
+                print ('Sqlite error in GetRottenCastByPersonId: %s\n' % str(err))
