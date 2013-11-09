@@ -40,14 +40,19 @@ for person in [x for x in people]: #person[0] = id, person[1] = name
             try:
                 print "Processing movie: " + movie['title']
             except Exception, err:
-                print "Error printing movie with id: " + movie['id']
+                print "Error printing movie with id: " + str(movie['id'])
                 continue
 
             rottenMovie = RT.MovieSearch(movie['title'], 1)
             RTapicalls += 1
 
             if len(rottenMovie) > 0:
-                D.AddRottenMovie(movie['id'], movie['title'], rottenMovie[0]['ratings']['audience_score'], rottenMovie[0]['id'], movie['release_date'])
+                D.AddRottenMovie(movie['id'],
+                                 movie['title'],
+                                 rottenMovie[0]['ratings']['audience_score'],
+                                 rottenMovie[0]['id'],
+                                 rottenMovie[0]['title'],
+                                 movie['release_date'])
                 D.AddRottenCast(person[0], movie['id'])
     else:
         print person[1] + " doesnt have credits"
