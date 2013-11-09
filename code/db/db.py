@@ -19,7 +19,7 @@ class Database:
                 self.cur.execute(
                     'CREATE TABLE IF NOT EXISTS rottencast (person_id INTEGER, movie_id INTEGER, PRIMARY KEY(person_id, movie_id), FOREIGN KEY(movie_id) REFERENCES rottenmovies(movie_id),FOREIGN KEY(person_id) REFERENCES people(person_id));')
                 self.cur.execute(
-                    'CREATE TABLE IF NOT EXISTS rottenmovies (movie_id INTEGER PRIMARY KEY, movie_title VARCHAR(64), score REAL, rotten_id INTEGER, release_date VARCHAR(32));')
+                    'CREATE TABLE IF NOT EXISTS rottenmovies (movie_id INTEGER PRIMARY KEY, movie_title VARCHAR(64), score REAL, rotten_id INTEGER, rotten_title VARCHAR(64), release_date VARCHAR(32));')
             except Exception, err:
                 print ('Sqlite error creating tables: %s' % str(err))
 
@@ -69,10 +69,10 @@ class Database:
                 print ('Sqlite error in AddRottenCast: %s' % str(err))
                 return False
 
-    def AddRottenMovie(self, movie_id, movie_title, score, rotten_id, release_date):
+    def AddRottenMovie(self, movie_id, movie_title, score, rotten_id, rotten_title, release_date):
         with self.conn:
             try:
-                self.cur.execute('INSERT INTO rottenmovies VALUES(?,?,?,?,?)', [movie_id, movie_title, score, rotten_id, release_date])
+                self.cur.execute('INSERT INTO rottenmovies VALUES(?,?,?,?,?,?)', [movie_id, movie_title, score, rotten_id, rotten_title, release_date])
                 return True
             except Exception, err:
                 print ('Sqlite error in AddRottenMovie: %s' % str(err))
@@ -91,6 +91,16 @@ class Database:
         with self.conn:
             try:
                 self.cur.execute('SELECT person_id, movie_id FROM rottencast WHERE person_id = (?);', [person_id])
+                data = self.cur.fetchall()
+                return data
+            except Exception, err:
+                print ('Sqlite error in GetRottenCastByPersonId: %s\n' % str(err))
+
+
+    def GetRottenMovieByMovieId(self, movie_id):
+        with self.conn:
+            try:
+                self.cur.execute('SELECT movie_id FROM rottenmovies WHERE movie_id = (?);', [movie_id])
                 data = self.cur.fetchall()
                 return data
             except Exception, err:
