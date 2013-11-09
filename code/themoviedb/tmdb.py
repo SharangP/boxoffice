@@ -17,11 +17,11 @@ class TMDBApi:
     def MovieSearch(self, query):
         results = []
         headers = {"Accept": "application/json"}
-        url = self.__baseUrl__.format(
-            endpoint="search/movie",
-            apiKey=self.__ApiKey__,
-            params="&query=" + urllib2.quote(query))
         try:
+            url = self.__baseUrl__.format(
+                endpoint="search/movie",
+                apiKey=self.__ApiKey__,
+                params="&query=" + urllib2.quote(query))
             req = urllib2.Request(url, headers=headers)
             jsonResponse = urllib2.urlopen(req)
             results = json.load(jsonResponse)["results"]
@@ -65,11 +65,11 @@ class TMDBApi:
     def PersonSearch(self, query):
         results = []
         headers = {"Accept": "application/json"}
-        url = self.__baseUrl__.format(
-            endpoint="search/people",
-            apiKey=self.__ApiKey__,
-            params="&query=" + urllib2.quote(query))
         try:
+            url = self.__baseUrl__.format(
+                endpoint="search/people",
+                apiKey=self.__ApiKey__,
+                params="&query=" + urllib2.quote(query))
             req = urllib2.Request(url, headers=headers)
             jsonResponse = urllib2.urlopen(req)
             results = json.load(jsonResponse)["results"]

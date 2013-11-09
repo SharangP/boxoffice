@@ -21,7 +21,10 @@ for person in [x for x in people]: #person[0] = id, person[1] = name
     if len(D.GetRottenCastByPersonId(person[0])) > 0:
         continue
 
+    print "=========================================="
     print "Processing person: " + person[1]
+    print "=========================================="
+    
     credits = TMDB.PersonCreditsById(person[0])
     movies = []
     if len(credits) > 0:
@@ -32,6 +35,8 @@ for person in [x for x in people]: #person[0] = id, person[1] = name
         else:
             movies = credits['crew']
         for movie in movies:
+        	if len(D.GetRottenMovieByMovieId(movie[0])) > 0:
+        		continue
             print "Processing movie: " + movie['title']
             rottenMovie = RT.MovieSearch(movie['title'], 1)
             RTapicalls += 1
