@@ -16,11 +16,11 @@ class RTApi:
 
     def MovieSearch(self,query,limit):
         results = []
+        try:
         url = self.__baseUrl__.format(
                 endpoint = "movies",
                 apiKey = self.__ApiKey__,
                 params = "&q=" + urllib2.quote(query) + "&page_limit=" + str(limit))
-        try:
             req = urllib2.Request(url)
             jsonResponse = urllib2.urlopen(req)
             results = json.load(jsonResponse)["movies"]
