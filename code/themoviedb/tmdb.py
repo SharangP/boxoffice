@@ -24,7 +24,9 @@ class TMDBApi:
                 params="&query=" + urllib2.quote(query))
             req = urllib2.Request(url, headers=headers)
             jsonResponse = urllib2.urlopen(req)
-            results = json.load(jsonResponse)["results"]
+            jsonResponse = json.load(jsonResponse)
+            if 'results' in jsonResponse:
+                results = jsonResponse["results"]
             return results
         except urllib2.URLError, e:
             print "Error finding movie: " + query
@@ -40,7 +42,7 @@ class TMDBApi:
         try:
             req = urllib2.Request(url, headers=headers)
             jsonResponse = urllib2.urlopen(req)
-            results = json.load(jsonResponse)#["results"]
+            results = json.load(jsonResponse)
             return results
         except urllib2.URLError, e:
             print "Error finding movie id: " + str(id)
@@ -72,7 +74,9 @@ class TMDBApi:
                 params="&query=" + urllib2.quote(query))
             req = urllib2.Request(url, headers=headers)
             jsonResponse = urllib2.urlopen(req)
-            results = json.load(jsonResponse)["results"]
+            jsonResponse = json.load(jsonResponse)
+            if 'results' in jsonResponse:
+                results = jsonResponse["results"]
             return results
         except urllib2.URLError, e:
             print "Error finding person: " + query

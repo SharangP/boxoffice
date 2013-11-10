@@ -23,7 +23,9 @@ class RTApi:
                 params = "&q=" + urllib2.quote(query) + "&page_limit=" + str(limit))
             req = urllib2.Request(url)
             jsonResponse = urllib2.urlopen(req)
-            results = json.load(jsonResponse)["movies"]
+            jsonResponse = json.load(jsonResponse)
+            if 'movies' in jsonResponse:
+                results = jsonResponse["movies"]
             return results
         except urllib2.URLError, e:
             print e.message

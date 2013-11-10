@@ -12,7 +12,7 @@ people = D.GetAllPersonIdsNames()
 for person in [x for x in people]: #person[0] = id, person[1] = name
 
     #check how many api calls have been done so far today
-    if RTapicalls > 29900:
+    if RTapicalls > 16900:
         print "Reached RTApi limit for today: " + RTapicalls
         print time.asctime()
         print "Exiting on person: " + person[1]
@@ -22,7 +22,11 @@ for person in [x for x in people]: #person[0] = id, person[1] = name
         continue
 
     print "=========================================="
-    print "Processing person: " + person[1]
+    try:
+        print "Processing person: " + person[1]
+    except Exception, err:
+    	print "Cant read person name/ unicode to ascii error, id:" +str(person[0])
+    	continue
     print "=========================================="
  
     credits = TMDB.PersonCreditsById(person[0])
