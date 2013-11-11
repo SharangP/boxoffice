@@ -1,0 +1,2289 @@
+Creating Tables
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Processing person: Allakariallak10094 number 1500 out of 7103
+==========================================
+Processing movie: Nanook of the North , RTapicalls at 0
+==========================================
+Processing person: Nyla10095 number 1501 out of 7103
+==========================================
+skipping movie: Nanook of the North and adding cast member Nyla
+==========================================
+Processing person: Cunayou10096 number 1502 out of 7103
+==========================================
+skipping movie: Nanook of the North and adding cast member Cunayou
+==========================================
+Processing person: Allee10097 number 1503 out of 7103
+==========================================
+skipping movie: Nanook of the North and adding cast member Allee
+==========================================
+Processing person: Leni Riefenstahl10139 number 1505 out of 7103
+==========================================
+Processing movie: Olympia Part One: Festival of the Nations , RTapicalls at 1
+skipping movie: Olympia Part One: Festival of the Nations and adding cast member Leni Riefenstahl
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Olympia Part One: Festival of the Nations and adding cast member Leni Riefenstahl
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Olympia Part One: Festival of the Nations and adding cast member Leni Riefenstahl
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+Processing movie: Olympia Part Two: Festival of Beauty , RTapicalls at 2
+
+Processing movie: Olympia Part Two: Festival of Beauty , RTapicalls at 3
+
+Processing movie: Olympia Part Two: Festival of Beauty , RTapicalls at 4
+
+Processing movie: Olympia Part Two: Festival of Beauty , RTapicalls at 5
+
+Processing movie: Lowlands , RTapicalls at 6
+Processing movie: Triumph of the Will , RTapicalls at 7
+Processing movie: The Blue Light , RTapicalls at 8
+skipping movie: Lowlands and adding cast member Leni Riefenstahl
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Lowlands and adding cast member Leni Riefenstahl
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Lowlands and adding cast member Leni Riefenstahl
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+Processing movie: Impressionen unter Wasser , RTapicalls at 9
+
+Processing movie: Day of Freedom - Our Armed Forces , RTapicalls at 10
+
+Processing movie: Victory of the Faith , RTapicalls at 11
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Processing person: James Marsden11006 number 1637 out of 7103
+==========================================
+skipping movie: Superman Returns and adding cast member James Marsden
+skipping movie: Hairspray and adding cast member James Marsden
+skipping movie: Enchanted and adding cast member James Marsden
+skipping movie: 27 Dresses and adding cast member James Marsden
+skipping movie: Disturbing Behavior and adding cast member James Marsden
+skipping movie: The Notebook and adding cast member James Marsden
+skipping movie: 10th & Wolf and adding cast member James Marsden
+Processing movie: Sex Drive , RTapicalls at 12
+Processing movie: Campfire Tales , RTapicalls at 13
+skipping movie: Gossip and adding cast member James Marsden
+Processing movie: The 24th Day , RTapicalls at 14
+Processing movie: Interstate 60: Episodes of the Road , RTapicalls at 15
+
+skipping movie: The Box and adding cast member James Marsden
+skipping movie: Death at a Funeral and adding cast member James Marsden
+skipping movie: X-Men and adding cast member James Marsden
+skipping movie: X2: X-Men United and adding cast member James Marsden
+skipping movie: X-Men: The Last Stand and adding cast member James Marsden
+skipping movie: Heights and adding cast member James Marsden
+skipping movie: Hop and adding cast member James Marsden
+skipping movie: Straw Dogs and adding cast member James Marsden
+skipping movie: The Loft and adding cast member James Marsden
+skipping movie: Lies & Alibis and adding cast member James Marsden
+skipping movie: Bella Mafia and adding cast member James Marsden
+skipping movie: As Cool as I Am and adding cast member James Marsden
+skipping movie: Cats & Dogs: The Revenge of Kitty Galore and adding cast member James Marsden
+skipping movie: Bachelorette and adding cast member James Marsden
+skipping movie: Robot & Frank and adding cast member James Marsden
+skipping movie: The Butler and adding cast member James Marsden
+skipping movie: 2 Guns and adding cast member James Marsden
+skipping movie: Zoolander and adding cast member James Marsden
+skipping movie: Anchorman 2: The Legend Continues and adding cast member James Marsden
+Processing movie: Walk of Shame , RTapicalls at 16
+skipping movie: Small Apartments and adding cast member James Marsden
+skipping movie: Sugar & Spice and adding cast member James Marsden
+==========================================
+Processing person: Ray Park11007 number 1638 out of 7103
+==========================================
+skipping movie: Star Wars: Episode I - The Phantom Menace and adding cast member Ray Park
+skipping movie: Ballistic: Ecks vs. Sever and adding cast member Ray Park
+skipping movie: G.I. Joe: The Rise of Cobra and adding cast member Ray Park
+Processing movie: What We Do Is Secret , RTapicalls at 17
+skipping movie: X-Men and adding cast member Ray Park
+skipping movie: Jinn and adding cast member Ray Park
+Processing movie: The King of Fighters , RTapicalls at 18
+
+Processing movie: Hellbinders , RTapicalls at 19
+Processing movie: Slayer , RTapicalls at 20
+skipping movie: G.I. Joe: Retaliation and adding cast member Ray Park
+skipping movie: Fanboys and adding cast member Ray Park
+==========================================
+Processing person: Rebecca Romijn11008 number 1639 out of 7103
+==========================================
+skipping movie: The Punisher and adding cast member Rebecca Romijn
+skipping movie: Femme Fatale and adding cast member Rebecca Romijn
+skipping movie: S1m0ne and adding cast member Rebecca Romijn
+skipping movie: Rollerball and adding cast member Rebecca Romijn
+skipping movie: Lies & Alibis and adding cast member Rebecca Romijn
+skipping movie: X-Men and adding cast member Rebecca Romijn
+skipping movie: X2: X-Men United and adding cast member Rebecca Romijn
+skipping movie: X-Men: The Last Stand and adding cast member Rebecca Romijn
+Processing movie: The Con Artist , RTapicalls at 21
+skipping movie: Man About Town and adding cast member Rebecca Romijn
+skipping movie: Godsend and adding cast member Rebecca Romijn
+Processing movie: Possessing Piper Rose , RTapicalls at 22
+
+Processing movie: Good Deeds , RTapicalls at 23
+skipping movie: X-Men: First Class and adding cast member Rebecca Romijn
+skipping movie: Dirty Work and adding cast member Rebecca Romijn
+Processing movie: Hefner: Unauthorized , RTapicalls at 24
+
+Processing movie: Bettie Page Reveals All , RTapicalls at 25
+==========================================
+Processing person: Agnes Moorehead11025 number 1640 out of 7103
+==========================================
+skipping movie: Citizen Kane and adding cast member Agnes Moorehead
+skipping movie: The Magnificent Ambersons and adding cast member Agnes Moorehead
+skipping movie: Hush...Hush, Sweet Charlotte and adding cast member Agnes Moorehead
+skipping movie: Magnificent Obsession and adding cast member Agnes Moorehead
+skipping movie: Charlotte's Web and adding cast member Agnes Moorehead
+skipping movie: Dark Passage and adding cast member Agnes Moorehead
+skipping movie: Journey Into Fear and adding cast member Agnes Moorehead
+skipping movie: Caged and adding cast member Agnes Moorehead
+skipping movie: Pollyanna and adding cast member Agnes Moorehead
+skipping movie: The Bat and adding cast member Agnes Moorehead
+skipping movie: Station West and adding cast member Agnes Moorehead
+skipping movie: The Conqueror and adding cast member Agnes Moorehead
+skipping movie: The Woman in White and adding cast member Agnes Moorehead
+skipping movie: Who's Minding the Store? and adding cast member Agnes Moorehead
+Processing movie: Untamed , RTapicalls at 26
+skipping movie: Jane Eyre and adding cast member Agnes Moorehead
+skipping movie: Since You Went Away and adding cast member Agnes Moorehead
+Processing movie: All That Heaven Allows , RTapicalls at 27
+skipping movie: Fourteen Hours and adding cast member Agnes Moorehead
+Processing movie: Without Honor , RTapicalls at 28
+skipping movie: Johnny Belinda and adding cast member Agnes Moorehead
+Processing movie: The Lost Moment , RTapicalls at 29
+
+Processing movie: Bachelor in Paradise , RTapicalls at 30
+Processing movie: Government Girl , RTapicalls at 31
+
+skipping movie: Mrs. Parkington and adding cast member Agnes Moorehead
+skipping movie: The Stratton Story and adding cast member Agnes Moorehead
+skipping movie: Twenty Plus Two and adding cast member Agnes Moorehead
+skipping movie: Raintree County and adding cast member Agnes Moorehead
+skipping movie: The Seventh Cross and adding cast member Agnes Moorehead
+skipping movie: The Singing Nun and adding cast member Agnes Moorehead
+skipping movie: The Opposite Sex and adding cast member Agnes Moorehead
+Processing movie: Tomorrow-the World! , RTapicalls at 32
+
+skipping movie: The Story of Mankind and adding cast member Agnes Moorehead
+skipping movie: What's the Matter with Helen? and adding cast member Agnes Moorehead
+Processing movie: Dear Dead Delilah , RTapicalls at 33
+skipping movie: The Big Street and adding cast member Agnes Moorehead
+skipping movie: Adventures of Captain Fabian and adding cast member Agnes Moorehead
+skipping movie: Dragon Seed and adding cast member Agnes Moorehead
+skipping movie: The Story of Three Loves and adding cast member Agnes Moorehead
+Processing movie: Meet Me in Las Vegas , RTapicalls at 34
+skipping movie: Show Boat and adding cast member Agnes Moorehead
+skipping movie: Pardners and adding cast member Agnes Moorehead
+skipping movie: Jeanne Eagels and adding cast member Agnes Moorehead
+skipping movie: Summer Holiday and adding cast member Agnes Moorehead
+skipping movie: The Revolt of Mamie Stover and adding cast member Agnes Moorehead
+skipping movie: The Great Sinner and adding cast member Agnes Moorehead
+Processing movie: Our Vines Have Tender Grapes , RTapicalls at 35
+skipping movie: The Left Hand of God and adding cast member Agnes Moorehead
+Processing movie: Those Redheads from Seattle , RTapicalls at 36
+skipping movie: Keep Your Powder Dry and adding cast member Agnes Moorehead
+skipping movie: The Ballad of Andy Crocker and adding cast member Agnes Moorehead
+skipping movie: The True Story of Jesse James and adding cast member Agnes Moorehead
+skipping movie: How the West Was Won and adding cast member Agnes Moorehead
+skipping movie: The Blue Veil and adding cast member Agnes Moorehead
+Processing movie: Night of the Quarter Moon , RTapicalls at 37
+
+skipping movie: Alice Through the Looking Glass and adding cast member Agnes Moorehead
+Processing movie: The Youngest Profession , RTapicalls at 38
+
+Processing movie: Rolling Man , RTapicalls at 39
+
+Processing movie: Scandal at Scourie , RTapicalls at 40
+
+==========================================
+Processing person: Ruth Warrick11026 number 1641 out of 7103
+==========================================
+skipping movie: Citizen Kane and adding cast member Ruth Warrick
+skipping movie: Daisy Kenyon and adding cast member Ruth Warrick
+skipping movie: Journey Into Fear and adding cast member Ruth Warrick
+skipping movie: Guest in the House and adding cast member Ruth Warrick
+skipping movie: Arch of Triumph and adding cast member Ruth Warrick
+skipping movie: Forever and a Day and adding cast member Ruth Warrick
+Processing movie: Song of the South , RTapicalls at 41
+skipping movie: Secret Command and adding cast member Ruth Warrick
+skipping movie: Death Mask and adding cast member Ruth Warrick
+skipping movie: Mr. Winkle Goes to War and adding cast member Ruth Warrick
+skipping movie: China Sky and adding cast member Ruth Warrick
+skipping movie: The Iron Major and adding cast member Ruth Warrick
+skipping movie: Driftwood and adding cast member Ruth Warrick
+Processing movie: Let's Dance , RTapicalls at 42
+Processing movie: Obliging Young Lady , RTapicalls at 43
+
+Processing movie: Petticoat Larceny , RTapicalls at 44
+
+==========================================
+Processing person: Everett Sloane11027 number 1642 out of 7103
+==========================================
+skipping movie: Citizen Kane and adding cast member Everett Sloane
+skipping movie: The Men and adding cast member Everett Sloane
+skipping movie: The Lady from Shanghai and adding cast member Everett Sloane
+skipping movie: Journey Into Fear and adding cast member Everett Sloane
+skipping movie: Jigsaw and adding cast member Everett Sloane
+skipping movie: The Desert Fox and adding cast member Everett Sloane
+skipping movie: The Enforcer and adding cast member Everett Sloane
+skipping movie: Somebody Up There Likes Me and adding cast member Everett Sloane
+skipping movie: Sirocco and adding cast member Everett Sloane
+skipping movie: The Disorderly Orderly and adding cast member Everett Sloane
+skipping movie: The Big Knife and adding cast member Everett Sloane
+skipping movie: The Patsy and adding cast member Everett Sloane
+Processing movie: The Sellout , RTapicalls at 45
+skipping movie: Prince of Foxes and adding cast member Everett Sloane
+Processing movie: Patterns , RTapicalls at 46
+Processing movie: The Prince Who Was a Thief , RTapicalls at 47
+
+Processing movie: The Gun Runners , RTapicalls at 48
+
+skipping movie: By Love Possessed and adding cast member Everett Sloane
+skipping movie: Marjorie Morningstar and adding cast member Everett Sloane
+skipping movie: Lust for Life and adding cast member Everett Sloane
+skipping movie: Home from the Hill and adding cast member Everett Sloane
+Processing movie: The Man From the Diner's Club , RTapicalls at 49
+skipping movie: The Blue Veil and adding cast member Everett Sloane
+skipping movie: Bird of Paradise and adding cast member Everett Sloane
+==========================================
+Processing person: George Coulouris11028 number 1643 out of 7103
+==========================================
+skipping movie: Citizen Kane and adding cast member George Coulouris
+Processing movie: Land Raiders , RTapicalls at 50
+skipping movie: Between Two Worlds and adding cast member George Coulouris
+skipping movie: Nobody Lives Forever and adding cast member George Coulouris
+skipping movie: Lady on a Train and adding cast member George Coulouris
+Processing movie: Tower of Evil , RTapicalls at 51
+skipping movie: The Verdict and adding cast member George Coulouris
+Processing movie: No Blade of Grass , RTapicalls at 52
+skipping movie: Arabesque and adding cast member George Coulouris
+skipping movie: This Land Is Mine and adding cast member George Coulouris
+skipping movie: Mr. Skeffington and adding cast member George Coulouris
+Processing movie: Kill or Be Killed , RTapicalls at 53
+skipping movie: None But the Lonely Heart and adding cast member George Coulouris
+Processing movie: The Runaway Bus , RTapicalls at 54
+Processing movie: The Woman Eater , RTapicalls at 55
+Processing movie: Where There's Life , RTapicalls at 56
+Processing movie: Doctor In The House , RTapicalls at 57
+skipping movie: Watch on the Rhine and adding cast member George Coulouris
+skipping movie: Sleep, My Love and adding cast member George Coulouris
+skipping movie: The Antichrist and adding cast member George Coulouris
+Processing movie: The Assassin , RTapicalls at 58
+Processing movie: Blood from the Mummy's Tomb , RTapicalls at 59
+skipping movie: Outcast of the Islands and adding cast member George Coulouris
+skipping movie: Kill Me Tomorrow and adding cast member George Coulouris
+Processing movie: Beyond Glory , RTapicalls at 60
+
+Processing movie: The Man Without a Body , RTapicalls at 61
+Processing movie: Mr. District Attorney , RTapicalls at 62
+
+skipping movie: The Heart of the Matter and adding cast member George Coulouris
+Processing movie: Mask of Dust , RTapicalls at 63
+
+skipping movie: Papillon and adding cast member George Coulouris
+skipping movie: Murder on the Orient Express and adding cast member George Coulouris
+skipping movie: Appointment with Venus and adding cast member George Coulouris
+skipping movie: The Skull and adding cast member George Coulouris
+Processing movie: The Big Money , RTapicalls at 64
+
+Processing movie: A Song to Remember , RTapicalls at 65
+skipping movie: Hotel Berlin and adding cast member George Coulouris
+skipping movie: The Lady in Question and adding cast member George Coulouris
+skipping movie: Bluebeard's Ten Honeymoons and adding cast member George Coulouris
+skipping movie: The Ritz and adding cast member George Coulouris
+Processing movie: Tarzan and the Lost Safari , RTapicalls at 66
+
+skipping movie: The Assassination Bureau and adding cast member George Coulouris
+Processing movie: Spy in the Sky! , RTapicalls at 67
+
+Processing movie: Surprise Package , RTapicalls at 68
+
+skipping movie: A Day to Remember and adding cast member George Coulouris
+Processing movie: The Teckman Mystery , RTapicalls at 69
+
+==========================================
+Processing person: Paul Stewart11033 number 1644 out of 7103
+==========================================
+skipping movie: Citizen Kane and adding cast member Paul Stewart
+skipping movie: The Greatest Story Ever Told and adding cast member Paul Stewart
+skipping movie: Revenge of the Pink Panther and adding cast member Paul Stewart
+skipping movie: Twelve O'Clock High and adding cast member Paul Stewart
+skipping movie: Kiss Me Deadly and adding cast member Paul Stewart
+skipping movie: King Creole and adding cast member Paul Stewart
+skipping movie: Appointment with Danger and adding cast member Paul Stewart
+skipping movie: Champion and adding cast member Paul Stewart
+Processing movie: The Window , RTapicalls at 70
+skipping movie: Opening Night and adding cast member Paul Stewart
+skipping movie: Edge of Doom and adding cast member Paul Stewart
+Processing movie: Illegal Entry , RTapicalls at 71
+skipping movie: Johnny Eager and adding cast member Paul Stewart
+skipping movie: City Beneath the Sea and adding cast member Paul Stewart
+skipping movie: In Cold Blood and adding cast member Paul Stewart
+skipping movie: Deadline - U.S.A. and adding cast member Paul Stewart
+skipping movie: Loan Shark and adding cast member Paul Stewart
+skipping movie: Hell on Frisco Bay and adding cast member Paul Stewart
+Processing movie: Government Girl , RTapicalls at 72
+
+skipping movie: The Pilot and adding cast member Paul Stewart
+skipping movie: Walk Softly, Stranger and adding cast member Paul Stewart
+skipping movie: The Wild Party and adding cast member Paul Stewart
+skipping movie: The Bad and the Beautiful and adding cast member Paul Stewart
+skipping movie: Easy Living and adding cast member Paul Stewart
+skipping movie: Top Secret Affair and adding cast member Paul Stewart
+skipping movie: The Cobweb and adding cast member Paul Stewart
+skipping movie: We're Not Married! and adding cast member Paul Stewart
+skipping movie: Mr. Lucky and adding cast member Paul Stewart
+skipping movie: The Joe Louis Story and adding cast member Paul Stewart
+Processing movie: Chicago Syndicate , RTapicalls at 73
+skipping movie: The Dain Curse and adding cast member Paul Stewart
+skipping movie: W.C. Fields and Me and adding cast member Paul Stewart
+==========================================
+Processing person: Robert Towne11057 number 1645 out of 7103
+==========================================
+skipping movie: Chinatown and adding cast member Robert Towne
+skipping movie: Mission: Impossible and adding cast member Robert Towne
+skipping movie: Mission: Impossible II and adding cast member Robert Towne
+Processing movie: Ask the Dust , RTapicalls at 74
+skipping movie: Ask the Dust and adding cast member Robert Towne
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Days of Thunder and adding cast member Robert Towne
+skipping movie: Tequila Sunrise and adding cast member Robert Towne
+skipping movie: Orca: The Killer Whale and adding cast member Robert Towne
+skipping movie: The Last Detail and adding cast member Robert Towne
+skipping movie: The Tomb of Ligeia and adding cast member Robert Towne
+skipping movie: Shampoo and adding cast member Robert Towne
+skipping movie: The Two Jakes and adding cast member Robert Towne
+skipping movie: The Yakuza and adding cast member Robert Towne
+skipping movie: Tequila Sunrise and adding cast member Robert Towne
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Without Limits and adding cast member Robert Towne
+skipping movie: Without Limits and adding cast member Robert Towne
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+Processing movie: Last Woman on Earth , RTapicalls at 75
+skipping movie: Greystoke: The Legend of Tarzan, Lord of the Apes and adding cast member Robert Towne
+skipping movie: Bonnie and Clyde and adding cast member Robert Towne
+skipping movie: Villa Rides and adding cast member Robert Towne
+skipping movie: The Firm and adding cast member Robert Towne
+skipping movie: Personal Best and adding cast member Robert Towne
+skipping movie: Personal Best and adding cast member Robert Towne
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+==========================================
+Processing person: David Strathairn11064 number 1646 out of 7103
+==========================================
+Processing movie: The Miracle Worker , RTapicalls at 76
+skipping movie: City of Hope and adding cast member David Strathairn
+skipping movie: My Blueberry Nights and adding cast member David Strathairn
+skipping movie: L.A. Confidential and adding cast member David Strathairn
+skipping movie: Sneakers and adding cast member David Strathairn
+skipping movie: The Bourne Ultimatum and adding cast member David Strathairn
+skipping movie: Good Night, and Good Luck. and adding cast member David Strathairn
+skipping movie: Fracture and adding cast member David Strathairn
+skipping movie: The Spiderwick Chronicles and adding cast member David Strathairn
+skipping movie: The River Wild and adding cast member David Strathairn
+skipping movie: Bob Roberts and adding cast member David Strathairn
+Processing movie: We Are Marshall , RTapicalls at 77
+skipping movie: Twisted and adding cast member David Strathairn
+skipping movie: At Close Range and adding cast member David Strathairn
+skipping movie: Missing in America and adding cast member David Strathairn
+Processing movie: The Uninvited , RTapicalls at 78
+skipping movie: The Notorious Bettie Page and adding cast member David Strathairn
+skipping movie: Matewan and adding cast member David Strathairn
+skipping movie: Iceman and adding cast member David Strathairn
+Processing movie: The Brother From Another Planet , RTapicalls at 79
+
+skipping movie: Losing Isaiah and adding cast member David Strathairn
+skipping movie: Cold Souls and adding cast member David Strathairn
+skipping movie: Temple Grandin and adding cast member David Strathairn
+skipping movie: The Firm and adding cast member David Strathairn
+skipping movie: Harrison's Flowers and adding cast member David Strathairn
+skipping movie: Day One and adding cast member David Strathairn
+Processing movie: Steel Toes , RTapicalls at 80
+skipping movie: A League of Their Own and adding cast member David Strathairn
+Processing movie: The Sensation Of Sight , RTapicalls at 81
+skipping movie: The Tempest and adding cast member David Strathairn
+skipping movie: Howl and adding cast member David Strathairn
+skipping movie: Blue Car and adding cast member David Strathairn
+skipping movie: Heavens Fall and adding cast member David Strathairn
+skipping movie: Lathe of Heaven and adding cast member David Strathairn
+skipping movie: O Pioneers! and adding cast member David Strathairn
+skipping movie: Master Spy: The Robert Hanssen Story and adding cast member David Strathairn
+skipping movie: Limbo and adding cast member David Strathairn
+skipping movie: Racing Daylight and adding cast member David Strathairn
+skipping movie: The Whistleblower and adding cast member David Strathairn
+Processing movie: Lovesick , RTapicalls at 82
+Processing movie: The Giraffe , RTapicalls at 83
+Processing movie: Relative Evil , RTapicalls at 84
+skipping movie: Call Me and adding cast member David Strathairn
+skipping movie: Speakeasy and adding cast member David Strathairn
+skipping movie: The Bourne Legacy and adding cast member David Strathairn
+skipping movie: A Midsummer Night's Dream and adding cast member David Strathairn
+skipping movie: A Map of the World and adding cast member David Strathairn
+skipping movie: A Dangerous Woman and adding cast member David Strathairn
+skipping movie: Hemingway & Gellhorn and adding cast member David Strathairn
+Processing movie: Big Girls Don't Cry... They Get Even , RTapicalls at 85
+skipping movie: Dolores Claiborne and adding cast member David Strathairn
+skipping movie: Love, Marilyn and adding cast member David Strathairn
+skipping movie: Lincoln and adding cast member David Strathairn
+skipping movie: A Good Baby and adding cast member David Strathairn
+skipping movie: The Climb and adding cast member David Strathairn
+skipping movie: Eight Men Out and adding cast member David Strathairn
+skipping movie: Beyond the Call and adding cast member David Strathairn
+Processing movie: Maladies , RTapicalls at 86
+skipping movie: Silkwood and adding cast member David Strathairn
+Processing movie: Inside Area 51 Secrets , RTapicalls at 87
+
+skipping movie: Song of Hiawatha and adding cast member David Strathairn
+skipping movie: Passion Fish and adding cast member David Strathairn
+skipping movie: Home for the Holidays and adding cast member David Strathairn
+skipping movie: Godzilla and adding cast member David Strathairn
+skipping movie: Without Warning: The James Brady Story and adding cast member David Strathairn
+Processing movie: Enormous Changes at the Last Minute , RTapicalls at 88
+
+Processing movie: No God, No Master , RTapicalls at 89
+==========================================
+Processing person: Wilford Brimley11065 number 1647 out of 7103
+==========================================
+skipping movie: The China Syndrome and adding cast member Wilford Brimley
+skipping movie: The Thing and adding cast member Wilford Brimley
+skipping movie: Borderline and adding cast member Wilford Brimley
+skipping movie: Cocoon and adding cast member Wilford Brimley
+skipping movie: Ewoks: The Battle for Endor and adding cast member Wilford Brimley
+skipping movie: Remo Williams: The Adventure Begins... and adding cast member Wilford Brimley
+skipping movie: Cocoon: The Return and adding cast member Wilford Brimley
+skipping movie: The Natural and adding cast member Wilford Brimley
+skipping movie: 10 to Midnight and adding cast member Wilford Brimley
+Processing movie: High Road to China , RTapicalls at 90
+skipping movie: The Firm and adding cast member Wilford Brimley
+Processing movie: Crossfire Trail , RTapicalls at 91
+skipping movie: Tender Mercies and adding cast member Wilford Brimley
+skipping movie: Tough Enough and adding cast member Wilford Brimley
+Processing movie: Brigham City , RTapicalls at 92
+Processing movie: A Place to Grow , RTapicalls at 93
+skipping movie: Death Valley and adding cast member Wilford Brimley
+skipping movie: My Fellow Americans and adding cast member Wilford Brimley
+skipping movie: Absence of Malice and adding cast member Wilford Brimley
+skipping movie: Harry & Son and adding cast member Wilford Brimley
+skipping movie: Mutant Species and adding cast member Wilford Brimley
+skipping movie: OP Center and adding cast member Wilford Brimley
+Processing movie: Where the Red Fern Grows 2:  The Homecoming , RTapicalls at 94
+
+skipping movie: Country and adding cast member Wilford Brimley
+skipping movie: The Stone Boy and adding cast member Wilford Brimley
+skipping movie: Hard Target and adding cast member Wilford Brimley
+Processing movie: Heaven Sent , RTapicalls at 95
+skipping movie: Progeny and adding cast member Wilford Brimley
+skipping movie: In & Out and adding cast member Wilford Brimley
+Processing movie: Eternity , RTapicalls at 96
+skipping movie: Murder in Space and adding cast member Wilford Brimley
+Processing movie: Thompson's Last Run , RTapicalls at 97
+Processing movie: Shadows on the Wall , RTapicalls at 98
+
+skipping movie: End of the Line and adding cast member Wilford Brimley
+Processing movie: Summer of the Monkeys , RTapicalls at 99
+==========================================
+Processing person: Hal Holbrook11066 number 1648 out of 7103
+==========================================
+skipping movie: The Fog and adding cast member Hal Holbrook
+skipping movie: All the President's Men and adding cast member Hal Holbrook
+skipping movie: The Bachelor and adding cast member Hal Holbrook
+Processing movie: The Battle of The Alamo , RTapicalls at 100
+skipping movie: Into the Wild and adding cast member Hal Holbrook
+skipping movie: Magnum Force and adding cast member Hal Holbrook
+skipping movie: The Majestic and adding cast member Hal Holbrook
+skipping movie: Midway and adding cast member Hal Holbrook
+skipping movie: Capricorn One and adding cast member Hal Holbrook
+skipping movie: The Star Chamber and adding cast member Hal Holbrook
+skipping movie: Killshot and adding cast member Hal Holbrook
+skipping movie: Creepshow and adding cast member Hal Holbrook
+skipping movie: Judas Kiss and adding cast member Hal Holbrook
+skipping movie: The Firm and adding cast member Hal Holbrook
+skipping movie: That Evening Sun and adding cast member Hal Holbrook
+skipping movie: Day One and adding cast member Hal Holbrook
+skipping movie: Fletch Lives and adding cast member Hal Holbrook
+skipping movie: Girls Nite Out and adding cast member Hal Holbrook
+skipping movie: Good Day for It and adding cast member Hal Holbrook
+skipping movie: Water for Elephants and adding cast member Hal Holbrook
+skipping movie: The Girl from Petrovka and adding cast member Hal Holbrook
+Processing movie: Trail of Hope , RTapicalls at 101
+skipping movie: They Only Kill Their Masters and adding cast member Hal Holbrook
+skipping movie: Julia and adding cast member Hal Holbrook
+skipping movie: Eye of God and adding cast member Hal Holbrook
+Processing movie: Stormchasers , RTapicalls at 102
+Processing movie: Purpose , RTapicalls at 103
+skipping movie: Wall Street and adding cast member Hal Holbrook
+Processing movie: Rituals , RTapicalls at 104
+skipping movie: Flying Lessons and adding cast member Hal Holbrook
+Processing movie: Mark Twain Tonight! , RTapicalls at 105
+Processing movie: The Killing of Randy Webster , RTapicalls at 106
+
+skipping movie: Natural Enemies and adding cast member Hal Holbrook
+skipping movie: The Kidnapping Of The President and adding cast member Hal Holbrook
+Processing movie: Rusty: A Dog's Tale , RTapicalls at 107
+
+Processing movie: My Own Country , RTapicalls at 108
+skipping movie: Wild in the Streets and adding cast member Hal Holbrook
+skipping movie: Hercules and adding cast member Hal Holbrook
+skipping movie: The Florentine and adding cast member Hal Holbrook
+skipping movie: Haven and adding cast member Hal Holbrook
+skipping movie: Promised Land and adding cast member Hal Holbrook
+skipping movie: Our Town and adding cast member Hal Holbrook
+skipping movie: The People Next Door and adding cast member Hal Holbrook
+skipping movie: Carried Away and adding cast member Hal Holbrook
+Processing movie: The Life & Adventures of Santa Claus , RTapicalls at 109
+Processing movie: Mark Twain - A Film Directed by Ken Burns , RTapicalls at 110
+
+skipping movie: Dress Gray and adding cast member Hal Holbrook
+skipping movie: Lincoln and adding cast member Hal Holbrook
+skipping movie: Hush and adding cast member Hal Holbrook
+Processing movie: That Certain Summer , RTapicalls at 111
+
+Processing movie: Eastwood Directs: The Untold Story , RTapicalls at 112
+
+Processing movie: The Unholy , RTapicalls at 113
+Processing movie: Off the Minnesota Strip , RTapicalls at 114
+
+skipping movie: Savannah and adding cast member Hal Holbrook
+skipping movie: Waking the Dead and adding cast member Hal Holbrook
+Processing movie: A Perry Mason Mystery: The Case of the Grimacing Governer , RTapicalls at 115
+
+Processing movie: A Perry Mason Mystery: The Case of the Jealous Jokester , RTapicalls at 116
+Processing movie: A Perry Mason Mystery: The Case of the Lethal Lifestyle , RTapicalls at 117
+==========================================
+Processing person: Anthony Edwards11085 number 1649 out of 7103
+==========================================
+skipping movie: Top Gun and adding cast member Anthony Edwards
+skipping movie: Playing by Heart and adding cast member Anthony Edwards
+skipping movie: Zodiac and adding cast member Anthony Edwards
+skipping movie: The Sure Thing and adding cast member Anthony Edwards
+skipping movie: The Forgotten and adding cast member Anthony Edwards
+skipping movie: Pet Sematary II and adding cast member Anthony Edwards
+skipping movie: Revenge of the Nerds and adding cast member Anthony Edwards
+skipping movie: Motherhood and adding cast member Anthony Edwards
+Processing movie: The Dark Lurking , RTapicalls at 118
+skipping movie: Miracle Mile and adding cast member Anthony Edwards
+skipping movie: Gotcha! and adding cast member Anthony Edwards
+skipping movie: Heart Like A Wheel and adding cast member Anthony Edwards
+skipping movie: High School U.S.A. and adding cast member Anthony Edwards
+skipping movie: Flipped and adding cast member Anthony Edwards
+skipping movie: Thunderbirds and adding cast member Anthony Edwards
+skipping movie: Downtown and adding cast member Anthony Edwards
+skipping movie: How I Got Into College and adding cast member Anthony Edwards
+Processing movie: El Diablo , RTapicalls at 119
+skipping movie: The Client and adding cast member Anthony Edwards
+Processing movie: Revenge of the Nerds II: Nerds in Paradise , RTapicalls at 120
+skipping movie: Mr. North and adding cast member Anthony Edwards
+skipping movie: Fast Times at Ridgemont High and adding cast member Anthony Edwards
+skipping movie: Summer Heat and adding cast member Anthony Edwards
+skipping movie: In Cold Blood and adding cast member Anthony Edwards
+Processing movie: Hawks , RTapicalls at 121
+skipping movie: Northfork and adding cast member Anthony Edwards
+skipping movie: Charlie's Ghost Story and adding cast member Anthony Edwards
+skipping movie: Big Sur and adding cast member Anthony Edwards
+skipping movie: Planes and adding cast member Anthony Edwards
+skipping movie: Jackpot and adding cast member Anthony Edwards
+skipping movie: Don't Go Breaking My Heart and adding cast member Anthony Edwards
+skipping movie: Delta Heat and adding cast member Anthony Edwards
+==========================================
+Processing person: Michael Ironside11086 number 1650 out of 7103
+==========================================
+skipping movie: Terminator Salvation and adding cast member Michael Ironside
+skipping movie: Starship Troopers and adding cast member Michael Ironside
+skipping movie: Top Gun and adding cast member Michael Ironside
+skipping movie: Total Recall and adding cast member Michael Ironside
+skipping movie: Free Willy and adding cast member Michael Ironside
+Processing movie: Bloodsuckers , RTapicalls at 122
+skipping movie: Deepwater and adding cast member Michael Ironside
+skipping movie: The Veteran and adding cast member Michael Ironside
+skipping movie: Surveillance and adding cast member Michael Ironside
+skipping movie: The Next Karate Kid and adding cast member Michael Ironside
+Processing movie: Reeker , RTapicalls at 123
+Processing movie: Heavy Metal 2000 , RTapicalls at 124
+skipping movie: Extreme Prejudice and adding cast member Michael Ironside
+Processing movie: Fallen Angels , RTapicalls at 125
+skipping movie: Hardwired and adding cast member Michael Ironside
+skipping movie: Mutants and adding cast member Michael Ironside
+skipping movie: Spacehunter : Adventures in the Forbidden Zone and adding cast member Michael Ironside
+Processing movie: Stone Cold Dead , RTapicalls at 126
+Processing movie: Save Me , RTapicalls at 127
+skipping movie: The Arrow and adding cast member Michael Ironside
+skipping movie: Children of the Corn: Revelation and adding cast member Michael Ironside
+skipping movie: Visiting Hours and adding cast member Michael Ironside
+Processing movie: Beneath the Blue , RTapicalls at 128
+Processing movie: Forced to Kill , RTapicalls at 129
+skipping movie: Major Payne and adding cast member Michael Ironside
+Processing movie: Extreme Honor , RTapicalls at 130
+Processing movie: Point of Impact , RTapicalls at 131
+skipping movie: McBain and adding cast member Michael Ironside
+skipping movie: Sweet Killing and adding cast member Michael Ironside
+Processing movie: The Bannen Way , RTapicalls at 132
+
+Processing movie: Destiny To Order , RTapicalls at 133
+
+Processing movie: Hello Mary Lou: Prom Night II , RTapicalls at 134
+skipping movie: The Shaft and adding cast member Michael Ironside
+skipping movie: Jo Jo Dancer, Your Life Is Calling and adding cast member Michael Ironside
+skipping movie: Father Hood and adding cast member Michael Ironside
+Processing movie: Guy X , RTapicalls at 135
+skipping movie: The Alphabet Killer and adding cast member Michael Ironside
+skipping movie: The Machinist and adding cast member Michael Ironside
+skipping movie: Highlander II: The Quickening and adding cast member Michael Ironside
+Processing movie: The Omega Code , RTapicalls at 136
+Processing movie: Johnny 2.0 , RTapicalls at 137
+Processing movie: Captive , RTapicalls at 138
+Processing movie: Dark Rising 2:  Summer Strikes Back , RTapicalls at 139
+Processing movie: Crime and Punishment in Suburbia , RTapicalls at 140
+
+Processing movie: The Red Phone: Checkmate , RTapicalls at 141
+
+Processing movie: Black Light , RTapicalls at 142
+skipping movie: Dead Awake and adding cast member Michael Ironside
+Processing movie: Hostile Takeover , RTapicalls at 143
+skipping movie: Ford: The Man and the Machine and adding cast member Michael Ironside
+Processing movie: Burden of Evil , RTapicalls at 144
+
+Processing movie: The Terrorist Next Door , RTapicalls at 145
+Processing movie: Dark Prophecy , RTapicalls at 146
+skipping movie: Best Revenge and adding cast member Michael Ironside
+Processing movie: Transgression , RTapicalls at 147
+Processing movie: American Nightmare , RTapicalls at 148
+skipping movie: Deadly Surveillance and adding cast member Michael Ironside
+Processing movie: Disaster Zone: Volcano in New York , RTapicalls at 149
+Processing movie: Blood Money , RTapicalls at 150
+skipping movie: Chicago Cab and adding cast member Michael Ironside
+skipping movie: The Perfect Storm and adding cast member Michael Ironside
+skipping movie: Scanners and adding cast member Michael Ironside
+Processing movie: Watchers , RTapicalls at 151
+Processing movie: One Way Out , RTapicalls at 152
+Processing movie: Nowhere to Hide , RTapicalls at 153
+Processing movie: Neon City , RTapicalls at 154
+Processing movie: V: The Final Battle , RTapicalls at 155
+
+Processing movie: Red Sun Rising , RTapicalls at 156
+Processing movie: High Ballin' , RTapicalls at 157
+
+Processing movie: The Killing Machine , RTapicalls at 158
+skipping movie: X-Men: First Class and adding cast member Michael Ironside
+Processing movie: Maximum Velocity , RTapicalls at 159
+skipping movie: Marked for Murder and adding cast member Michael Ironside
+skipping movie: Desert Blue and adding cast member Michael Ironside
+skipping movie: Dead Man's Revenge and adding cast member Michael Ironside
+skipping movie: Coming Out Alive and adding cast member Michael Ironside
+Processing movie: Stay , RTapicalls at 160
+Processing movie: Borderline Normal , RTapicalls at 161
+
+Processing movie: Cold Night Into Dawn , RTapicalls at 162
+
+skipping movie: Murder in Space and adding cast member Michael Ironside
+Processing movie: Transformers Prime Beast Hunters: Predacons Rising , RTapicalls at 163
+skipping movie: The Vagrant and adding cast member Michael Ironside
+Processing movie: The Surrogate , RTapicalls at 164
+skipping movie: Killer Image and adding cast member Michael Ironside
+skipping movie: Mindfield and adding cast member Michael Ironside
+==========================================
+Processing person: Brett Ratner11091 number 1651 out of 7103
+==========================================
+skipping movie: Rush Hour and adding cast member Brett Ratner
+skipping movie: Rush Hour 3 and adding cast member Brett Ratner
+skipping movie: Rush Hour 2 and adding cast member Brett Ratner
+skipping movie: The Family Man and adding cast member Brett Ratner
+skipping movie: Running Scared and adding cast member Brett Ratner
+skipping movie: Running Scared and adding cast member Brett Ratner
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: 21 and adding cast member Brett Ratner
+skipping movie: 21 and adding cast member Brett Ratner
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Money Talks and adding cast member Brett Ratner
+skipping movie: Red Dragon and adding cast member Brett Ratner
+skipping movie: After the Sunset and adding cast member Brett Ratner
+skipping movie: New York, I Love You and adding cast member Brett Ratner
+skipping movie: Santa's Slay and adding cast member Brett Ratner
+skipping movie: X-Men: The Last Stand and adding cast member Brett Ratner
+Processing movie: Skyline , RTapicalls at 165
+skipping movie: Horrible Bosses and adding cast member Brett Ratner
+skipping movie: Tower Heist and adding cast member Brett Ratner
+skipping movie: Movie 43 and adding cast member Brett Ratner
+skipping movie: Mirror Mirror and adding cast member Brett Ratner
+skipping movie: Hercules: The Thracian Wars and adding cast member Brett Ratner
+Processing movie: Whatever Happened to Mason Reese , RTapicalls at 166
+
+Processing movie: Whatever Happened to Mason Reese , RTapicalls at 167
+
+==========================================
+Processing person: Ben Foster11107 number 1652 out of 7103
+==========================================
+skipping movie: Hostage and adding cast member Ben Foster
+skipping movie: Big Trouble and adding cast member Ben Foster
+skipping movie: 30 Days of Night and adding cast member Ben Foster
+skipping movie: 3:10 to Yuma and adding cast member Ben Foster
+skipping movie: The Punisher and adding cast member Ben Foster
+skipping movie: Alpha Dog and adding cast member Ben Foster
+skipping movie: Get Over It and adding cast member Ben Foster
+skipping movie: Birds of America and adding cast member Ben Foster
+Processing movie: Bang Bang You're Dead , RTapicalls at 168
+skipping movie: Pandorum and adding cast member Ben Foster
+skipping movie: The Messenger and adding cast member Ben Foster
+skipping movie: X-Men: The Last Stand and adding cast member Ben Foster
+skipping movie: 11:14 and adding cast member Ben Foster
+Processing movie: The Mechanic , RTapicalls at 169
+skipping movie: Liberty Heights and adding cast member Ben Foster
+skipping movie: Contraband and adding cast member Ben Foster
+skipping movie: Rampart and adding cast member Ben Foster
+skipping movie: 360 and adding cast member Ben Foster
+Processing movie: Breakfast with Einstein , RTapicalls at 170
+
+Processing movie: Here , RTapicalls at 171
+skipping movie: Love, Marilyn and adding cast member Ben Foster
+skipping movie: Northfork and adding cast member Ben Foster
+skipping movie: Ain't Them Bodies Saints and adding cast member Ben Foster
+Processing movie: Kill Your Darlings , RTapicalls at 172
+skipping movie: The Heart is Deceitful Above All Things and adding cast member Ben Foster
+skipping movie: Lone Survivor and adding cast member Ben Foster
+==========================================
+Processing person: George Pollock11118 number 1653 out of 7103
+==========================================
+Processing movie: Murder She Said , RTapicalls at 173
+skipping movie: Murder at the Gallop and adding cast member George Pollock
+Processing movie: Murder Most Foul , RTapicalls at 174
+Processing movie: Murder Ahoy , RTapicalls at 175
+Processing movie: Ten Little Indians , RTapicalls at 176
+Processing movie: The First of the Few , RTapicalls at 177
+Processing movie: And the Same to You , RTapicalls at 178
+Processing movie: Stranger in Town , RTapicalls at 179
+Processing movie: Village of Daughters , RTapicalls at 180
+
+Processing movie: Rooney , RTapicalls at 181
+==========================================
+Processing person: Margaret Rutherford11127 number 1654 out of 7103
+==========================================
+skipping movie: Murder She Said and adding cast member Margaret Rutherford
+skipping movie: Murder at the Gallop and adding cast member Margaret Rutherford
+skipping movie: Murder Most Foul and adding cast member Margaret Rutherford
+skipping movie: Murder Ahoy and adding cast member Margaret Rutherford
+skipping movie: Chimes at Midnight and adding cast member Margaret Rutherford
+skipping movie: A Countess from Hong Kong and adding cast member Margaret Rutherford
+Processing movie: The Alphabet Murders , RTapicalls at 182
+
+skipping movie: Blithe Spirit and adding cast member Margaret Rutherford
+skipping movie: The Importance of Being Earnest and adding cast member Margaret Rutherford
+Processing movie: Passport to Pimlico , RTapicalls at 183
+skipping movie: The Smallest Show on Earth and adding cast member Margaret Rutherford
+skipping movie: The V.I.P.s and adding cast member Margaret Rutherford
+skipping movie: I'm All Right Jack and adding cast member Margaret Rutherford
+Processing movie: The Mouse on the Moon , RTapicalls at 184
+skipping movie: The Runaway Bus and adding cast member Margaret Rutherford
+Processing movie: The Happiest Days of Your Life , RTapicalls at 185
+skipping movie: Miranda and adding cast member Margaret Rutherford
+skipping movie: Mad About Men and adding cast member Margaret Rutherford
+Processing movie: On the Double , RTapicalls at 186
+Processing movie: Die wahre Miss Marple - Der Fall Margaret Rutherford , RTapicalls at 187
+
+skipping movie: Innocents in Paris and adding cast member Margaret Rutherford
+Processing movie: English Without Tears , RTapicalls at 188
+
+skipping movie: Yellow Canary and adding cast member Margaret Rutherford
+skipping movie: Miss Robin Hood and adding cast member Margaret Rutherford
+Processing movie: Hideout in the Alps , RTapicalls at 189
+
+==========================================
+Processing person: Arthur Kennedy11128 number 1655 out of 7103
+==========================================
+skipping movie: Murder She Said and adding cast member Arthur Kennedy
+skipping movie: Lawrence of Arabia and adding cast member Arthur Kennedy
+skipping movie: Fantastic Voyage and adding cast member Arthur Kennedy
+Processing movie: Shark! , RTapicalls at 190
+skipping movie: Nevada Smith and adding cast member Arthur Kennedy
+skipping movie: Air Force and adding cast member Arthur Kennedy
+skipping movie: They Died With Their Boots On and adding cast member Arthur Kennedy
+skipping movie: The Desperate Hours and adding cast member Arthur Kennedy
+skipping movie: Boomerang! and adding cast member Arthur Kennedy
+skipping movie: Barabbas and adding cast member Arthur Kennedy
+skipping movie: Champion and adding cast member Arthur Kennedy
+Processing movie: Too Late for Tears , RTapicalls at 191
+skipping movie: High Sierra and adding cast member Arthur Kennedy
+skipping movie: Rancho Notorious and adding cast member Arthur Kennedy
+skipping movie: City for Conquest and adding cast member Arthur Kennedy
+skipping movie: The Window and adding cast member Arthur Kennedy
+Processing movie: Chicago Deadline , RTapicalls at 192
+Processing movie: Crashout , RTapicalls at 193
+skipping movie: Bend of the River and adding cast member Arthur Kennedy
+skipping movie: The Sentinel and adding cast member Arthur Kennedy
+Processing movie: The Memphis Belle: A Story of a Flying Fortress , RTapicalls at 194
+skipping movie: The Man from Laramie and adding cast member Arthur Kennedy
+Processing movie: Impulse , RTapicalls at 195
+skipping movie: Highway West and adding cast member Arthur Kennedy
+skipping movie: Strange Alibi and adding cast member Arthur Kennedy
+skipping movie: Elmer Gantry and adding cast member Arthur Kennedy
+Processing movie: A Summer Place , RTapicalls at 196
+skipping movie: Desperate Journey and adding cast member Arthur Kennedy
+skipping movie: The Glass Menagerie and adding cast member Arthur Kennedy
+Processing movie: The Living Dead at Manchester Morgue , RTapicalls at 197
+
+skipping movie: Some Came Running and adding cast member Arthur Kennedy
+skipping movie: Day of the Evil Gun and adding cast member Arthur Kennedy
+skipping movie: Signs of Life and adding cast member Arthur Kennedy
+skipping movie: The Antichrist and adding cast member Arthur Kennedy
+skipping movie: Peyton Place and adding cast member Arthur Kennedy
+skipping movie: The Lusty Men and adding cast member Arthur Kennedy
+Processing movie: Twilight for the Gods , RTapicalls at 198
+
+skipping movie: A Minute To Pray, A Second To Die and adding cast member Arthur Kennedy
+Processing movie: Killer Cop , RTapicalls at 199
+skipping movie: Crawlspace and adding cast member Arthur Kennedy
+skipping movie: Devotion and adding cast member Arthur Kennedy
+Processing movie: Murieta , RTapicalls at 200
+skipping movie: Cyclone and adding cast member Arthur Kennedy
+skipping movie: Bright Victory and adding cast member Arthur Kennedy
+Processing movie: Hemingway's Adventures of a Young Man , RTapicalls at 201
+
+skipping movie: Cheyenne Autumn and adding cast member Arthur Kennedy
+skipping movie: Trial and adding cast member Arthur Kennedy
+skipping movie: Anzio and adding cast member Arthur Kennedy
+Processing movie: The Naked Dawn , RTapicalls at 202
+
+Processing movie: Covert Action , RTapicalls at 203
+Processing movie: Claudelle Inglish , RTapicalls at 204
+
+Processing movie: Joy in the Morning , RTapicalls at 205
+skipping movie: Red Mountain and adding cast member Arthur Kennedy
+Processing movie: The Rawhide Years , RTapicalls at 206
+
+skipping movie: Cheyenne and adding cast member Arthur Kennedy
+Processing movie: The Girl In White , RTapicalls at 207
+Processing movie: Bad Men of Missouri , RTapicalls at 208
+
+Processing movie: Resisting Enemy Interrogation , RTapicalls at 209
+
+skipping movie: Knockout and adding cast member Arthur Kennedy
+Processing movie: L'umanoide , RTapicalls at 210
+Processing movie: Rome, Armed to the Teeth , RTapicalls at 211
+Processing movie: Porco mondo , RTapicalls at 212
+
+==========================================
+Processing person: Muriel Pavlow11129 number 1656 out of 7103
+==========================================
+skipping movie: Murder She Said and adding cast member Muriel Pavlow
+Processing movie: Reach for the Sky , RTapicalls at 213
+skipping movie: Glorious 39 and adding cast member Muriel Pavlow
+skipping movie: Belonging and adding cast member Muriel Pavlow
+skipping movie: Doctor In The House and adding cast member Muriel Pavlow
+Processing movie: Tiger in the Smoke , RTapicalls at 214
+
+Processing movie: The Shop at Sly Corner , RTapicalls at 215
+
+Processing movie: Night Boat to Dublin , RTapicalls at 216
+
+Processing movie: Simon And Laura , RTapicalls at 217
+Processing movie: Malta Story , RTapicalls at 218
+Processing movie: Eyewitness , RTapicalls at 219
+skipping movie: Whirlpool and adding cast member Muriel Pavlow
+Processing movie: Doctor at Large , RTapicalls at 220
+==========================================
+Processing person: James Robertson Justice11130 number 1657 out of 7103
+==========================================
+skipping movie: Murder She Said and adding cast member James Robertson Justice
+skipping movie: The Face of Fu Manchu and adding cast member James Robertson Justice
+skipping movie: Moby Dick and adding cast member James Robertson Justice
+skipping movie: Captain Horatio Hornblower R.N. and adding cast member James Robertson Justice
+skipping movie: Orders to Kill and adding cast member James Robertson Justice
+skipping movie: The Iron Petticoat and adding cast member James Robertson Justice
+Processing movie: Raising the Wind , RTapicalls at 221
+skipping movie: The Guns of Navarone and adding cast member James Robertson Justice
+Processing movie: Scott of the Antarctic , RTapicalls at 222
+skipping movie: The Fast Lady and adding cast member James Robertson Justice
+skipping movie: The Sword and the Rose and adding cast member James Robertson Justice
+skipping movie: Doctor In The House and adding cast member James Robertson Justice
+Processing movie: The Story of Robin Hood and His Merrie Men , RTapicalls at 223
+skipping movie: The Magnet and adding cast member James Robertson Justice
+Processing movie: The Voice of Merrill , RTapicalls at 224
+
+skipping movie: Two Weeks in September and adding cast member James Robertson Justice
+skipping movie: For Those in Peril and adding cast member James Robertson Justice
+skipping movie: Against the Wind and adding cast member James Robertson Justice
+Processing movie: My Daughter Joy , RTapicalls at 225
+
+Processing movie: Zeta One , RTapicalls at 226
+skipping movie: Les Miserables and adding cast member James Robertson Justice
+Processing movie: Very Important Person , RTapicalls at 227
+Processing movie: Seven Thunders , RTapicalls at 228
+Processing movie: Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 hours 11 minutes , RTapicalls at 229
+
+skipping movie: Above Us The Waves and adding cast member James Robertson Justice
+skipping movie: Anne of the Indies and adding cast member James Robertson Justice
+skipping movie: Campbell's Kingdom and adding cast member James Robertson Justice
+Processing movie: Whisky Galore! , RTapicalls at 230
+skipping movie: Doctor at Sea and adding cast member James Robertson Justice
+Processing movie: Some Will, Some Won't , RTapicalls at 231
+
+Processing movie: Checkpoint , RTapicalls at 232
+skipping movie: Doctor at Large and adding cast member James Robertson Justice
+skipping movie: Blackmailed and adding cast member James Robertson Justice
+Processing movie: Land of the Pharaohs , RTapicalls at 233
+Processing movie: Father Came Too! , RTapicalls at 234
+
+skipping movie: Crooks Anonymous and adding cast member James Robertson Justice
+Processing movie: A French Mistress , RTapicalls at 235
+
+Processing movie: The Lady Says No , RTapicalls at 236
+skipping movie: Doctor in Distress and adding cast member James Robertson Justice
+Processing movie: The Living Idol , RTapicalls at 237
+skipping movie: Spirits of the Dead and adding cast member James Robertson Justice
+Processing movie: Doctor in Love , RTapicalls at 238
+Processing movie: Doctor in Clover , RTapicalls at 239
+Processing movie: Storm over the Nile , RTapicalls at 240
+skipping movie: Prelude to Fame and adding cast member James Robertson Justice
+==========================================
+Processing person: Bud Tingwell11132 number 1658 out of 7103
+==========================================
+skipping movie: Murder She Said and adding cast member Bud Tingwell
+skipping movie: Murder at the Gallop and adding cast member Bud Tingwell
+skipping movie: Murder Most Foul and adding cast member Bud Tingwell
+skipping movie: Murder Ahoy and adding cast member Bud Tingwell
+skipping movie: WillFull and adding cast member Bud Tingwell
+Processing movie: The Craic , RTapicalls at 241
+skipping movie: The Castle and adding cast member Bud Tingwell
+skipping movie: Malcolm and adding cast member Bud Tingwell
+skipping movie: Breaker Morant and adding cast member Bud Tingwell
+skipping movie: Money Movers and adding cast member Bud Tingwell
+Processing movie: Summerfield , RTapicalls at 242
+
+skipping movie: Dracula: Prince of Darkness and adding cast member Bud Tingwell
+Processing movie: The Secret of Blood Island , RTapicalls at 243
+
+Processing movie: The Man from Snowy River: Arena Spectacular , RTapicalls at 244
+
+skipping movie: Ned Kelly and adding cast member Bud Tingwell
+skipping movie: The Desert Rats and adding cast member Bud Tingwell
+Processing movie: Bushfire Moon , RTapicalls at 245
+Processing movie: My First Wife , RTapicalls at 246
+Processing movie: Smiley , RTapicalls at 247
+skipping movie: Windrider and adding cast member Bud Tingwell
+Processing movie: Petersen , RTapicalls at 248
+==========================================
+Processing person: Ronald Howard11134 number 1659 out of 7103
+==========================================
+skipping movie: Murder She Said and adding cast member Ronald Howard
+skipping movie: Weekend at Dunkirk and adding cast member Ronald Howard
+Processing movie: The Queen of Spades , RTapicalls at 249
+Processing movie: Babette Goes to War , RTapicalls at 250
+
+Processing movie: Black Orchid , RTapicalls at 251
+Processing movie: Night Beat , RTapicalls at 252
+Processing movie: Man Accused , RTapicalls at 253
+
+skipping movie: Drango and adding cast member Ronald Howard
+skipping movie: The Curse of the Mummy's Tomb and adding cast member Ronald Howard
+Processing movie: Noose for a Lady , RTapicalls at 254
+
+skipping movie: Come September and adding cast member Ronald Howard
+Processing movie: Wide Boy , RTapicalls at 255
+Processing movie: Double Confession , RTapicalls at 256
+
+Processing movie: Now Barabbas , RTapicalls at 257
+
+Processing movie: Moment of Indiscretion , RTapicalls at 258
+
+skipping movie: The Spider's Web and adding cast member Ronald Howard
+Processing movie: Compelled , RTapicalls at 259
+
+skipping movie: The Browning Version and adding cast member Ronald Howard
+Processing movie: Bomb in the High Street , RTapicalls at 260
+
+skipping movie: The Hunting Party and adding cast member Ronald Howard
+Processing movie: The Hideout , RTapicalls at 261
+skipping movie: Take a Hard Ride and adding cast member Ronald Howard
+==========================================
+Processing person: Stringer Davis11136 number 1660 out of 7103
+==========================================
+skipping movie: Murder She Said and adding cast member Stringer Davis
+skipping movie: Murder at the Gallop and adding cast member Stringer Davis
+skipping movie: Murder Most Foul and adding cast member Stringer Davis
+skipping movie: The V.I.P.s and adding cast member Stringer Davis
+Processing movie: The Alphabet Murders , RTapicalls at 262
+
+skipping movie: Murder Ahoy and adding cast member Stringer Davis
+skipping movie: The Smallest Show on Earth and adding cast member Stringer Davis
+==========================================
+Processing person: Lynn Carlin11140 number 1661 out of 7103
+==========================================
+skipping movie: Faces and adding cast member Lynn Carlin
+skipping movie: Taking Off and adding cast member Lynn Carlin
+Processing movie: Superstition , RTapicalls at 263
+skipping movie: Mr. and Mrs. Bo Jo Jones and adding cast member Lynn Carlin
+skipping movie: Dead of Night and adding cast member Lynn Carlin
+skipping movie: Battle Beyond the Stars and adding cast member Lynn Carlin
+skipping movie: French Postcards and adding cast member Lynn Carlin
+skipping movie: ...tick... tick... tick... and adding cast member Lynn Carlin
+skipping movie: Wild Rovers and adding cast member Lynn Carlin
+==========================================
+Processing person: John Cassavetes11147 number 1662 out of 7103
+==========================================
+skipping movie: Faces and adding cast member John Cassavetes
+skipping movie: Faces and adding cast member John Cassavetes
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Faces and adding cast member John Cassavetes
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Faces and adding cast member John Cassavetes
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Gloria and adding cast member John Cassavetes
+skipping movie: Gloria and adding cast member John Cassavetes
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+Processing movie: Shadows , RTapicalls at 264
+skipping movie: A Woman Under the Influence and adding cast member John Cassavetes
+skipping movie: A Woman Under the Influence and adding cast member John Cassavetes
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Opening Night and adding cast member John Cassavetes
+skipping movie: The Killing of a Chinese Bookie and adding cast member John Cassavetes
+skipping movie: The Killing of a Chinese Bookie and adding cast member John Cassavetes
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Gloria and adding cast member John Cassavetes
+skipping movie: Husbands and adding cast member John Cassavetes
+skipping movie: Love Streams and adding cast member John Cassavetes
+skipping movie: Husbands and adding cast member John Cassavetes
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Shadows and adding cast member John Cassavetes
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Minnie and Moskowitz and adding cast member John Cassavetes
+skipping movie: Minnie and Moskowitz and adding cast member John Cassavetes
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Opening Night and adding cast member John Cassavetes
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: She's So Lovely and adding cast member John Cassavetes
+skipping movie: Too Late Blues and adding cast member John Cassavetes
+skipping movie: Big Trouble and adding cast member John Cassavetes
+skipping movie: A Woman Under the Influence and adding cast member John Cassavetes
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: A Child Is Waiting and adding cast member John Cassavetes
+skipping movie: Shadows and adding cast member John Cassavetes
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Too Late Blues and adding cast member John Cassavetes
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+==========================================
+Processing person: Joan Allen11148 number 1663 out of 7103
+==========================================
+skipping movie: Face/Off and adding cast member Joan Allen
+skipping movie: The Bourne Supremacy and adding cast member Joan Allen
+skipping movie: The Bourne Ultimatum and adding cast member Joan Allen
+skipping movie: Pleasantville and adding cast member Joan Allen
+skipping movie: The Contender and adding cast member Joan Allen
+skipping movie: Peggy Sue Got Married and adding cast member Joan Allen
+skipping movie: Death Race and adding cast member Joan Allen
+skipping movie: Nixon and adding cast member Joan Allen
+skipping movie: The Notebook and adding cast member Joan Allen
+skipping movie: The Mists of Avalon and adding cast member Joan Allen
+skipping movie: The Crucible and adding cast member Joan Allen
+Processing movie: Off the Map , RTapicalls at 265
+skipping movie: Tucker: The Man and His Dream and adding cast member Joan Allen
+skipping movie: Hachi: A Dog's Tale and adding cast member Joan Allen
+skipping movie: In Country and adding cast member Joan Allen
+skipping movie: Bonneville and adding cast member Joan Allen
+skipping movie: All the Rage and adding cast member Joan Allen
+skipping movie: Ethan Frome and adding cast member Joan Allen
+skipping movie: Josh and S.A.M. and adding cast member Joan Allen
+skipping movie: Searching for Bobby Fischer and adding cast member Joan Allen
+skipping movie: The Ice Storm and adding cast member Joan Allen
+skipping movie: Yes and adding cast member Joan Allen
+skipping movie: The Upside of Anger and adding cast member Joan Allen
+skipping movie: The Bourne Legacy and adding cast member Joan Allen
+Processing movie: Trumbo , RTapicalls at 266
+Processing movie: When The Sky Falls , RTapicalls at 267
+skipping movie: Mad Love and adding cast member Joan Allen
+Processing movie: Georgia O'Keeffe , RTapicalls at 268
+skipping movie: The Room Upstairs and adding cast member Joan Allen
+skipping movie: Manhunter and adding cast member Joan Allen
+Processing movie: Fat Guy Goes Nutzoid , RTapicalls at 269
+Processing movie: Inside 'Manhunter' , RTapicalls at 270
+
+skipping movie: Without Warning: The James Brady Story and adding cast member Joan Allen
+==========================================
+Processing person: Dominique Swain11149 number 1664 out of 7103
+==========================================
+skipping movie: Face/Off and adding cast member Dominique Swain
+skipping movie: Pumpkin and adding cast member Dominique Swain
+skipping movie: Lolita and adding cast member Dominique Swain
+Processing movie: DeVour , RTapicalls at 271
+skipping movie: Stiletto and adding cast member Dominique Swain
+skipping movie: Prairie Fever and adding cast member Dominique Swain
+skipping movie: All in and adding cast member Dominique Swain
+Processing movie: Tart , RTapicalls at 272
+Processing movie: Road to Nowhere , RTapicalls at 273
+skipping movie: Noble Things and adding cast member Dominique Swain
+Processing movie: Mean People Suck , RTapicalls at 274
+
+skipping movie: Girl and adding cast member Dominique Swain
+skipping movie: Happy Campers and adding cast member Dominique Swain
+Processing movie: Dead Mary , RTapicalls at 275
+skipping movie: The Smokers and adding cast member Dominique Swain
+Processing movie: The Girl from the Naked Eye , RTapicalls at 276
+Processing movie: Nazis at the Center of the Earth , RTapicalls at 277
+skipping movie: Toxic and adding cast member Dominique Swain
+skipping movie: White Air and adding cast member Dominique Swain
+Processing movie: The Madam's Family: The Truth About the Canal Street Brothel , RTapicalls at 278
+
+skipping movie: The Intern and adding cast member Dominique Swain
+skipping movie: The Job and adding cast member Dominique Swain
+Processing movie: New Best Friend , RTapicalls at 279
+Processing movie: Dead in the Water , RTapicalls at 280
+Processing movie: Blue Dream , RTapicalls at 281
+==========================================
+Processing person: Gina Gershon11150 number 1665 out of 7103
+==========================================
+skipping movie: Face/Off and adding cast member Gina Gershon
+skipping movie: P.S. I Love You and adding cast member Gina Gershon
+Processing movie: Dreamland , RTapicalls at 282
+skipping movie: Bound and adding cast member Gina Gershon
+skipping movie: Man About Town and adding cast member Gina Gershon
+skipping movie: Showgirls and adding cast member Gina Gershon
+skipping movie: Delirious and adding cast member Gina Gershon
+skipping movie: Out for Justice and adding cast member Gina Gershon
+skipping movie: 3:15 and adding cast member Gina Gershon
+Processing movie: Prey for Rock & Roll , RTapicalls at 283
+skipping movie: Palmetto and adding cast member Gina Gershon
+skipping movie: Out of Season and adding cast member Gina Gershon
+Processing movie: 3-Way , RTapicalls at 284
+skipping movie: Love Ranch and adding cast member Gina Gershon
+skipping movie: Lulu on the Bridge and adding cast member Gina Gershon
+skipping movie: Category 7: The End of the World and adding cast member Gina Gershon
+Processing movie: One Last Thing... , RTapicalls at 285
+Processing movie: Just Business , RTapicalls at 286
+skipping movie: Kettle of Fish and adding cast member Gina Gershon
+skipping movie: Demonlover and adding cast member Gina Gershon
+skipping movie: Five Minarets in New York and adding cast member Gina Gershon
+skipping movie: Across the Line: The Exodus of Charlie Wright and adding cast member Gina Gershon
+skipping movie: Guinevere and adding cast member Gina Gershon
+skipping movie: Pretty in Pink and adding cast member Gina Gershon
+Processing movie: Black & White , RTapicalls at 287
+skipping movie: This World, Then the Fireworks and adding cast member Gina Gershon
+skipping movie: Legalese and adding cast member Gina Gershon
+Processing movie: Killer Joe , RTapicalls at 288
+skipping movie: Picture Claire and adding cast member Gina Gershon
+skipping movie: Borderline and adding cast member Gina Gershon
+skipping movie: LOL (Laughing Out Loud) and adding cast member Gina Gershon
+skipping movie: Sweet Revenge and adding cast member Gina Gershon
+skipping movie: Touch and adding cast member Gina Gershon
+skipping movie: The Insider and adding cast member Gina Gershon
+skipping movie: Driven and adding cast member Gina Gershon
+skipping movie: Breathless and adding cast member Gina Gershon
+Processing movie: Voodoo Dawn , RTapicalls at 289
+skipping movie: One Tough Cop and adding cast member Gina Gershon
+skipping movie: Best of the Best 3 : No Turning Back and adding cast member Gina Gershon
+Processing movie: Flinch , RTapicalls at 290
+skipping movie: The Player and adding cast member Gina Gershon
+Processing movie: Dealin' with Idiots , RTapicalls at 291
+skipping movie: Red Heat and adding cast member Gina Gershon
+Processing movie: House of Versace , RTapicalls at 292
+
+==========================================
+Processing person: Margaret Cho11152 number 1666 out of 7103
+==========================================
+skipping movie: Face/Off and adding cast member Margaret Cho
+Processing movie: One Missed Call , RTapicalls at 293
+Processing movie: Margaret Cho: CHO Revolution , RTapicalls at 294
+skipping movie: It's My Party and adding cast member Margaret Cho
+Processing movie: Margaret Cho: I'm the One That I Want , RTapicalls at 295
+
+Processing movie: How Bruce Lee Changed the World , RTapicalls at 296
+Processing movie: Margaret Cho: Assassin , RTapicalls at 297
+Processing movie: Margaret Cho: Beautiful , RTapicalls at 298
+skipping movie: Ground Control and adding cast member Margaret Cho
+Processing movie: Margaret Cho: Notorious C.H.O. , RTapicalls at 299
+skipping movie: Fakin' Da Funk and adding cast member Margaret Cho
+skipping movie: Get Bruce! and adding cast member Margaret Cho
+skipping movie: I Am Comic and adding cast member Margaret Cho
+skipping movie: Richard Pryor: I Ain't Dead Yet, #*%$#@!! and adding cast member Margaret Cho
+Processing movie: Sweethearts , RTapicalls at 300
+Processing movie: National Lampoon's Attack of the 5 Ft 2 Woman , RTapicalls at 301
+skipping movie: National Lampoon's Attack of the 5 Ft 2 Woman and adding cast member Margaret Cho
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+Processing movie: The Doom Generation , RTapicalls at 302
+Processing movie: See A Little Light: A Celebration of the Music and Legacy of Bob Mould , RTapicalls at 303
+
+Processing movie: Cho Dependent , RTapicalls at 304
+Processing movie: Bam Bam and Celeste , RTapicalls at 305
+Processing movie: Wedding Palace , RTapicalls at 306
+skipping movie: Miss Representation and adding cast member Margaret Cho
+==========================================
+Processing person: Thomas Jane11155 number 1667 out of 7103
+==========================================
+skipping movie: Face/Off and adding cast member Thomas Jane
+skipping movie: Original Sin and adding cast member Thomas Jane
+skipping movie: Boogie Nights and adding cast member Thomas Jane
+skipping movie: The Mist and adding cast member Thomas Jane
+skipping movie: Dreamcatcher and adding cast member Thomas Jane
+skipping movie: The Punisher and adding cast member Thomas Jane
+skipping movie: Deep Blue Sea and adding cast member Thomas Jane
+skipping movie: Thursday and adding cast member Thomas Jane
+Processing movie: The Crow: City of Angels , RTapicalls at 307
+skipping movie: Under Suspicion and adding cast member Thomas Jane
+skipping movie: The Sweetest Thing and adding cast member Thomas Jane
+skipping movie: Mutant Chronicles and adding cast member Thomas Jane
+skipping movie: Killshot and adding cast member Thomas Jane
+skipping movie: Stander and adding cast member Thomas Jane
+skipping movie: 61* and adding cast member Thomas Jane
+skipping movie: Dark Country and adding cast member Thomas Jane
+skipping movie: Nemesis and adding cast member Thomas Jane
+skipping movie: Give 'em Hell, Malone and adding cast member Thomas Jane
+Processing movie: The Last Time I Committed Suicide , RTapicalls at 308
+
+skipping movie: DC Showcase: Jonah Hex and adding cast member Thomas Jane
+skipping movie: Molly and adding cast member Thomas Jane
+skipping movie: LOL (Laughing Out Loud) and adding cast member Thomas Jane
+skipping movie: Eden and adding cast member Thomas Jane
+Processing movie: Zack and Reba , RTapicalls at 309
+
+Processing movie: The Punisher: Dirty Laundry , RTapicalls at 310
+
+skipping movie: A Magnificent Death from a Shattered Hand and adding cast member Thomas Jane
+skipping movie: The Velocity of Gary and adding cast member Thomas Jane
+skipping movie: Pawn Shop Chronicles and adding cast member Thomas Jane
+skipping movie: I Melt with You and adding cast member Thomas Jane
+==========================================
+Processing person: Cheech Marin11159 number 1668 out of 7103
+==========================================
+skipping movie: From Dusk Till Dawn and adding cast member Cheech Marin
+skipping movie: Cars and adding cast member Cheech Marin
+skipping movie: Once Upon a Time in Mexico and adding cast member Cheech Marin
+skipping movie: Desperado and adding cast member Cheech Marin
+skipping movie: Spy Kids 2: The Island of Lost Dreams and adding cast member Cheech Marin
+skipping movie: Tin Cup and adding cast member Cheech Marin
+skipping movie: After Hours and adding cast member Cheech Marin
+skipping movie: Yellowbeard and adding cast member Cheech Marin
+skipping movie: Oliver & Company and adding cast member Cheech Marin
+skipping movie: Mater And The Ghostlight and adding cast member Cheech Marin
+skipping movie: Cheech & Chong's The Corsican Brothers and adding cast member Cheech Marin
+Processing movie: Born in East L.A. , RTapicalls at 311
+Processing movie: Underclassman , RTapicalls at 312
+skipping movie: Good Boy! and adding cast member Cheech Marin
+skipping movie: Machete and adding cast member Cheech Marin
+skipping movie: It Came From Hollywood and adding cast member Cheech Marin
+Processing movie: Cheech & Chong Get Out of My Room , RTapicalls at 313
+Processing movie: The Original Latin Kings of Comedy , RTapicalls at 314
+
+Processing movie: a/k/a Tommy Chong , RTapicalls at 315
+Processing movie: Shrimp on the Barbie , RTapicalls at 316
+skipping movie: Christmas with the Kranks and adding cast member Cheech Marin
+Processing movie: The Perfect Game , RTapicalls at 317
+skipping movie: Pure Country 2: The Gift and adding cast member Cheech Marin
+skipping movie: Paulie and adding cast member Cheech Marin
+skipping movie: Nice Dreams and adding cast member Cheech Marin
+Processing movie: Cheech & Chong Roasted , RTapicalls at 318
+
+Processing movie: Still Smokin , RTapicalls at 319
+skipping movie: Up in Smoke and adding cast member Cheech Marin
+Processing movie: Cheech & Chong's Next Movie , RTapicalls at 320
+skipping movie: Rude Awakening and adding cast member Cheech Marin
+Processing movie: Cheech & Chong's Hey Watch This , RTapicalls at 321
+Processing movie: Things Are Tough All Over , RTapicalls at 322
+skipping movie: The Lion King and adding cast member Cheech Marin
+Error printing movie with id: 11430
+Processing movie: The Magic of the Golden Bear: Goldy III , RTapicalls at 323
+skipping movie: FernGully: The Last Rainforest and adding cast member Cheech Marin
+skipping movie: Cars 2 and adding cast member Cheech Marin
+Processing movie: Basketball Jones , RTapicalls at 324
+
+skipping movie: Charlie's Ghost Story and adding cast member Cheech Marin
+skipping movie: Far Out Man and adding cast member Cheech Marin
+skipping movie: Spy Kids 3-D: Game Over and adding cast member Cheech Marin
+skipping movie: The Cisco Kid and adding cast member Cheech Marin
+Processing movie: Cheech & Chong's Animated Movie , RTapicalls at 325
+Processing movie: Bloodsucking Cinema , RTapicalls at 326
+skipping movie: Masked and Anonymous and adding cast member Cheech Marin
+skipping movie: Spy Kids and adding cast member Cheech Marin
+Processing movie: The Nuttiest Nutcracker , RTapicalls at 327
+Processing movie: Race to Witch Mountain , RTapicalls at 328
+skipping movie: The Courtyard and adding cast member Cheech Marin
+Processing movie: The Book of Life , RTapicalls at 329
+==========================================
+Processing person: Danny Trejo11160 number 1669 out of 7103
+==========================================
+skipping movie: From Dusk Till Dawn and adding cast member Danny Trejo
+skipping movie: Once Upon a Time in Mexico and adding cast member Danny Trejo
+skipping movie: The Devil's Rejects and adding cast member Danny Trejo
+skipping movie: Con Air and adding cast member Danny Trejo
+skipping movie: Halloween and adding cast member Danny Trejo
+skipping movie: Reindeer Games and adding cast member Danny Trejo
+Processing movie: Seven Mummies , RTapicalls at 330
+skipping movie: Desperado and adding cast member Danny Trejo
+skipping movie: Anchorman: The Legend of Ron Burgundy and adding cast member Danny Trejo
+skipping movie: Spy Kids 2: The Island of Lost Dreams and adding cast member Danny Trejo
+skipping movie: Lock Up and adding cast member Danny Trejo
+skipping movie: Alone in the Dark 2 and adding cast member Danny Trejo
+Processing movie: Smiley Face , RTapicalls at 331
+Processing movie: The Line , RTapicalls at 332
+skipping movie: Necessary Evil and adding cast member Danny Trejo
+Processing movie: The Boys of Ghost Town , RTapicalls at 333
+
+skipping movie: Against the Wall and adding cast member Danny Trejo
+skipping movie: Predators and adding cast member Danny Trejo
+Processing movie: Beatdown , RTapicalls at 334
+skipping movie: Sin City: A Dame to Kill For and adding cast member Danny Trejo
+Processing movie: Guns , RTapicalls at 335
+skipping movie: Death Race 2 and adding cast member Danny Trejo
+skipping movie: The Grind and adding cast member Danny Trejo
+skipping movie: The Crow: Wicked Prayer and adding cast member Danny Trejo
+Processing movie: Le Jaguar , RTapicalls at 336
+
+skipping movie: High Hopes and adding cast member Danny Trejo
+skipping movie: Spy Kids: All the Time in the World and adding cast member Danny Trejo
+Processing movie: Lost , RTapicalls at 337
+Processing movie: The Stranger , RTapicalls at 338
+Processing movie: The Black Mamba , RTapicalls at 339
+
+Processing movie: The Bill Collector , RTapicalls at 340
+Processing movie: Babysitters Beware , RTapicalls at 341
+skipping movie: Sushi Girl and adding cast member Danny Trejo
+skipping movie: Point Blank and adding cast member Danny Trejo
+skipping movie: Cross and adding cast member Danny Trejo
+Processing movie: The Hire: Beat the Devil , RTapicalls at 342
+
+Processing movie: Nightstalker , RTapicalls at 343
+skipping movie: Death Wish 4: The Crackdown and adding cast member Danny Trejo
+skipping movie: Slayer and adding cast member Danny Trejo
+skipping movie: Heckler and adding cast member Danny Trejo
+Processing movie: The Lazarus Papers , RTapicalls at 344
+
+Processing movie: House of the Rising Sun , RTapicalls at 345
+skipping movie: Last Light and adding cast member Danny Trejo
+Processing movie: Poolboy - Drowning Out the Fury , RTapicalls at 346
+skipping movie: Fanboys and adding cast member Danny Trejo
+skipping movie: The Killing Jar and adding cast member Danny Trejo
+Processing movie: Desert Heat , RTapicalls at 347
+Processing movie: Champions , RTapicalls at 348
+skipping movie: Machete and adding cast member Danny Trejo
+skipping movie: Champion and adding cast member Danny Trejo
+skipping movie: Hood Of Horror and adding cast member Danny Trejo
+Processing movie: The Haunted World of El Superbeasto , RTapicalls at 349
+skipping movie: Bubble Boy and adding cast member Danny Trejo
+Processing movie: Shoot the Hero , RTapicalls at 350
+skipping movie: Animal Factory and adding cast member Danny Trejo
+Processing movie: The Curse of El Charro , RTapicalls at 351
+Processing movie: Modus Operandi , RTapicalls at 352
+Processing movie: A Very Harold & Kumar Christmas , RTapicalls at 353
+Processing movie: Fatal Woman , RTapicalls at 354
+
+Processing movie: Recoil , RTapicalls at 355
+skipping movie: Bad Ass and adding cast member Danny Trejo
+skipping movie: Machete Kills and adding cast member Danny Trejo
+skipping movie: Dilemma and adding cast member Danny Trejo
+Processing movie: Ranchero , RTapicalls at 356
+skipping movie: Furnace and adding cast member Danny Trejo
+Processing movie: Ghostquake , RTapicalls at 357
+
+skipping movie: Heat and adding cast member Danny Trejo
+skipping movie: Toxic and adding cast member Danny Trejo
+skipping movie: From Dusk Till Dawn 3: The Hangman's Daughter and adding cast member Danny Trejo
+skipping movie: From Dusk Till Dawn 2: Texas Blood Money and adding cast member Danny Trejo
+Processing movie: Ticket to Vegas , RTapicalls at 358
+
+skipping movie: Rise of the Zombies and adding cast member Danny Trejo
+skipping movie: Anaconda and adding cast member Danny Trejo
+skipping movie: The Replacement Killers and adding cast member Danny Trejo
+skipping movie: Dead in Tombstone and adding cast member Danny Trejo
+Processing movie: Death Race: Inferno , RTapicalls at 359
+skipping movie: Counterpunch and adding cast member Danny Trejo
+Processing movie: In the Shadow , RTapicalls at 360
+Processing movie: Bullet , RTapicalls at 361
+skipping movie: Spy Kids 3-D: Game Over and adding cast member Danny Trejo
+skipping movie: Sushi Girl and adding cast member Danny Trejo
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: Violet & Daisy and adding cast member Danny Trejo
+Processing movie: Tattoo Nation , RTapicalls at 362
+Processing movie: The Cloth , RTapicalls at 363
+skipping movie: Whore and adding cast member Danny Trejo
+skipping movie: The Face Is Familiar and adding cast member Danny Trejo
+Processing movie: El Superstar , RTapicalls at 364
+Processing movie: Zombie Hunter , RTapicalls at 365
+skipping movie: Spy Kids and adding cast member Danny Trejo
+skipping movie: SherryBaby and adding cast member Danny Trejo
+Processing movie: Valley of Angels , RTapicalls at 366
+Processing movie: The Contractor , RTapicalls at 367
+Processing movie: Pendejo (Idiot) , RTapicalls at 368
+Processing movie: Eyeborgs , RTapicalls at 369
+skipping movie: Chavez Cage of Glory and adding cast member Danny Trejo
+Processing movie: The Last Hour , RTapicalls at 370
+Processing movie: Force of Execution , RTapicalls at 371
+Processing movie: Runaway Train , RTapicalls at 372
+Processing movie: Muppets Most Wanted , RTapicalls at 373
+skipping movie: Shadows in Paradise and adding cast member Danny Trejo
+==========================================
+Processing person: John Saxon11163 number 1670 out of 7103
+==========================================
+skipping movie: A Nightmare on Elm Street and adding cast member John Saxon
+skipping movie: From Dusk Till Dawn and adding cast member John Saxon
+Processing movie: My Mom's a Werewolf , RTapicalls at 374
+Processing movie: Mr. Kingstreet's War , RTapicalls at 375
+
+skipping movie: The Cardinal and adding cast member John Saxon
+skipping movie: Gengis Khan and adding cast member John Saxon
+skipping movie: The Unforgiven and adding cast member John Saxon
+skipping movie: Enter the Dragon and adding cast member John Saxon
+skipping movie: A Nightmare On Elm Street 3: Dream Warriors and adding cast member John Saxon
+skipping movie: Black Christmas and adding cast member John Saxon
+skipping movie: Queen of Blood and adding cast member John Saxon
+Processing movie: The Girl Who Knew Too Much , RTapicalls at 376
+skipping movie: The Bees and adding cast member John Saxon
+skipping movie: Trapped Ashes and adding cast member John Saxon
+Processing movie: Zombie Death House , RTapicalls at 377
+Processing movie: Shalimar , RTapicalls at 378
+skipping movie: Portrait in Black and adding cast member John Saxon
+Processing movie: Jonathan of the Bears , RTapicalls at 379
+
+Processing movie: Blood Beast from Outer Space , RTapicalls at 380
+
+skipping movie: Wrong Is Right and adding cast member John Saxon
+skipping movie: Mr. Hobbs Takes a Vacation and adding cast member John Saxon
+skipping movie: Fast Company and adding cast member John Saxon
+skipping movie: Blood Beach and adding cast member John Saxon
+Processing movie: Cry Tough , RTapicalls at 381
+skipping movie: Battle Beyond the Stars and adding cast member John Saxon
+Processing movie: Hands of Steel , RTapicalls at 382
+skipping movie: New Nightmare and adding cast member John Saxon
+Processing movie: The .44 Specialist , RTapicalls at 383
+
+skipping movie: Nightmare Beach and adding cast member John Saxon
+Processing movie: War Wolves , RTapicalls at 384
+skipping movie: Joe Kidd and adding cast member John Saxon
+skipping movie: Cannibal Apocalypse and adding cast member John Saxon
+skipping movie: Posse from Hell and adding cast member John Saxon
+Processing movie: The Cynic, the Rat & the Fist , RTapicalls at 385
+skipping movie: The Glove and adding cast member John Saxon
+skipping movie: The Swiss Conspiracy and adding cast member John Saxon
+skipping movie: Raid on Entebbe and adding cast member John Saxon
+skipping movie: Agostino and adding cast member John Saxon
+skipping movie: Animal Instincts and adding cast member John Saxon
+Processing movie: Prisoners of the Lost Universe , RTapicalls at 386
+skipping movie: War Hunt and adding cast member John Saxon
+Processing movie: The Reluctant Debutante , RTapicalls at 387
+Processing movie: Beyond Evil , RTapicalls at 388
+skipping movie: Clarkworld and adding cast member John Saxon
+Processing movie: The Unguarded Moment , RTapicalls at 389
+
+skipping movie: Moonshine County Express and adding cast member John Saxon
+Processing movie: Violent Naples , RTapicalls at 390
+
+Processing movie: A Special Cop in Action , RTapicalls at 391
+skipping movie: The Big Score and adding cast member John Saxon
+skipping movie: Mitchell and adding cast member John Saxon
+Processing movie: Planet Earth , RTapicalls at 392
+skipping movie: Shadows in an Empty Room and adding cast member John Saxon
+Processing movie: One Dollar Too Many , RTapicalls at 393
+
+skipping movie: This Happy Feeling and adding cast member John Saxon
+skipping movie: Running Wild and adding cast member John Saxon
+skipping movie: The Cavern and adding cast member John Saxon
+Processing movie: Tenebre , RTapicalls at 394
+Processing movie: The Baby Doll Murders , RTapicalls at 395
+Processing movie: The Restless Years , RTapicalls at 396
+
+Processing movie: Lucky Luke 2 , RTapicalls at 397
+
+Processing movie: Eurocrime! The Italian Cop and Gangster Films That Ruled the '70s , RTapicalls at 398
+Processing movie: Western, Italian Style , RTapicalls at 399
+
+skipping movie: Blood Salvage and adding cast member John Saxon
+Processing movie: The arrival , RTapicalls at 400
+skipping movie: Fever Pitch and adding cast member John Saxon
+skipping movie: The Appaloosa and adding cast member John Saxon
+skipping movie: Death of a Gunfighter and adding cast member John Saxon
+Processing movie: Stanley's Girlfriend , RTapicalls at 401
+
+Processing movie: Strange New World , RTapicalls at 402
+skipping movie: Aftershock and adding cast member John Saxon
+Processing movie: The Big Fisherman , RTapicalls at 403
+skipping movie: The Plunderers and adding cast member John Saxon
+Processing movie: La Legge Violenta Della Squadra Anticrimine , RTapicalls at 404
+
+skipping movie: Summer Love and adding cast member John Saxon
+skipping movie: Night Class and adding cast member John Saxon
+Processing movie: The Final Alliance , RTapicalls at 405
+==========================================
+Processing person: Kelly Preston11164 number 1671 out of 7103
+==========================================
+skipping movie: From Dusk Till Dawn and adding cast member Kelly Preston
+skipping movie: Addicted to Love and adding cast member Kelly Preston
+skipping movie: Amazon Women on the Moon and adding cast member Kelly Preston
+skipping movie: Christine and adding cast member Kelly Preston
+skipping movie: Jerry Maguire and adding cast member Kelly Preston
+skipping movie: Twins and adding cast member Kelly Preston
+skipping movie: Holy Man and adding cast member Kelly Preston
+Processing movie: Jack Frost , RTapicalls at 406
+skipping movie: For Love of the Game and adding cast member Kelly Preston
+skipping movie: Dr. Seuss' The Cat in the Hat and adding cast member Kelly Preston
+skipping movie: What a Girl Wants and adding cast member Kelly Preston
+skipping movie: Sky High and adding cast member Kelly Preston
+skipping movie: Nothing to Lose and adding cast member Kelly Preston
+skipping movie: Death Sentence and adding cast member Kelly Preston
+skipping movie: Curdled and adding cast member Kelly Preston
+skipping movie: SpaceCamp and adding cast member Kelly Preston
+skipping movie: Eulogy and adding cast member Kelly Preston
+Processing movie: The Tenth Circle , RTapicalls at 407
+skipping movie: 52 Pick-Up and adding cast member Kelly Preston
+skipping movie: Old Dogs and adding cast member Kelly Preston
+skipping movie: Secret Admirer and adding cast member Kelly Preston
+skipping movie: Daddy and Them and adding cast member Kelly Preston
+Processing movie: The Last Song , RTapicalls at 408
+Processing movie: Mischief , RTapicalls at 409
+skipping movie: Return to Sender and adding cast member Kelly Preston
+skipping movie: Casino Jack and adding cast member Kelly Preston
+Processing movie: Metalstorm: The Destruction of Jared-Syn , RTapicalls at 410
+Processing movie: Broken Bridges , RTapicalls at 411
+Processing movie: Run , RTapicalls at 412
+skipping movie: The Experts and adding cast member Kelly Preston
+Processing movie: Cheyenne Warrior , RTapicalls at 413
+Processing movie: Only you , RTapicalls at 414
+skipping movie: 10 to Midnight and adding cast member Kelly Preston
+Processing movie: Double Cross , RTapicalls at 415
+skipping movie: The Perfect Bride and adding cast member Kelly Preston
+Processing movie: Spellbinder , RTapicalls at 416
+skipping movie: Love Is a Gun and adding cast member Kelly Preston
+skipping movie: A Tiger's Tale and adding cast member Kelly Preston
+skipping movie: Love at Stake and adding cast member Kelly Preston
+Processing movie: View from the Top , RTapicalls at 417
+skipping movie: Citizen Ruth and adding cast member Kelly Preston
+Processing movie: Struck , RTapicalls at 418
+==========================================
+Processing person: Jane Russell11165 number 1672 out of 7103
+==========================================
+skipping movie: Gentlemen Prefer Blondes and adding cast member Jane Russell
+Processing movie: Foxfire , RTapicalls at 419
+skipping movie: The Paleface and adding cast member Jane Russell
+skipping movie: The Outlaw and adding cast member Jane Russell
+skipping movie: Macao and adding cast member Jane Russell
+Processing movie: The Las Vegas Story , RTapicalls at 420
+
+Processing movie: Son of Paleface , RTapicalls at 421
+skipping movie: His Kind of Woman and adding cast member Jane Russell
+skipping movie: The Tall Men and adding cast member Jane Russell
+skipping movie: Darker Than Amber and adding cast member Jane Russell
+skipping movie: Hollywood Uncensored and adding cast member Jane Russell
+Processing movie: Gentlemen Marry Brunettes , RTapicalls at 422
+Processing movie: The French Line , RTapicalls at 423
+skipping movie: Double Dynamite and adding cast member Jane Russell
+skipping movie: Hot Blood and adding cast member Jane Russell
+skipping movie: Fate Is the Hunter and adding cast member Jane Russell
+skipping movie: Johnny Reno and adding cast member Jane Russell
+Processing movie: Montana Belle , RTapicalls at 424
+skipping movie: The Revolt of Mamie Stover and adding cast member Jane Russell
+Processing movie: Underwater! , RTapicalls at 425
+Processing movie: Waco , RTapicalls at 426
+skipping movie: The Fuzzy Pink Nightgown and adding cast member Jane Russell
+Processing movie: Young Widow , RTapicalls at 427
+
+skipping movie: Hollywood Out-takes and Rare Footage and adding cast member Jane Russell
+==========================================
+Processing person: Charles Coburn11169 number 1673 out of 7103
+==========================================
+skipping movie: Gentlemen Prefer Blondes and adding cast member Charles Coburn
+skipping movie: The Lady Eve and adding cast member Charles Coburn
+skipping movie: Lured and adding cast member Charles Coburn
+skipping movie: In Name Only and adding cast member Charles Coburn
+skipping movie: The Long Wait and adding cast member Charles Coburn
+skipping movie: George Washington Slept Here and adding cast member Charles Coburn
+skipping movie: Impact and adding cast member Charles Coburn
+skipping movie: The Paradine Case and adding cast member Charles Coburn
+skipping movie: Vivacious Lady and adding cast member Charles Coburn
+skipping movie: Monkey Business and adding cast member Charles Coburn
+Processing movie: Green Grass of Wyoming , RTapicalls at 428
+
+skipping movie: In This Our Life and adding cast member Charles Coburn
+skipping movie: Kings Row and adding cast member Charles Coburn
+skipping movie: Has Anybody Seen My Gal and adding cast member Charles Coburn
+Processing movie: Rhapsody in Blue , RTapicalls at 429
+skipping movie: The Gal Who Took the West and adding cast member Charles Coburn
+skipping movie: The Devil and Miss Jones and adding cast member Charles Coburn
+skipping movie: John Paul Jones and adding cast member Charles Coburn
+skipping movie: Princess O'Rourke and adding cast member Charles Coburn
+skipping movie: Made for Each Other and adding cast member Charles Coburn
+skipping movie: Heaven Can Wait and adding cast member Charles Coburn
+Processing movie: Together Again , RTapicalls at 430
+Processing movie: Bachelor Mother , RTapicalls at 431
+skipping movie: Edison, the Man and adding cast member Charles Coburn
+Processing movie: The More the Merrier , RTapicalls at 432
+skipping movie: Wilson and adding cast member Charles Coburn
+Processing movie: The People's Enemy , RTapicalls at 433
+
+skipping movie: The Constant Nymph and adding cast member Charles Coburn
+Processing movie: The Doctor and the Girl , RTapicalls at 434
+
+skipping movie: The Green Years and adding cast member Charles Coburn
+skipping movie: Lord Jeff and adding cast member Charles Coburn
+Processing movie: Over 21 , RTapicalls at 435
+skipping movie: The Story of Mankind and adding cast member Charles Coburn
+skipping movie: The Story of Alexander Graham Bell and adding cast member Charles Coburn
+skipping movie: Mr. Music and adding cast member Charles Coburn
+skipping movie: B.F.'s Daughter and adding cast member Charles Coburn
+Processing movie: Shady Lady , RTapicalls at 436
+skipping movie: How to Murder a Rich Uncle and adding cast member Charles Coburn
+skipping movie: Town on Trial and adding cast member Charles Coburn
+Processing movie: The Rocket Man , RTapicalls at 437
+skipping movie: A Royal Scandal and adding cast member Charles Coburn
+skipping movie: Stanley and Livingstone and adding cast member Charles Coburn
+skipping movie: How To Be Very, Very Popular and adding cast member Charles Coburn
+skipping movie: Yellow Jack and adding cast member Charles Coburn
+skipping movie: Trouble Along the Way and adding cast member Charles Coburn
+skipping movie: Three Faces West and adding cast member Charles Coburn
+Processing movie: Unexpected Uncle , RTapicalls at 438
+
+skipping movie: Our Wife and adding cast member Charles Coburn
+skipping movie: The Power and the Prize and adding cast member Charles Coburn
+Processing movie: The Impatient Years , RTapicalls at 439
+
+Processing movie: The Highwayman , RTapicalls at 440
+skipping movie: Pepe and adding cast member Charles Coburn
+Processing movie: Idiot's Delight , RTapicalls at 441
+Processing movie: H.M. Pulham, Esq. , RTapicalls at 442
+skipping movie: Of Human Hearts and adding cast member Charles Coburn
+skipping movie: Florian and adding cast member Charles Coburn
+==========================================
+Processing person: Tommy Noonan11170 number 1674 out of 7103
+==========================================
+skipping movie: Gentlemen Prefer Blondes and adding cast member Tommy Noonan
+skipping movie: A Star Is Born and adding cast member Tommy Noonan
+skipping movie: Violent Saturday and adding cast member Tommy Noonan
+Processing movie: I Shot Jesse James , RTapicalls at 443
+skipping movie: Bundle of Joy and adding cast member Tommy Noonan
+skipping movie: Open Secret and adding cast member Tommy Noonan
+Processing movie: Promises! Promises! , RTapicalls at 444
+Processing movie: The Bamboo Blonde , RTapicalls at 445
+Processing movie: The Best Things In Life Are Free , RTapicalls at 446
+
+skipping movie: FBI Girl and adding cast member Tommy Noonan
+Processing movie: The Girl Most Likely , RTapicalls at 447
+skipping movie: How To Be Very, Very Popular and adding cast member Tommy Noonan
+Processing movie: I Cheated the Law , RTapicalls at 448
+
+skipping movie: Starlift and adding cast member Tommy Noonan
+Processing movie: The Rookie , RTapicalls at 449
+Processing movie: Cottonpickin' Chickenpickers , RTapicalls at 450
+Processing movie: The Truth About Murder , RTapicalls at 451
+
+==========================================
+Processing person: Kenneth Branagh11181 number 1675 out of 7103
+==========================================
+skipping movie: Harry Potter and the Chamber of Secrets and adding cast member Kenneth Branagh
+skipping movie: Valkyrie and adding cast member Kenneth Branagh
+skipping movie: Frankenstein and adding cast member Kenneth Branagh
+Processing movie: 100 Years of Horror: The Frankenstein Family , RTapicalls at 452
+
+Processing movie: It's Alive: The True Story of Frankenstein , RTapicalls at 453
+
+skipping movie: Wild Wild West and adding cast member Kenneth Branagh
+skipping movie: Celebrity and adding cast member Kenneth Branagh
+Processing movie: Rabbit-Proof Fence , RTapicalls at 454
+skipping movie: Hamlet and adding cast member Kenneth Branagh
+skipping movie: Dead Again and adding cast member Kenneth Branagh
+skipping movie: Peter's Friends and adding cast member Kenneth Branagh
+skipping movie: Much Ado About Nothing and adding cast member Kenneth Branagh
+skipping movie: Othello and adding cast member Kenneth Branagh
+skipping movie: Five Children and It and adding cast member Kenneth Branagh
+skipping movie: The Boat That Rocked and adding cast member Kenneth Branagh
+Processing movie: Galapagos: The Enchanted Voyage , RTapicalls at 455
+Processing movie: Shackleton , RTapicalls at 456
+skipping movie: A Month in the Country and adding cast member Kenneth Branagh
+skipping movie: The Proposition and adding cast member Kenneth Branagh
+Processing movie: Before The Dinosaurs - Walking With Monsters , RTapicalls at 457
+skipping movie: Conspiracy and adding cast member Kenneth Branagh
+skipping movie: Warm Springs and adding cast member Kenneth Branagh
+skipping movie: The Road to El Dorado and adding cast member Kenneth Branagh
+skipping movie: Henry V and adding cast member Kenneth Branagh
+skipping movie: How to Kill Your Neighbor's Dog and adding cast member Kenneth Branagh
+skipping movie: The Gingerbread Man and adding cast member Kenneth Branagh
+skipping movie: Dead Again and adding cast member Kenneth Branagh
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: My Week with Marilyn and adding cast member Kenneth Branagh
+skipping movie: The Theory of Flight and adding cast member Kenneth Branagh
+skipping movie: Ghosts and adding cast member Kenneth Branagh
+skipping movie: High Season and adding cast member Kenneth Branagh
+Processing movie: London 2012 Olympic Opening Ceremony: Isles of Wonder , RTapicalls at 458
+
+skipping movie: Stars In Shorts and adding cast member Kenneth Branagh
+Processing movie: Universal Horror , RTapicalls at 459
+skipping movie: Sleuth and adding cast member Kenneth Branagh
+Processing movie: The Ballad of Big Al , RTapicalls at 460
+
+Processing movie: Following the Rabbit-Proof Fence , RTapicalls at 461
+
+Processing movie: Walking with Dinosaurs , RTapicalls at 462
+Processing movie: Walking with Beasts , RTapicalls at 463
+Processing movie: Big Al Uncovered , RTapicalls at 464
+
+Processing movie: Allosaurus: A Walking with Dinosaurs Special , RTapicalls at 465
+skipping movie: Love's Labour's Lost and adding cast member Kenneth Branagh
+Processing movie: National Theatre Live: Macbeth , RTapicalls at 466
+skipping movie: With Great Power: The Stan Lee Story and adding cast member Kenneth Branagh
+Processing movie: The Periwig-Maker , RTapicalls at 467
+
+Processing movie: The Making of "Walking with Dinosaurs" , RTapicalls at 468
+
+skipping movie: Shadow of a Gunman and adding cast member Kenneth Branagh
+==========================================
+Processing person: Warwick Davis11184 number 1676 out of 7103
+==========================================
+skipping movie: Harry Potter and the Chamber of Secrets and adding cast member Warwick Davis
+skipping movie: Willow and adding cast member Warwick Davis
+Processing movie: Star Wars: Ewok Adventures - Caravan of Courage , RTapicalls at 469
+
+skipping movie: The Chronicles of Narnia: Prince Caspian and adding cast member Warwick Davis
+skipping movie: Prince Valiant and adding cast member Warwick Davis
+skipping movie: Ewoks: The Battle for Endor and adding cast member Warwick Davis
+skipping movie: Leprechaun and adding cast member Warwick Davis
+Processing movie: Leprechaun 2 , RTapicalls at 470
+Processing movie: Leprechaun in the Hood , RTapicalls at 471
+skipping movie: Leprechaun 3 and adding cast member Warwick Davis
+Processing movie: Leprechaun 4: In Space , RTapicalls at 472
+Processing movie: Leprechaun: Back 2 Tha Hood , RTapicalls at 473
+skipping movie: Harry Potter and the Deathly Hallows: Part 1 and adding cast member Warwick Davis
+Processing movie: The Silver Chair , RTapicalls at 474
+skipping movie: Harry Potter and the Deathly Hallows: Part 2 and adding cast member Warwick Davis
+skipping movie: Jack the Giant Slayer and adding cast member Warwick Davis
+Processing movie: Skinned Deep , RTapicalls at 475
+skipping movie: Labyrinth and adding cast member Warwick Davis
+Processing movie: Small Town Folk , RTapicalls at 476
+skipping movie: Harry Potter and the Goblet of Fire and adding cast member Warwick Davis
+skipping movie: Harry Potter and the Order of the Phoenix and adding cast member Warwick Davis
+skipping movie: Harry Potter and the Half-Blood Prince and adding cast member Warwick Davis
+skipping movie: Star Wars: Episode VI - Return of the Jedi and adding cast member Warwick Davis
+skipping movie: Star Wars: Episode I - The Phantom Menace and adding cast member Warwick Davis
+Processing movie: The White Pony , RTapicalls at 477
+skipping movie: Star Tours and adding cast member Warwick Davis
+Processing movie: Ashens and the Quest for the Gamechild , RTapicalls at 478
+==========================================
+Processing person: Claude Zidi11201 number 1677 out of 7103
+==========================================
+Processing movie: The Wing and the Thigh , RTapicalls at 479
+skipping movie: The Wing and the Thigh and adding cast member Claude Zidi
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+Processing movie: The Butcher , RTapicalls at 480
+skipping movie: Stuntwoman and adding cast member Claude Zidi
+Processing movie: Asterix & Obelix take on Caesar , RTapicalls at 481
+
+Processing movie: My New Partner , RTapicalls at 482
+skipping movie: My New Partner and adding cast member Claude Zidi
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: The Spat and adding cast member Claude Zidi
+skipping movie: The Spat and adding cast member Claude Zidi
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+Processing movie: My New Partner II , RTapicalls at 483
+
+Processing movie: Ripoux 3 , RTapicalls at 484
+Processing movie: Inspecteur La Bavure , RTapicalls at 485
+Processing movie: The Wild Goose Chase , RTapicalls at 486
+
+Processing movie: Lucky Pierre , RTapicalls at 487
+Processing movie: The Under-Gifted In Vacation , RTapicalls at 488
+
+skipping movie: The Under-Gifted and adding cast member Claude Zidi
+Processing movie: La Boite , RTapicalls at 489
+Processing movie: Asterix & Obelix take on Caesar , RTapicalls at 490
+
+skipping movie: La Totale and adding cast member Claude Zidi
+Processing movie: Sadsacks Go to War , RTapicalls at 491
+
+Processing movie: Rookies Run Amok , RTapicalls at 492
+
+Error printing movie with id: 79753
+Processing movie: Banzai , RTapicalls at 493
+Processing movie: The Big Store , RTapicalls at 494
+Processing movie: Stadium Nuts , RTapicalls at 495
+Processing movie: Arlette , RTapicalls at 496
+Processing movie: Top Managers , RTapicalls at 497
+
+skipping movie: Ripoux 3 and adding cast member Claude Zidi
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+Processing movie: Deux , RTapicalls at 498
+skipping movie: Lucky Pierre and adding cast member Claude Zidi
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+==========================================
+Processing person: David Thewlis11207 number 1678 out of 7103
+==========================================
+skipping movie: Harry Potter and the Prisoner of Azkaban and adding cast member David Thewlis
+skipping movie: The Omen and adding cast member David Thewlis
+skipping movie: Seven Years in Tibet and adding cast member David Thewlis
+skipping movie: Basic Instinct 2 and adding cast member David Thewlis
+skipping movie: DragonHeart and adding cast member David Thewlis
+skipping movie: The Island of Dr. Moreau and adding cast member David Thewlis
+skipping movie: Timeline and adding cast member David Thewlis
+skipping movie: Gangster No. 1 and adding cast member David Thewlis
+Processing movie: Dinotopia , RTapicalls at 499
+skipping movie: Black Beauty and adding cast member David Thewlis
+Processing movie: The Boy in the Striped Pajamas , RTapicalls at 500
+skipping movie: Naked and adding cast member David Thewlis
+skipping movie: Veronika Decides To Die and adding cast member David Thewlis
+skipping movie: The Miracle Maker and adding cast member David Thewlis
+Processing movie: Mr Nice , RTapicalls at 501
+skipping movie: Harry Potter and the Deathly Hallows: Part 1 and adding cast member David Thewlis
+skipping movie: Total Eclipse and adding cast member David Thewlis
+skipping movie: Divorcing Jack and adding cast member David Thewlis
+skipping movie: Life Is Sweet and adding cast member David Thewlis
+skipping movie: Restoration and adding cast member David Thewlis
+skipping movie: London Boulevard and adding cast member David Thewlis
+skipping movie: Besieged and adding cast member David Thewlis
+skipping movie: Kingdom of Heaven and adding cast member David Thewlis
+skipping movie: Afraid of the Dark and adding cast member David Thewlis
+skipping movie: Anonymous and adding cast member David Thewlis
+skipping movie: Harry Potter and the Deathly Hallows: Part 2 and adding cast member David Thewlis
+Processing movie: Whatever Happened to Harold Smith? , RTapicalls at 502
+Processing movie: Beckett on Film - Endgame , RTapicalls at 503
+
+skipping movie: The Trial and adding cast member David Thewlis
+Processing movie: The Inner Life of Martin Frost , RTapicalls at 504
+Processing movie: Resurrected , RTapicalls at 505
+skipping movie: The Lady and adding cast member David Thewlis
+Processing movie: Goodbye Charlie Bright , RTapicalls at 506
+skipping movie: War Horse and adding cast member David Thewlis
+Processing movie: Filipina Dreamgirls , RTapicalls at 507
+
+skipping movie: James and the Giant Peach and adding cast member David Thewlis
+Processing movie: Cheeky , RTapicalls at 508
+skipping movie: Damage and adding cast member David Thewlis
+skipping movie: Harry Potter and the Order of the Phoenix and adding cast member David Thewlis
+skipping movie: Harry Potter and the Half-Blood Prince and adding cast member David Thewlis
+skipping movie: RED 2 and adding cast member David Thewlis
+Processing movie: Road , RTapicalls at 509
+Processing movie: D.I.Y Hard , RTapicalls at 510
+
+skipping movie: The Zero Theorem and adding cast member David Thewlis
+skipping movie: The Fifth Estate and adding cast member David Thewlis
+Processing movie: Prime Suspect 3 , RTapicalls at 511
+
+==========================================
+Cant read person name/ unicode to ascii error, id:
+==========================================
+Processing person: Vittorio Caprioli11223 number 1680 out of 7103
+==========================================
+skipping movie: The Wing and the Thigh and adding cast member Vittorio Caprioli
+Processing movie: Zazie in the Metro , RTapicalls at 512
+skipping movie: Anyone Can Play and adding cast member Vittorio Caprioli
+skipping movie: Catherine et Cie and adding cast member Vittorio Caprioli
+Processing movie: Il petomane , RTapicalls at 513
+
+skipping movie: Tout va bien and adding cast member Vittorio Caprioli
+skipping movie: General della Rovere and adding cast member Vittorio Caprioli
+Processing movie: Roba da ricchi , RTapicalls at 514
+
+skipping movie: Buonanotte... avvocato! and adding cast member Vittorio Caprioli
+Processing movie: Arrangiatevi! , RTapicalls at 515
+skipping movie: Le Magnifique and adding cast member Vittorio Caprioli
+Processing movie: I giorni contati , RTapicalls at 516
+Processing movie: Rulers of the City , RTapicalls at 517
+
+Processing movie: Paolo il caldo , RTapicalls at 518
+
+skipping movie: Cinderella '80 and adding cast member Vittorio Caprioli
+Processing movie: Hypochondriac , RTapicalls at 519
+
+skipping movie: The Law and adding cast member Vittorio Caprioli
+Processing movie: Adieu Philippine , RTapicalls at 520
+Processing movie: The Story of Romance and Knife , RTapicalls at 521
+
+Processing movie: When Men Carried Clubs and Women Played Ding-Dong , RTapicalls at 522
+
+skipping movie: Tragedy of a Ridiculous Man and adding cast member Vittorio Caprioli
+Processing movie: I picari , RTapicalls at 523
+
+Processing movie: The School Teacher , RTapicalls at 524
+
+Error printing movie with id: 107052
+Processing movie: Roma bene , RTapicalls at 525
+
+Processing movie: Splendori e miserie di Madame Royale , RTapicalls at 526
+
+Processing movie: Febbre di vivere , RTapicalls at 527
+
+Processing movie: Adulterio all'italiana , RTapicalls at 528
+
+Processing movie: Il male oscuro , RTapicalls at 529
+
+skipping movie: Messalina, Messalina! and adding cast member Vittorio Caprioli
+==========================================
+Processing person: Stephen Fry11275 number 1681 out of 7103
+==========================================
+skipping movie: V for Vendetta and adding cast member Stephen Fry
+Processing movie: The Discovery of Heaven , RTapicalls at 530
+skipping movie: Gosford Park and adding cast member Stephen Fry
+skipping movie: Tristram Shandy: A Cock and Bull Story and adding cast member Stephen Fry
+skipping movie: Alex Rider: Operation Stormbreaker and adding cast member Stephen Fry
+skipping movie: Wilde and adding cast member Stephen Fry
+skipping movie: Peter's Friends and adding cast member Stephen Fry
+Processing movie: MirrorMask , RTapicalls at 531
+skipping movie: Eichmann and adding cast member Stephen Fry
+skipping movie: Tooth and adding cast member Stephen Fry
+skipping movie: St. Trinian's and adding cast member Stephen Fry
+skipping movie: A Handful of Dust and adding cast member Stephen Fry
+skipping movie: The Good Father and adding cast member Stephen Fry
+skipping movie: The Wind in the Willows and adding cast member Stephen Fry
+skipping movie: Four Play and adding cast member Stephen Fry
+skipping movie: Relative Values and adding cast member Stephen Fry
+skipping movie: Sherlock Holmes: A Game of Shadows and adding cast member Stephen Fry
+Error printing movie with id: 59534
+Error printing movie with id: 59535
+Processing movie: Remember the Secret Policeman's Ball? , RTapicalls at 532
+
+Processing movie: March Of The Dinosaurs , RTapicalls at 533
+
+skipping movie: Alice In Wonderland and adding cast member Stephen Fry
+skipping movie: The Hobbit: The Desolation of Smaug and adding cast member Stephen Fry
+skipping movie: Whatever Happened to Harold Smith? and adding cast member Stephen Fry
+skipping movie: House of Boys and adding cast member Stephen Fry
+skipping movie: Cold Comfort Farm and adding cast member Stephen Fry
+Processing movie: Holy Flying Circus , RTapicalls at 534
+skipping movie: The Borrowers and adding cast member Stephen Fry
+Processing movie: Stephen Fry: The Secret Life of the Manic Depressive , RTapicalls at 535
+Processing movie: Benjamin Sniddlegrass and The Cauldron of Penguins , RTapicalls at 536
+skipping movie: Sabotage! and adding cast member Stephen Fry
+Processing movie: Stalag Luft , RTapicalls at 537
+Processing movie: Pocoyo: Fun & Dance with Pocoyo , RTapicalls at 538
+
+Processing movie: Tales of the Riverbank , RTapicalls at 539
+skipping movie: A Civil Action and adding cast member Stephen Fry
+skipping movie: Blackadder's Christmas Carol and adding cast member Stephen Fry
+Processing movie: Wagner & Me , RTapicalls at 540
+skipping movie: Longitude and adding cast member Stephen Fry
+Processing movie: Stephen Fry Live at the Sydney Opera House , RTapicalls at 541
+
+skipping movie: I.Q. and adding cast member Stephen Fry
+Processing movie: Doors Open , RTapicalls at 542
+Processing movie: The Machine That Made Us , RTapicalls at 543
+
+Processing movie: Cambridge Footlights Revue , RTapicalls at 544
+
+skipping movie: The Look of Love and adding cast member Stephen Fry
+skipping movie: A Fish Called Wanda and adding cast member Stephen Fry
+Processing movie: Jools Holland: My Life in Music , RTapicalls at 545
+
+Processing movie: Last Chance to See , RTapicalls at 546
+
+Processing movie: Meet Pocoyo! , RTapicalls at 547
+Processing movie: Pocoyo & Friends , RTapicalls at 548
+skipping movie: A Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman and adding cast member Stephen Fry
+skipping movie: Tom Brown's Schooldays and adding cast member Stephen Fry
+Processing movie: Lost Connection , RTapicalls at 549
+
+==========================================
+Processing person: Natasha Wightman11277 number 1682 out of 7103
+==========================================
+skipping movie: V for Vendetta and adding cast member Natasha Wightman
+skipping movie: Gosford Park and adding cast member Natasha Wightman
+skipping movie: Murder on the Orient Express and adding cast member Natasha Wightman
+skipping movie: Mouth to Mouth and adding cast member Natasha Wightman
+skipping movie: Revelation and adding cast member Natasha Wightman
+Processing movie: Shoreditch , RTapicalls at 550
+==========================================
+Processing person: Rupert Graves11278 number 1683 out of 7103
+==========================================
+skipping movie: V for Vendetta and adding cast member Rupert Graves
+skipping movie: The Revengers' Comedies and adding cast member Rupert Graves
+Processing movie: Death at a Funeral , RTapicalls at 551
+skipping movie: Damage and adding cast member Rupert Graves
+skipping movie: The Madness of King George and adding cast member Rupert Graves
+skipping movie: Maurice and adding cast member Rupert Graves
+Processing movie: God on Trial , RTapicalls at 552
+skipping movie: The Waiting Room and adding cast member Rupert Graves
+Processing movie: Mrs Dalloway , RTapicalls at 553
+skipping movie: A Handful of Dust and adding cast member Rupert Graves
+skipping movie: Where Angels Fear to Tread and adding cast member Rupert Graves
+skipping movie: Different for Girls and adding cast member Rupert Graves
+skipping movie: Dreaming of Joseph Lees and adding cast member Rupert Graves
+skipping movie: Cleopatra and adding cast member Rupert Graves
+Processing movie: Fast Girls , RTapicalls at 554
+skipping movie: Take a Girl Like You and adding cast member Rupert Graves
+Processing movie: Rag Tale , RTapicalls at 555
+Processing movie: The Good Times Are Killing Me , RTapicalls at 556
+
+Processing movie: A Waste of Shame: The Mystery of Shakespeare and His Sonnets , RTapicalls at 557
+
+skipping movie: A Room with a View and adding cast member Rupert Graves
+skipping movie: Son of the Dragon and adding cast member Rupert Graves
+Processing movie: All My Loved Ones , RTapicalls at 558
+Processing movie: To Be First , RTapicalls at 559
+Processing movie: Charles II: The Power & the Passion , RTapicalls at 560
+Processing movie: Extreme Ops , RTapicalls at 561
+==========================================
+Processing person: Natascha McElhone11317 number 1684 out of 7103
+==========================================
+skipping movie: Solaris and adding cast member Natascha McElhone
+skipping movie: The Devil's Own and adding cast member Natascha McElhone
+skipping movie: Ronin and adding cast member Natascha McElhone
+skipping movie: FearDotCom and adding cast member Natascha McElhone
+skipping movie: Big Nothing and adding cast member Natascha McElhone
+skipping movie: Laurel Canyon and adding cast member Natascha McElhone
+skipping movie: Killing Me Softly and adding cast member Natascha McElhone
+skipping movie: The Kid and adding cast member Natascha McElhone
+skipping movie: City of Ghosts and adding cast member Natascha McElhone
+skipping movie: The Truman Show and adding cast member Natascha McElhone
+skipping movie: Mrs Dalloway and adding cast member Natascha McElhone
+skipping movie: The Secret of Moonacre and adding cast member Natascha McElhone
+skipping movie: Guy X and adding cast member Natascha McElhone
+skipping movie: Contaminated Man and adding cast member Natascha McElhone
+Processing movie: The Other Boleyn Girl , RTapicalls at 562
+skipping movie: Surviving Picasso and adding cast member Natascha McElhone
+skipping movie: Blessed and adding cast member Natascha McElhone
+Processing movie: Romeo and Juliet , RTapicalls at 563
+Processing movie: What Rats Won't Do , RTapicalls at 564
+skipping movie: Love's Labour's Lost and adding cast member Natascha McElhone
+skipping movie: Karaoke and adding cast member Natascha McElhone
+skipping movie: The Company and adding cast member Natascha McElhone
+Processing movie: The Sea , RTapicalls at 565
+skipping movie: Believe and adding cast member Natascha McElhone
+==========================================
+Processing person: Jason Isaacs11355 number 1685 out of 7103
+==========================================
+skipping movie: Harry Potter and the Order of the Phoenix and adding cast member Jason Isaacs
+skipping movie: Black Hawk Down and adding cast member Jason Isaacs
+skipping movie: Sweet November and adding cast member Jason Isaacs
+skipping movie: The Patriot and adding cast member Jason Isaacs
+skipping movie: Event Horizon and adding cast member Jason Isaacs
+skipping movie: Friends With Money and adding cast member Jason Isaacs
+skipping movie: Soldier and adding cast member Jason Isaacs
+skipping movie: Peter Pan and adding cast member Jason Isaacs
+skipping movie: The Tuxedo and adding cast member Jason Isaacs
+skipping movie: Good and adding cast member Jason Isaacs
+skipping movie: The Chumscrubber and adding cast member Jason Isaacs
+Processing movie: La conjura de El Escorial , RTapicalls at 566
+skipping movie: Green Zone and adding cast member Jason Isaacs
+Processing movie: Batman: Under the Red Hood , RTapicalls at 567
+Processing movie: Skeletons , RTapicalls at 568
+skipping movie: Harry Potter and the Deathly Hallows: Part 1 and adding cast member Jason Isaacs
+skipping movie: DragonHeart and adding cast member Jason Isaacs
+skipping movie: Nine Lives and adding cast member Jason Isaacs
+skipping movie: Divorcing Jack and adding cast member Jason Isaacs
+skipping movie: Cars 2 and adding cast member Jason Isaacs
+skipping movie: Abduction and adding cast member Jason Isaacs
+skipping movie: Harry Potter and the Deathly Hallows: Part 2 and adding cast member Jason Isaacs
+skipping movie: Armageddon and adding cast member Jason Isaacs
+skipping movie: Green Lantern: Emerald Knights and adding cast member Jason Isaacs
+skipping movie: Peter Pan and adding cast member Jason Isaacs
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+Processing movie: Loved Up , RTapicalls at 569
+
+skipping movie: Solitaire for 2 and adding cast member Jason Isaacs
+skipping movie: Harry Potter and the Chamber of Secrets and adding cast member Jason Isaacs
+skipping movie: Harry Potter and the Goblet of Fire and adding cast member Jason Isaacs
+Processing movie: The Great Ghost Rescue , RTapicalls at 570
+skipping movie: Passionada and adding cast member Jason Isaacs
+skipping movie: Sweetwater and adding cast member Jason Isaacs
+skipping movie: A Single Shot and adding cast member Jason Isaacs
+skipping movie: The End of the Affair and adding cast member Jason Isaacs
+skipping movie: Battle of the Brave and adding cast member Jason Isaacs
+Processing movie: The Curse of Steptoe , RTapicalls at 571
+
+skipping movie: A Single Shot and adding cast member Jason Isaacs
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+skipping movie: A Single Shot and adding cast member Jason Isaacs
+Sqlite error in AddRottenCast: columns person_id, movie_id are not unique
+Processing movie: Don't , RTapicalls at 572
+skipping movie: The Fix and adding cast member Jason Isaacs
+skipping movie: Fury and adding cast member Jason Isaacs
+==========================================
+Processing person: John Lone11389 number 1686 out of 7103
+==========================================
+skipping movie: The Last Emperor and adding cast member John Lone
+skipping movie: M. Butterfly and adding cast member John Lone
+skipping movie: The Shadow and adding cast member John Lone
+skipping movie: War and adding cast member John Lone
+skipping movie: Year of the Dragon and adding cast member John Lone
+skipping movie: Iceman and adding cast member John Lone
+skipping movie: The Hunted and adding cast member John Lone
+skipping movie: Rush Hour 2 and adding cast member John Lone
+skipping movie: Shadow of China and adding cast member John Lone
+skipping movie: The Moderns and adding cast member John Lone
+==========================================
+Processing person: Peter O'Toole11390 number 1687 out of 7103
+==========================================
+skipping movie: The Last Emperor and adding cast member Peter O'Toole
+skipping movie: Lawrence of Arabia and adding cast member Peter O'Toole
+skipping movie: Rosebud and adding cast member Peter O'Toole
+skipping movie: Ratatouille and adding cast member Peter O'Toole
+skipping movie: Hitler: The Rise of Evil and adding cast member Peter O'Toole
+skipping movie: How to Steal a Million and adding cast member Peter O'Toole
+skipping movie: What's New, Pussycat and adding cast member Peter O'Toole
+Processing movie: Caligula , RTapicalls at 573
+skipping movie: Supergirl and adding cast member Peter O'Toole
+skipping movie: Phantoms and adding cast member Peter O'Toole
+skipping movie: King Ralph and adding cast member Peter O'Toole
+skipping movie: Lord Jim and adding cast member Peter O'Toole
+skipping movie: Joan of Arc and adding cast member Peter O'Toole
+Processing movie: Venus , RTapicalls at 574
+skipping movie: Lassie and adding cast member Peter O'Toole
+skipping movie: One Night with the King and adding cast member Peter O'Toole
+skipping movie: Becket and adding cast member Peter O'Toole
+skipping movie: Dean Spanley and adding cast member Peter O'Toole
+skipping movie: High Spirits and adding cast member Peter O'Toole
+skipping movie: Club Paradise and adding cast member Peter O'Toole
+Processing movie: FairyTale: A True Story , RTapicalls at 575
+
+Processing movie: The Ruling Class , RTapicalls at 576
+Processing movie: My Favorite Year , RTapicalls at 577
+skipping movie: Stardust and adding cast member Peter O'Toole
+skipping movie: Troy and adding cast member Peter O'Toole
+Processing movie: Murphy's War , RTapicalls at 578
+Processing movie: The Bible: In the Beginning... , RTapicalls at 579
+
+skipping movie: Zulu Dawn and adding cast member Peter O'Toole
+skipping movie: Creator and adding cast member Peter O'Toole
+Processing movie: The Manor , RTapicalls at 580
+skipping movie: Goodbye, Mr. Chips and adding cast member Peter O'Toole
+skipping movie: The Night of the Generals and adding cast member Peter O'Toole
+Processing movie: Man of La Mancha , RTapicalls at 581
+skipping movie: The Nutcracker Prince and adding cast member Peter O'Toole
+skipping movie: Kidnapped and adding cast member Peter O'Toole
+Processing movie: Sherlock Holmes and the Valley of Fear , RTapicalls at 582
+Processing movie: Augustus: The First Emperor , RTapicalls at 583
+
+skipping movie: Under Milk Wood and adding cast member Peter O'Toole
+skipping movie: On a Moonlit Night and adding cast member Peter O'Toole
+Processing movie: Isabelle Eberhardt , RTapicalls at 584
+
+Processing movie: Quoi de neuf, Pussycat ? , RTapicalls at 585
+
+Processing movie: Masada , RTapicalls at 586
+skipping movie: Casino Royale and adding cast member Peter O'Toole
+skipping movie: The Stunt Man and adding cast member Peter O'Toole
+skipping movie: The Lion in Winter and adding cast member Peter O'Toole
+skipping movie: The Rainbow Thief and adding cast member Peter O'Toole
+skipping movie: Supergirl: The Making of the Movie and adding cast member Peter O'Toole
+skipping movie: Eldorado and adding cast member Peter O'Toole
+skipping movie: Rock My World and adding cast member Peter O'Toole
+Processing movie: Sherlock Holmes and the Baskerville Curse , RTapicalls at 587
+skipping movie: The Savage Innocents and adding cast member Peter O'Toole
+skipping movie: Foxtrot and adding cast member Peter O'Toole
+skipping movie: Man Friday and adding cast member Peter O'Toole
+skipping movie: The Day They Robbed the Bank of England and adding cast member Peter O'Toole
+Processing movie: For Greater Glory - The True Story of Cristiada , RTapicalls at 588
+
+skipping movie: Rogue Male and adding cast member Peter O'Toole
+Processing movie: Eager to Die , RTapicalls at 589
+
+Processing movie: Jeffrey Bernard Is Unwell , RTapicalls at 590
+
+Processing movie: Heavy Weather , RTapicalls at 591
+skipping movie: The Seventh Coin and adding cast member Peter O'Toole
+Processing movie: Rebecca's Daughters , RTapicalls at 592
+
+Processing movie: Crossing to Freedom , RTapicalls at 593
+
+skipping movie: Kim and adding cast member Peter O'Toole
+skipping movie: Svengali and adding cast member Peter O'Toole
+Processing movie: Sherlock Holmes and the Sign of Four , RTapicalls at 594
+Processing movie: Sherlock Holmes and a Study in Scarlet , RTapicalls at 595
+skipping movie: Pygmalion and adding cast member Peter O'Toole
+Processing movie: Man and Superman , RTapicalls at 596
+
+skipping movie: Power Play and adding cast member Peter O'Toole
+skipping movie: Country Dance and adding cast member Peter O'Toole
+Processing movie: Great Catherine , RTapicalls at 597
+Processing movie: The Castiglioni Brothers , RTapicalls at 598
+
+skipping movie: Iron Road and adding cast member Peter O'Toole
+Processing movie: The Dark Angel , RTapicalls at 599
+Processing movie: The Final Curtain , RTapicalls at 600
+Processing movie: The Making of 'Lawrence of Arabia' , RTapicalls at 601
+
+skipping movie: Highway to Hell and adding cast member Peter O'Toole
+skipping movie: Christmas Cottage and adding cast member Peter O'Toole
+Processing movie: The Whole World at Our Feet , RTapicalls at 602
+
+Processing movie: Coming Home , RTapicalls at 603
+Processing movie: Casanova , RTapicalls at 604
+==========================================
+Processing person: Dennis Dun11392 number 1688 out of 7103
+==========================================
+skipping movie: The Last Emperor and adding cast member Dennis Dun
+skipping movie: Big Trouble in Little China and adding cast member Dennis Dun
+skipping movie: Prince of Darkness and adding cast member Dennis Dun
+==========================================
+Processing person: Victor Wong11395 number 1689 out of 7103
+==========================================
+skipping movie: The Last Emperor and adding cast member Victor Wong
+skipping movie: Seven Years in Tibet and adding cast member Victor Wong
+skipping movie: Big Trouble in Little China and adding cast member Victor Wong
+skipping movie: Prince of Darkness and adding cast member Victor Wong
+Processing movie: 3 Ninjas , RTapicalls at 605
+skipping movie: Year of the Dragon and adding cast member Victor Wong
+Processing movie: 3 Ninjas Kick Back , RTapicalls at 606
+Processing movie: 3 Ninjas Knuckle Up , RTapicalls at 607
+skipping movie: The Golden Child and adding cast member Victor Wong
+Processing movie: 3 Ninjas: High Noon at Mega Mountain , RTapicalls at 608
+
+Processing movie: Eat a Bowl of Tea , RTapicalls at 609
+skipping movie: Dim Sum: A Little Bit of Heart and adding cast member Victor Wong
+skipping movie: The Joy Luck Club and adding cast member Victor Wong
+skipping movie: Tremors and adding cast member Victor Wong
+==========================================
+Processing person: Cary-Hiroyuki Tagawa11398 number 1690 out of 7103
+==========================================
+skipping movie: The Last Emperor and adding cast member Cary-Hiroyuki Tagawa
+skipping movie: Planet of the Apes and adding cast member Cary-Hiroyuki Tagawa
+skipping movie: Memoirs of a Geisha and adding cast member Cary-Hiroyuki Tagawa
+skipping movie: Rising Sun and adding cast member Cary-Hiroyuki Tagawa
+skipping movie: Mortal Kombat and adding cast member Cary-Hiroyuki Tagawa
+skipping movie: Elektra and adding cast member Cary-Hiroyuki Tagawa
+Processing movie: Johnny Tsunami , RTapicalls at 610
+skipping movie: Nemesis and adding cast member Cary-Hiroyuki Tagawa
+skipping movie: The Tomb and adding cast member Cary-Hiroyuki Tagawa
+skipping movie: Top of the World and adding cast member Cary-Hiroyuki Tagawa
+Processing movie: Teen Titans: Trouble in Tokyo , RTapicalls at 611
+Processing movie: Tekken , RTapicalls at 612
+Processing movie: Showdown in Little Tokyo , RTapicalls at 613
+skipping movie: Hachi: A Dog's Tale and adding cast member Cary-Hiroyuki Tagawa
+Processing movie: Bodyguard: A New Beginning , RTapicalls at 614
+Processing movie: Johnny Kapahala - Back on Board , RTapicalls at 615
+skipping movie: Kickboxer 2:  The Road Back and adding cast member Cary-Hiroyuki Tagawa
+skipping movie: Twins and adding cast member Cary-Hiroyuki Tagawa
+Processing movie: Picture Bride , RTapicalls at 616
+skipping movie: American Dragons and adding cast member Cary-Hiroyuki Tagawa
+Processing movie: When the Cobra Strikes , RTapicalls at 617
+
+skipping movie: The Ghost and adding cast member Cary-Hiroyuki Tagawa
+Processing movie: Soldier Boyz , RTapicalls at 618
+skipping movie: Balls of Fury and adding cast member Cary-Hiroyuki Tagawa
+skipping movie: The Phantom and adding cast member Cary-Hiroyuki Tagawa
+skipping movie: Mission of the Shark: The Saga of the U.S.S. Indianapolis and adding cast member Cary-Hiroyuki Tagawa
+Processing movie: The Whole World at Our Feet , RTapicalls at 619

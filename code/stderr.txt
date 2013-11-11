@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "actors.py", line 25, in <module>
+    print "Processing person: " + person[1]
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xf6' in position 28: ordinal not in range(128)

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "actors.py", line 16, in <module>
+    print "Reached RTApi limit for today: " + str(objRTapicalls)
+NameError: name 'objRTapicalls' is not defined

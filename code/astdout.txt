@@ -1,0 +1,1016 @@
+Creating Tables
+==========================================
+Cant read person name/ unicode to ascii error, id:74
+==========================================
+Processing person: Brigitte Helm
+==========================================
+Processing movie: A Daughter Of Destiny
+Processing movie: Alraune
+Processing movie: Queen of Atlantis
+Processing movie: Autour de l'argent
+Processing movie: The Mistress of Atlantis
+Processing movie: The Love of Jeanne Ney
+Processing movie: Gloria
+Error printing movie with id: 144932
+Processing movie: Adieu les beaux jours
+Processing movie: Die singende Stadt
+Processing movie: Gold
+Processing movie: The Devious Path
+Processing movie: The Wonderful Lies of Nina Petrovna
+Error printing movie with id: 173813
+Processing movie: Gloria
+Error printing movie with id: 176852
+Processing movie: Am Rande der Welt
+Error printing movie with id: 190368
+Processing movie: L'Atlantide
+==========================================
+Processing person: Rudolf Klein-Rogge
+==========================================
+Processing movie: The Cabinet of Dr. Caligari
+Error printing movie with id: 81406
+Processing movie: Warning Shadows
+Processing movie: The Wandering Image
+Processing movie: Le testament du Dr. Mabuse
+==========================================
+Processing person: Fritz Rasp
+==========================================
+Processing movie: The Puzzle of the Red Orchid
+Processing movie: Emil und die Detektive
+Processing movie: Edgar Wallace: Die Bande des Schreckens
+Processing movie: Die Carmen von St. Pauli
+Processing movie: Charleys Tante
+Processing movie: Face of the Frog
+Processing movie: Diary of a Lost Girl
+Processing movie: The 3 Penny Opera
+Processing movie: Das schwarze Schaf
+Processing movie: The Squeeker
+Processing movie: Lina Braake
+Processing movie: Hokuspokus oder: Wie lasse ich meinen Mann verschwinden...?
+Error printing movie with id: 197781
+==========================================
+Processing person: Theodor Loos
+==========================================
+Processing movie: Homunculus
+Processing movie: The mysterious book
+Processing movie: The tragic love story of the Homunculus
+Processing movie: The Revenge of the Homunculus
+Processing movie: The Destruction of Mankind
+Error printing movie with id: 5887
+Processing movie: Manon Lescaut
+Processing movie: Die blonde Christl
+Error printing movie with id: 6794
+Processing movie: Our Heavenly Bodies
+Processing movie: Die Entlassung
+Processing movie: The Girl from the Marsh Croft
+Processing movie: The Traitor
+Processing movie: Final Accord
+==========================================
+Processing person: Johnny Depp
+==========================================
+Processing movie: Pirates of the Caribbean: The Curse of the Black Pearl
+Processing movie: Charlie and the Chocolate Factory
+Processing movie: Edward Scissorhands
+Processing movie: Pirates of the Caribbean: At World's End
+Processing movie: A Nightmare on Elm Street
+Processing movie: Ed Wood
+Processing movie: The Ninth Gate
+Processing movie: Platoon
+Processing movie: Finding Neverland
+Processing movie: Dead Man
+Processing movie: Fear and Loathing in Las Vegas
+Processing movie: Nick of Time
+Processing movie: Corpse Bride
+Processing movie: Benny & Joon
+Processing movie: Before Night Falls
+Processing movie: The Imaginarium of Doctor Parnassus
+Processing movie: Donnie Brasco
+Processing movie: Public Enemies
+Processing movie: Alice In Wonderland
+Processing movie: Rex Mundi
+Processing movie: ...And They Lived Happily Ever After
+Processing movie: The Man Who Cried
+Processing movie: When You're Strange
+Processing movie: Rango
+Processing movie: Charlie: The Life and Art of Charles Chaplin
+Processing movie: What's Eating Gilbert Grape
+Processing movie: Blow
+Processing movie: Pirates of the Caribbean: Dead Man's Chest
+Processing movie: The Tourist
+Processing movie: The Rum Diary
+Processing movie: The Lone Ranger
+Processing movie: The Libertine
+Processing movie: Pirates of the Caribbean: On Stranger Tides
+Processing movie: The Astronaut's Wife
+Processing movie: Dark Shadows
+Processing movie: Freddy's Dead: The Final Nightmare
+Processing movie: Gonzo: The Life and Work of Dr. Hunter S. Thompson
+Processing movie: Shantaram
+Processing movie: Sweeney Todd: The Demon Barber of Fleet Street
+Processing movie: Sleepy Hollow
+Processing movie: Cry-Baby
+Processing movie: Once Upon a Time in Mexico
+Processing movie: The Brave
+Processing movie: Arizona Dream
+Processing movie: Deep Sea
+Processing movie: Private Resort
+Processing movie: Don Juan DeMarco
+Processing movie: 21 Jump Street
+Processing movie: Joe Strummer: The Future Is Unwritten
+Processing movie: The Night Stalker
+Processing movie: Lost in La Mancha
+Processing movie: Pirates of the Caribbean: Dead Men Tell No Tales
+Processing movie: Transcendence
+Processing movie: Breakfast with Hunter
+Processing movie: Buy the Ticket, Take the Ride
+Processing movie: Into the Woods
+Processing movie: Mortdecai
+Processing movie: When the Road Bends: Tales of a Gypsy Caravan
+==========================================
+Processing person: Sarah Polley
+==========================================
+Processing movie: My Life Without Me
+Processing movie: The Secret Life of Words
+Processing movie: Dawn of the Dead
+Processing movie: Don't Come Knocking
+Processing movie: Go
+Processing movie: The I Inside
+Processing movie: The Weight of Water
+Processing movie: Last Night
+Processing movie: No Such Thing
+Processing movie: Babar The Movie
+Processing movie: Splice
+Processing movie: Exotica
+Processing movie: Mr. Nobody
+Processing movie: One Magic Christmas
+Processing movie: The Adventures of Baron Munchausen
+Processing movie: Joe's So Mean to Josephine
+Processing movie: Guinevere
+Processing movie: Wrath of Gods
+Processing movie: Blue Monkey
+Processing movie: Jerry and Tom
+Processing movie: Stories We Tell
+Processing movie: Trigger
+Processing movie: Siblings
+Processing movie: White Lies
+Processing movie: The Event
+==========================================
+Processing person: Leonor Watling
+==========================================
+Processing movie: Talk to Her
+Processing movie: Bad Education
+Processing movie: Salvador (Puig Antich)
+Processing movie: Paris, I Love You
+Processing movie: The Oxford Murders
+Error printing movie with id: 20511
+Processing movie: The Maidens' Conspiracy
+Processing movie: Unconscious
+Processing movie: Sound of the Sea
+Processing movie: Magic Journey to Africa
+Processing movie: Lope
+Processing movie: Lezione ventuno
+Processing movie: In The City
+Processing movie: Films to Keep You Awake: The Baby's Room
+Processing movie: Papitour
+Processing movie: Lo mejor de Eva
+Processing movie: My Mother Likes Women
+Processing movie: Malas temporadas
+Processing movie: Desire
+Processing movie: La primera noche de mi vida
+Processing movie: A Time for Defiance
+Processing movie: A Gun in Each Hand
+Processing movie: If I Were You
+Processing movie: Todas hieren
+==========================================
+Processing person: Mark Ruffalo
+==========================================
+Processing movie: Eternal Sunshine of the Spotless Mind
+Processing movie: Collateral
+Processing movie: All the King's Men
+Processing movie: Zodiac
+Processing movie: The Last Castle
+Processing movie: Rumor has it...
+Processing movie: 54
+Processing movie: Blindness
+Processing movie: Reservation Road
+Processing movie: Just Like Heaven
+Processing movie: 13 Going On 30
+Processing movie: In the Cut
+Processing movie: Shutter Island
+Processing movie: You Can Count on Me
+Processing movie: What Doesn't Kill You
+Processing movie: Where the Wild Things Are
+Processing movie: The Brothers Bloom
+Processing movie: Chicago 10
+Processing movie: Date Night
+Processing movie: Ride with the Devil
+Processing movie: We Don't Live Here Anymore
+Processing movie: The Kids Are All Right
+Processing movie: XX/XY
+Processing movie: Margaret
+Processing movie: Safe Men
+Processing movie: The Last Big Thing
+Processing movie: Sympathy for Delicious
+Processing movie: Apartment 12
+Processing movie: The Avengers
+Processing movie: A Fish in the Bathtub
+Processing movie: Thanks for Sharing
+Processing movie: The Normal Heart
+Processing movie: Now You See Me
+Processing movie: Kingdom Come
+Processing movie: The Avengers: Age of Ultron
+Processing movie: On The Second Day Of Christmas
+Processing movie: Can a Song Save Your Life?
+Processing movie: Foxcatcher
+Processing movie: Hollywood Speaks Up
+Processing movie: Letters to Jackie: Remembering President Kennedy
+==========================================
+Processing person: Peter Jackson
+==========================================
+Processing movie: King Kong
+Processing movie: Meet the Feebles
+Processing movie: Bad Taste
+Processing movie: Forgotten Silver
+Processing movie: Heavenly Creatures
+Processing movie: The Adventures of Tintin
+Processing movie: District 9
+Processing movie: The Lovely Bones
+Processing movie: The Frighteners
+Processing movie: Dead Alive
+Processing movie: West of Memphis
+Processing movie: Jack Brown: Genius
+Processing movie: The Valley
+==========================================
+Processing person: Elijah Wood
+==========================================
+Processing movie: Everything is Illuminated
+Processing movie: Green Street Hooligans
+Processing movie: The Good Son
+Processing movie: The Faculty
+Processing movie: Happy Feet
+Processing movie: Forever Young
+Processing movie: Bobby
+Processing movie: Oliver Twist
+Processing movie: Operation Filmmaker
+Processing movie: Fight for Your Right Revisited
+Processing movie: Happy Feet Two
+Processing movie: The Heart is a Drum Machine
+Processing movie: Paradise
+Processing movie: The Ice Storm
+Processing movie: Ringers - Lord of the Fans
+Processing movie: Ash Wednesday
+Processing movie: The War
+Processing movie: Day Zero
+Processing movie: 9
+Processing movie: Chain of Fools
+Processing movie: Deep Impact
+Processing movie: The Adventures of Huck Finn
+Processing movie: Flipper
+Processing movie: Treasure Island
+Processing movie: The Bumblebee Flies Anyway
+Processing movie: Maniac
+Processing movie: Celeste & Jesse Forever
+Processing movie: The Death and Return of Superman
+Processing movie: Child in the Night
+Processing movie: Internal Affairs
+Processing movie: Frodo Is Great... Who Is That?!!
+Processing movie: Open Windows
+Processing movie: The Romantics
+Processing movie: Spy Kids 3-D: Game Over
+Processing movie: Revenge for Jolly
+Processing movie: Pawn Shop Chronicles
+Processing movie: A Band Called Death
+Processing movie: Grand Piano
+==========================================
+Processing person: Viggo Mortensen
+==========================================
+Processing movie: A Perfect Murder
+Processing movie: Hidalgo
+Processing movie: Eastern Promises
+Processing movie: G.I. Jane
+Processing movie: Carlito's Way
+Processing movie: Crimson Tide
+Processing movie: Daylight
+Processing movie: Psycho
+Processing movie: Good
+Processing movie: Appaloosa
+Processing movie: The Road
+Processing movie: The Reflecting Skin
+Processing movie: The Indian Runner
+Processing movie: Vanishing Point
+Processing movie: A Walk on the Moon
+Processing movie: American Yakuza
+Processing movie: The Passion of Darkly Noon
+Processing movie: Fresh Horses
+Processing movie: Alatriste
+Processing movie: A Dangerous Method
+Processing movie: Prison
+Processing movie: Young Guns II
+Processing movie: Leatherface: Texas Chainsaw Massacre III
+Processing movie: The Young Americans
+Processing movie: The People Speak
+Processing movie: On the Road
+Processing movie: Slacker Uprising
+Processing movie: Boiling Point
+Processing movie: My Brother's Gun
+Processing movie: Gospel According to Harry
+Processing movie: Salvation!: Have You Said Your Prayers Today?
+Processing movie: Everybody Has a Plan
+Processing movie: Reclaiming the Blade
+Processing movie: Ruby Cairo
+Processing movie: Tripwire
+Processing movie: The Two Faces of January
+==========================================
+Processing person: Cate Blanchett
+==========================================
+Processing movie: The Good German
+Processing movie: Coffee and Cigarettes
+Processing movie: Babel
+Processing movie: The Talented Mr. Ripley
+Processing movie: The Gift
+Processing movie: I'm Not There
+Processing movie: Elizabeth: The Golden Age
+Processing movie: Elizabeth
+Processing movie: Hot Fuzz
+Processing movie: The Curious Case of Benjamin Button
+Processing movie: Little Fish
+Processing movie: Cancer Vixen: A True Story
+Processing movie: Heaven
+Processing movie: Veronica Guerin
+Processing movie: The Missing
+Processing movie: Charlotte Gray
+Processing movie: Robin Hood
+Processing movie: An Ideal Husband
+Processing movie: Hanna
+Processing movie: The Shipping News
+Processing movie: Notes on a Scandal
+Processing movie: Oscar and Lucinda
+Processing movie: The Life Aquatic With Steve Zissou
+Processing movie: Pushing Tin
+Processing movie: Paradise Road
+Processing movie: Stories of Lost Souls
+Processing movie: Knight of Cups
+Processing movie: The Real Robin Hood
+Processing movie: Ponyo
+Processing movie: Cinderella
+Processing movie: The Monuments Men
+Processing movie: Blue Jasmine
+Processing movie: Girl Rising
+Processing movie: Matthew Gray Gubler's Life Aquatic Intern Journal
+Processing movie: The Turning
+Processing movie: How to Train Your Dragon 2
+Processing movie: Journey to the South Pacific
+==========================================
+Processing person: Christopher Lee
+==========================================
+Processing movie: The Man with the Golden Gun
+Processing movie: Gremlins 2: The New Batch
+Processing movie: Moses
+Processing movie: The Two Faces of Dr. Jekyll
+Processing movie: End of the World
+Processing movie: The Curse of Frankenstein
+Processing movie: 100 Years of Horror: The Frankenstein Family
+Processing movie: 100 Years of Horror: Baron Frankenstein
+Processing movie: The Face of Fu Manchu
+Processing movie: The Blood of Fu Manchu
+Processing movie: The Castle of Fu Manchu
+Processing movie: The Puzzle of the Red Orchid
+Processing movie: The French Revolution
+Processing movie: A Tale of Two Cities
+Processing movie: The Private Life of Sherlock Holmes
+Processing movie: Airport '77
+Error printing movie with id: 11786
+Processing movie: The Hound of the Baskervilles
+Processing movie: The Four Musketeers
+Processing movie: The Colour of Magic
+Processing movie: Mio in the Land of Faraway
+Processing movie: The Wicker Man
+Processing movie: Dracula: Prince of Darkness
+Processing movie: Circle of Iron
+Processing movie: Treasure Island
+Processing movie: Corridor of Mirrors
+Processing movie: Hercules in the Haunted World
+Processing movie: Castle of the Living Dead
+Processing movie: The Gorgon
+Processing movie: Rasputin: The Mad Monk
+Processing movie: The Terror of the Tongs
+Processing movie: The Man Who Could Cheat Death
+Processing movie: The Devil-Ship Pirates
+Error printing movie with id: 28861
+Processing movie: 100 Years of Horror: Scream Queens
+Processing movie: Witch's Dungeon: 40 Years of Chills
+Processing movie: La chute des aigles
+Processing movie: 100 Years of Horror: The Count and Company
+Processing movie: Corridors of Blood
+Processing movie: Alias John Preston
+Processing movie: The Brides of Fu Manchu
+Processing movie: Hannie Caulder
+Processing movie: Horror Express
+Processing movie: Dracula A.D. 1972
+Processing movie: Triage
+Processing movie: Scars of Dracula
+Processing movie: The Heavy
+Processing movie: The Satanic Rites of Dracula
+Processing movie: Glorious 39
+Processing movie: Penny and the Pownall Case
+Processing movie: Gormenghast
+Processing movie: The City of the Dead
+Processing movie: The Devil Rides Out
+Processing movie: Serial
+Processing movie: Caravans
+Processing movie: The Bloody Judge
+Processing movie: To the Devil a Daughter
+Processing movie: The Crimson Pirate
+Processing movie: The House That Dripped Blood
+Processing movie: She
+Processing movie: Psycho-Circus
+Processing movie: Burke & Hare
+Processing movie: The Resident
+Processing movie: Season of the Witch
+Processing movie: The Passage
+Processing movie: The Mummy
+Processing movie: The Creeping Flesh
+Processing movie: The Skull
+Processing movie: I, Monster
+Processing movie: House of the Long Shadows
+Processing movie: Night of the Big Heat
+Processing movie: Scream and Scream Again
+Processing movie: The Last Unicorn
+Processing movie: Death Train
+Processing movie: The Pirates of Blood River
+Processing movie: Hugo
+Processing movie: Scream of Fear
+Processing movie: Jocks
+Processing movie: Bitter Victory
+Processing movie: Crimson Rivers II: Angels of the Apocalypse
+Processing movie: Nothing But the Night
+Processing movie: Julius Caesar
+Processing movie: The Three Musketeers
+Processing movie: Starship Invasions
+Processing movie: Whip and the Body
+Processing movie: Dr. Terror's House of Horrors
+Processing movie: Count Dracula
+Processing movie: The Oblong Box
+Processing movie: Return From Witch Mountain
+Processing movie: Boogie Woogie
+Processing movie: Dracula Has Risen from the Grave
+Processing movie: Goliath Awaits
+Processing movie: Bear Island
+Processing movie: The Torture Chamber of Dr. Sadism
+Processing movie: Horror of Dracula
+Processing movie: Curse of the Crimson Altar
+Processing movie: 100 Years of Horror: The Gruesome Twosome
+Processing movie: Taste the Blood of Dracula
+Processing movie: Shaka Zulu
+Processing movie: The Rainbow Thief
+Processing movie: Sherlock Holmes: Incident at Victoria Falls
+Processing movie: The Hands of Orlac
+Processing movie: Arabian Adventure
+Processing movie: Five Golden Dragons
+Processing movie: The Wicker Tree
+Processing movie: The Vengeance of Fu Manchu
+Processing movie: The Virgin of Nuremberg
+Processing movie: Sherlock Holmes and the Deadly Necklace
+Processing movie: Tale of the Mummy
+Processing movie: Killer Force
+Processing movie: Jaguar Lives!
+Processing movie: Beat Girl
+Processing movie: Howling II: ... Your Sister Is a Werewolf
+Processing movie: Curse III: Blood Sacrifice
+Processing movie: The Golden Compass
+Processing movie: Ivanhoe
+Processing movie: Funny Man
+Processing movie: Mask of Murder
+Processing movie: Sherlock Holmes and the Leading Lady
+Processing movie: Theatre of Death
+Processing movie: The Girl
+Processing movie: The Return of the Musketeers
+Processing movie: Jinnah
+Processing movie: Valley of the Eagles
+Processing movie: Fortune Is a Woman
+Processing movie: Meatcleaver Massacre
+Processing movie: Eve
+Processing movie: Cuadecuc, vampir
+Processing movie: The Return of Captain Invincible
+Processing movie: Greyfriars Bobby
+Processing movie: A Feast At Midnight
+Processing movie: Safari 3000
+Processing movie: An Eye for an Eye
+Processing movie: Dark Places
+Processing movie: Innocents in Paris
+Processing movie: Hard Times For Vampires
+Processing movie: Umbracle
+Processing movie: That Lady
+Processing movie: In Search of Dracula
+Processing movie: The Dark Avenger
+Processing movie: Soul Music
+Processing movie: Evil Stalks This House
+Processing movie: Wyrd Sisters
+Processing movie: The Odyssey
+Processing movie: Flesh and Blood: The Hammer Horror Heritage
+Processing movie: The Cockleshell Heroes
+Processing movie: The Rosebud Beach Hotel
+Processing movie: Princess Alisea
+Processing movie: Night Train to Lisbon
+Processing movie: Everything or Nothing: The Untold Story of 007
+Processing movie: Honeymoon Academy
+Processing movie: Nutcracker Fantasy
+Processing movie: The fall of the house of Usher
+Processing movie: The Many Faces of Christopher Lee
+Processing movie: Babes in Bagdad
+Processing movie: Eugenie... the Story of Her Journey Into Perversion
+Processing movie: Kidnapper
+Processing movie: Albino
+Processing movie: The Treasure of San Teresa
+Processing movie: Captain America II Death Too Soon
+Processing movie: Prelude to Fame
+Processing movie: Top Secret
+Processing movie: Diagnosis: Murder
+Processing movie: La cripta e l'incubo
+Processing movie: Ein Leben wie im Flug
+Processing movie: Sfida al diavolo
+Processing movie: Necessary Evil: Super-Villains of DC Comics
+==========================================
+Processing person: Orlando Bloom
+==========================================
+Processing movie: Black Hawk Down
+Processing movie: Kingdom of Heaven
+Processing movie: Love and Other Disasters
+Processing movie: Elizabethtown
+Processing movie: Ned Kelly
+Processing movie: The Calcium Kid
+Processing movie: Main Street
+Processing movie: The Good Doctor
+Processing movie: Haven
+Processing movie: Cities
+Processing movie: The Laureate
+Processing movie: Zulu
+==========================================
+Processing person: Keira Knightley
+==========================================
+Processing movie: Bend It Like Beckham
+Processing movie: The Hole
+Processing movie: Love Actually
+Processing movie: Atonement
+Processing movie: Princess of Thieves
+Processing movie: King Arthur
+Processing movie: The Jacket
+Processing movie: Domino
+Processing movie: The Duchess
+Processing movie: Silk
+Processing movie: Never Let Me Go
+Processing movie: Doctor Zhivago
+Processing movie: London Boulevard
+Processing movie: Le jardin des secrets
+Processing movie: Innocent Lies
+Processing movie: Pure
+Processing movie: The Edge of Love
+Processing movie: Last Night
+Processing movie: Pride & Prejudice
+Processing movie: Seeking a Friend for the End of the World
+Processing movie: Anna Karenina
+Processing movie: Neverland
+Processing movie: Stars In Shorts
+Processing movie: Oliver Twist
+Processing movie: Jack Ryan: Shadow Recruit
+Processing movie: Thunderpants
+Processing movie: The Imitation Game
+==========================================
+Processing person: Geoffrey Rush
+==========================================
+Processing movie: Munich
+Processing movie: Frida
+Processing movie: Shakespeare in Love
+Processing movie: The Tailor of Panama
+Error printing movie with id: 4415
+Processing movie: Candy
+Processing movie: The Banger Sisters
+Processing movie: Children of the Revolution
+Processing movie: The Life and Death of Peter Sellers
+Processing movie: Quills
+Processing movie: Intolerable Cruelty
+Processing movie: $9.99
+Processing movie: Dad and Dave On Our Selection
+Processing movie: Bran Nue Dae
+Processing movie: Swimming Upstream
+Processing movie: The King's Speech
+Processing movie: Across the Line: The Exodus of Charlie Wright
+Processing movie: The Warrior's Way
+Processing movie: Shine
+Processing movie: Lantana
+Processing movie: The Magic Pudding
+Processing movie: The Eye of the Storm
+Processing movie: Mystery Men
+Processing movie: Harvie Krumpet
+Processing movie: The Best Offer
+Processing movie: Green Lantern
+Processing movie: The Book Thief
+==========================================
+Processing person: Jake Gyllenhaal
+==========================================
+Processing movie: Donnie Darko
+Processing movie: Brokeback Mountain
+Processing movie: City Slickers
+Processing movie: Rendition
+Processing movie: Brothers
+Processing movie: Proof
+Processing movie: The Good Girl
+Processing movie: October Sky
+Processing movie: Highway
+Processing movie: Love & Other Drugs
+Processing movie: Moonlight Mile
+Processing movie: Source Code
+Processing movie: Lovely & Amazing
+Processing movie: Prince of Persia: The Sands of Time
+Processing movie: Bubble Boy
+Processing movie: End of Watch
+Processing movie: A Dangerous Woman
+Processing movie: Enemy
+==========================================
+Processing person: Jamie Foxx
+==========================================
+Processing movie: Dreamgirls
+Processing movie: Ray
+Processing movie: The Kingdom
+Processing movie: The Truth About Cats & Dogs
+Processing movie: Any Given Sunday
+Processing movie: Stealth
+Processing movie: Shade
+Processing movie: Bait
+Processing movie: Breakin' All the Rules
+Processing movie: The Soloist
+Processing movie: The Great White Hype
+Processing movie: Booty Call
+Processing movie: Law Abiding Citizen
+Processing movie: Redemption: The Stan Tookie Williams Story
+Processing movie: Valentine's Day
+Processing movie: Due Date
+Processing movie: Held Up
+Processing movie: Horrible Bosses
+Processing movie: The Players Club
+Processing movie: DJ SWB Volume 6 - This Is How We Do
+Processing movie: Plies - Goon In The Trap
+Processing movie: DJ Juice - The King is Back Mixtape Blend Dvd Vol. 70
+Processing movie: Mistarello Presents: Hard Body Blends Volume 4
+Processing movie: Rio
+Processing movie: The Skank Robbers
+Processing movie: Django Unchained
+Processing movie: Richard Pryor: I Ain't Dead Yet, #*%$#@!!
+Processing movie: Jamie Foxx: Straight from the Foxxhole
+Processing movie: Jamie Foxx Unleashed: Lost, Stolen and Leaked!
+Processing movie: Jamie Foxx: I Might Need Security
+Processing movie: Thunder Soul
+Processing movie: Miami Vice
+Processing movie: White House Down
+Processing movie: Always Whitney Houston
+Processing movie: A Man's Story
+Processing movie: Eddie Murphy: One Night Only
+Processing movie: Rio 2
+Processing movie: Annie
+Processing movie: Genius. A Night for Ray Charles
+==========================================
+Processing person: Quentin Tarantino
+==========================================
+Processing movie: Jackie Brown
+Processing movie: Kill Bill: Vol. 2
+Processing movie: Killing Zoe
+Processing movie: From Dusk Till Dawn
+Processing movie: Hostel
+Processing movie: Death Proof
+Processing movie: My Best Friend's Birthday
+Processing movie: From Dusk Till Dawn 2: Texas Blood Money
+Processing movie: Curdled
+Processing movie: Kill Bill: Vol. 1
+Processing movie: Inglourious Basterds
+Processing movie: Reservoir Dogs
+Processing movie: Hell Ride
+Processing movie: Natural Born Killers
+Processing movie: From Dusk Till Dawn 3: The Hangman's Daughter
+==========================================
+Processing person: Uma Thurman
+==========================================
+Processing movie: Batman & Robin
+Processing movie: Gattaca
+Processing movie: Dangerous Liaisons
+Processing movie: Prime
+Error printing movie with id: 4415
+Processing movie: My Super Ex-Girlfriend
+Processing movie: Be Cool
+Processing movie: Final Analysis
+Processing movie: Vatel
+Processing movie: Beautiful Girls
+Processing movie: The Avengers
+Processing movie: Paycheck
+Processing movie: The Producers
+Processing movie: Jennifer 8
+Processing movie: Mad Dog and Glory
+Processing movie: The Life Before Her Eyes
+Processing movie: The Accidental Husband
+Processing movie: Henry & June
+Processing movie: Motherhood
+Processing movie: Tape
+Processing movie: A Muppets Christmas: Letters to Santa
+Processing movie: The Golden Bowl
+Processing movie: Robin Hood
+Processing movie: Percy Jackson and the Lightning Thief
+Processing movie: Even Cowgirls Get the Blues
+Processing movie: Hysterical Blindness
+Processing movie: Mission Zero
+Processing movie: Ceremony
+Processing movie: My Zinc Bed
+Processing movie: Where the Heart Is
+Processing movie: Chelsea Walls
+Processing movie: Playing for Keeps
+Processing movie: Bel Ami
+Processing movie: A Month by the Lake
+Error printing movie with id: 81
+Processing movie: Love, Marilyn
+Processing movie: Johnny Be Good
+Processing movie: Movie 43
+Processing movie: Duke of Groove
+Processing movie: Sweet and Lowdown
+==========================================
+Processing person: Lucy Liu
+==========================================
+Processing movie: Chicago
+Processing movie: Charlie's Angels
+Processing movie: The Year of Getting to Know Us
+Processing movie: Cypher
+Processing movie: Ballistic: Ecks vs. Sever
+Processing movie: Mulan II
+Processing movie: Tinker Bell
+Processing movie: Code Name: The Cleaner
+Processing movie: Play It to the Bone
+Processing movie: Watching the Detectives
+Processing movie: Tinker Bell and the Lost Treasure
+Processing movie: Tinker Bell and the Great Fairy Rescue
+Processing movie: Flypaper
+Processing movie: Detachment
+Processing movie: Secret of the Wings
+Processing movie: Marry Me
+Processing movie: Kung Fu Panda
+Processing movie: 3 Needles
+Processing movie: Shanghai Noon
+Processing movie: Rise: Blood Hunter
+Processing movie: Pixie Hollow Games
+Processing movie: The Trouble With Bliss
+Processing movie: Someday This Pain Will Be Useful to You
+Processing movie: The Man with the Iron Fists
+Processing movie: Redlight
+Processing movie: Nomads
+Processing movie: The Mating Habits of the Earthbound Human
+==========================================
+Processing person: David Carradine
+==========================================
+Processing movie: Bird on a Wire
+Processing movie: Heaven with a Gun
+Processing movie: The Best of Sex and Violence
+Processing movie: Wizards of the Lost Kingdom II
+Processing movie: Epic Movie
+Processing movie: Big Stan
+Processing movie: Death Race 2000
+Processing movie: How to Rob a Bank
+Processing movie: The Long Riders
+Processing movie: The Golden Boys
+Processing movie: Sundown: The Vampire in Retreat
+Processing movie: Break
+Processing movie: Road of no Return
+Processing movie: Cannonball!
+Processing movie: Dead & Breakfast
+Processing movie: The Misfit Brigade
+Processing movie: Camille
+Processing movie: Kung Fu Killer
+Processing movie: Q
+Processing movie: Waxwork II: Lost in Time
+Processing movie: The Last Sect
+Processing movie: Warlords
+Processing movie: Being Michael Madsen
+Processing movie: Evil Toons
+Processing movie: Brothers in Arms
+Processing movie: An American Tail: The Treasure of Manhattan Island
+Processing movie: All Hell Broke Loose
+Processing movie: True Legend
+Processing movie: Night Rhythms
+Processing movie: Roadside Prophets
+Processing movie: Lone Wolf McQuade
+Processing movie: The Long Goodbye
+Processing movie: The Warrior and the Sorceress
+Processing movie: Miracle at Sage Creek
+Processing movie: Kung Fu: The Movie
+Processing movie: The Serpent's Egg
+Processing movie: Animal Instincts
+Processing movie: Karate Cop
+Processing movie: Boxcar Bertha
+Processing movie: Dinocroc vs. Supergator
+Processing movie: Autumn
+Processing movie: Dark Fields
+Processing movie: The Outsider
+Processing movie: Nightfall
+Processing movie: Stretch
+Processing movie: Armed Response
+Processing movie: Future Force
+Processing movie: The Good Guys and the Bad Guys
+Processing movie: Final Move
+Processing movie: Last Hour
+Processing movie: Capital Punishment
+Processing movie: Sonny Boy
+Processing movie: Young Billy Young
+Processing movie: Homo Erectus
+Processing movie: Deathsport
+Processing movie: Martial Law
+Processing movie: Future Zone
+Processing movie: Archie's Final Project
+Processing movie: Thunder and Lightning
+Processing movie: Fast Charlie... the Moonbeam Rider
+Processing movie: Gray Lady Down
+Processing movie: Treasure Raiders
+Processing movie: The McMasters
+Processing movie: Bad Cop
+Processing movie: Kill Zone
+Processing movie: Eldorado
+Processing movie: Corman's World: Exploits of a Hollywood Rebel
+Processing movie: Night Children
+Processing movie: Night of the Templar
+Processing movie: The Monster Hunter
+Processing movie: Deadly Surveillance
+Processing movie: The New Swiss Family Robinson
+Processing movie: Detention
+Processing movie: High Noon, Part II: The Return of Will Kane
+Processing movie: Bound for Glory
+Processing movie: Kung Fu Killer 2
+Processing movie: Crime of Crimes
+Processing movie: P.O.W. The Escape
+Processing movie: Open Fire
+Processing movie: I Saw What You Did
+Processing movie: Crank: High Voltage
+Processing movie: Think Big
+Processing movie: Tropical Snow
+Processing movie: The Violent Ones
+Processing movie: Nowhere To Run
+Processing movie: Full Blast
+Processing movie: Animal Protector
+Processing movie: Six Against the Rock
+Processing movie: Light Speed
+Processing movie: Downstream
+Processing movie: Son of the Dragon
+Processing movie: The Bad Seed
+Processing movie: Crime Zone
+Processing movie: The Cover Girl and the Cop
+Processing movie: Guaranteed on Delivery
+Processing movie: Oceans of Fire
+Processing movie: Americana
+Processing movie: Macon County Jail
+Processing movie: Unforgettably Evil
+Processing movie: Dune Warriors
+Processing movie: Field of Fire
+Processing movie: Shepherd
+Processing movie: Dangerous Curves
+Processing movie: Last Stand at Saber River
+Processing movie: Trick or Treats
+==========================================
+Processing person: Michael Madsen
+==========================================
+Processing movie: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+Processing movie: Thelma & Louise
+Processing movie: The Getaway
+Processing movie: My Boss's Daughter
+Processing movie: The Last Drop
+Processing movie: Frankenstein
+Processing movie: Free Willy 2 - The Adventure Home
+Processing movie: Species
+Processing movie: Blueberry
+Processing movie: UKM: The Ultimate Killing Machine
+Processing movie: Mulholland Falls
+Processing movie: 44 Minutes: The North Hollywood Shoot-Out
+Processing movie: Green Lantern: First Flight
+Processing movie: Living & Dying
+Processing movie: Beyond The Law
+Processing movie: All in
+Processing movie: The Last Days of Frankie the Fly
+Processing movie: The Alternate
+Processing movie: The Inspectors 2: A Shred of Evidence
+Processing movie: The Killing Time
+Processing movie: Hired Gun
+Processing movie: Clear Lake, WI
+Processing movie: Die Another Day
+Processing movie: Let the Game Begin
+Processing movie: The Tomb
+Processing movie: Put
+Processing movie: The Big I Am
+Processing movie: Serbian Scars
+Processing movie: Kill Me Again
+Processing movie: Straight Talk
+Processing movie: Chasing Ghosts
+Processing movie: Terror Trap
+Processing movie: The Brazen Bull
+Processing movie: Crash and Burn
+Processing movie: Trader Games
+Processing movie: Trouble Bound
+Processing movie: Money for Nothing
+Processing movie: Wyatt Earp
+Processing movie: Almost Blue
+Processing movie: A House In The Hills
+Processing movie: Killer's Freedom
+Processing movie: Vampires Anonymous
+Processing movie: Boarding Gate
+Processing movie: The 5th Execution
+Processing movie: Federal
+Processing movie: Chamaco
+Processing movie: Lost in the woods
+Processing movie: Surface to Air
+Processing movie: Canes
+Processing movie: The Killing Jar
+Processing movie: The Bleeding
+Processing movie: The Portal
+Processing movie: Croc
+Processing movie: House
+Processing movie: The Sender
+Processing movie: Loosies
+Processing movie: Scary Movie 4
+Processing movie: Machine
+Processing movie: The Lion of Judah
+Processing movie: Papertrail
+Processing movie: Dirty Little Trick
+Processing movie: Outrage: Born in Terror
+Processing movie: Not Another Not Another Movie
+Processing movie: Amsterdam Heavy
+Processing movie: Fatal Instinct
+Processing movie: The Maker
+Processing movie: Luck of the Draw
+Processing movie: Jacked$
+Processing movie: Red Line
+Processing movie: Man with a Gun
+Processing movie: Corruption.Gov
+Processing movie: Fall: The Price of Silence
+Processing movie: Tooth & Nail
+Processing movie: Piranhaconda
+Processing movie: The Forest
+Processing movie: WarGames
+Processing movie: The Ghost
+Processing movie: The Florentine
+Processing movie: The Winner
+Processing movie: Rough Draft
+Processing movie: Infected
+Processing movie: Executive Target
+Processing movie: Strength and Honour
+Processing movie: Blood Red
+Processing movie: Christmas Crash
+Processing movie: Garbage
+Processing movie: Afghan Knights
+Processing movie: 45 R.P.M.
+Processing movie: The Real Deal
+Processing movie: Amazing Racer
+Processing movie: BloodRayne
+Processing movie: Along the Roadside
+Processing movie: The Girl Gets Moe
+Processing movie: Iguana
+Processing movie: The Natural
+Processing movie: Highway to Hell
+Processing movie: Sins Expiation
+Processing movie: The Face Is Familiar
+Processing movie: I'm in Love with a Church Girl
+Processing movie: Ashley
+Processing movie: Shadows in the Storm
+Processing movie: Pressure Point
+Processing movie: The Stray
+Processing movie: Terrible Angels
+Processing movie: Sacrifice
+==========================================
+Processing person: Hanns Zischler
+==========================================
+Processing movie: Walk on Water
+Error printing movie with id: 4364
+Processing movie: Angels of Iron
+Processing movie: Die Venusfalle
+Processing movie: Flame & Citron
+Processing movie: A Year Ago in Winter
+Processing movie: Amen.
+Processing movie: Kings of the Road
+Processing movie: Auge in Auge - Eine deutsche Filmgeschichte
+Processing movie: Ripley's Game
+Processing movie: A woman In Flames
+Error printing movie with id: 11714
+Processing movie: Wer nie beim Schwenken schwankte
+Processing movie: Undercover
+Processing movie: Post impact
+Processing movie: Sunshine
+Processing movie: Dr. M
+Processing movie: Anemia
+Processing movie: The Cement Garden
+Processing movie: Germany Year 90 Nine Zero
+Processing movie: In the Shadows
+Processing movie: Small Cuts
+Processing movie: Malevil
+Processing movie: A Perfect Friend
+Processing movie: Francesco
+Processing movie: The Meetings of Anna
+Processing movie: Interno berlinese
+Processing movie: Berlin Chamissoplatz
+Processing movie: Taking Sides
+Processing movie: Nils Holgerssons wunderbare Reise
+Processing movie: Desire
+Processing movie: Playoff
+Processing movie: Manhunt
+Processing movie: A Fine Day
+Processing movie: Der Fall Jakob von Metzler
+Processing movie: Nach uns die Sintflut
+Processing movie: Null Risiko und reich

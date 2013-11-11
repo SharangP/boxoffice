@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "actors.py", line 50, in <module>
+    rottenMovie = RT.MovieSearch(movie['title'], 1)
+  File "/home/shivam/Documents/Cooper/ML/boxoffice/code/rottentomatoes/rtapi.py", line 26, in MovieSearch
+    results = json.load(jsonResponse)["movies"]
+KeyError: 'movies'

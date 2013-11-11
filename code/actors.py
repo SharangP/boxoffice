@@ -9,23 +9,26 @@ RT = RTApi()
 RTapicalls = 0
 
 people = D.GetAllPersonIdsNames()
+psize=len(people)
+people_num=0
 for person in [x for x in people]: #person[0] = id, person[1] = name
 
     #check how many api calls have been done so far today
-    if RTapicalls > 4900:
+    if RTapicalls > 28900:
         print "Reached RTApi limit for today: " + str(RTapicalls)
         print time.asctime()
         print "Exiting on person: " + person[1]
-
-    #skip people who have already been processed
-    # if len(D.GetRottenCastByPersonId(person[0])) > 0:
-    #     continue
-
+    people_num+=1
+    # skip people who have already been processed
+    if len(D.GetRottenCastByPersonId(person[0])) > 0:
+        continue
+    if people_num <1100:
+        continue
     print "=========================================="
     try:
-        print "Processing person: " + person[1]
+        print "Processing person: " + person[1] +str(person[0]) + " number "+str(people_num)+" out of "+str(psize)
     except Exception, err:
-        print "Cant read person name/ unicode to ascii error, id:" +str(person[0])
+        print "Cant read person name/ unicode to ascii error, id:"
         continue
     print "=========================================="
  
@@ -44,7 +47,7 @@ for person in [x for x in people]: #person[0] = id, person[1] = name
                 D.AddRottenCast(person[0], movie['id'])
                 continue
             try:
-                print "Processing movie: " + movie['title']
+                print "Processing movie: " + movie['title'] + " , RTapicalls at " +str(RTapicalls)
             except Exception, err:
                 print "Error printing movie with id: " + str(movie['id'])
                 continue
@@ -61,5 +64,7 @@ for person in [x for x in people]: #person[0] = id, person[1] = name
                                  rottenMovie[0]['title'],
                                  movie['release_date'])
                 D.AddRottenCast(person[0], movie['id'])
+            else:
+            	print 
     else:
         print person[1] + " doesnt have credits"
