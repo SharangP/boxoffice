@@ -20,6 +20,24 @@ class Database:
                     'CREATE TABLE IF NOT EXISTS rottencast (person_id INTEGER, movie_id INTEGER, PRIMARY KEY(person_id, movie_id), FOREIGN KEY(movie_id) REFERENCES rottenmovies(movie_id),FOREIGN KEY(person_id) REFERENCES people(person_id));')
                 self.cur.execute(
                     'CREATE TABLE IF NOT EXISTS rottenmovies (movie_id INTEGER PRIMARY KEY, movie_title VARCHAR(64), score REAL, rotten_id INTEGER, rotten_title VARCHAR(64), release_date VARCHAR(32));')
+                self.cur.execute(
+                    """CREATE TABLE IF NOT EXISTS features (
+                        movie_id INTEGER PRIMARY KEY,
+                        score REAL,
+                        genre INTEGER,
+                        release_date INTEGER,
+                        production_id INTEGER,
+                        director_mean REAL,
+                        director_std REAL,
+                        cast1_mean REAL,
+                        cast1_std REAL,
+                        cast2_mean REAL,
+                        cast2_std REAL,
+                        cast3_mean REAL,
+                        cast3_std REAL,
+                        cast4_mean REAL,
+                        cast4_std REAL
+                        );""")
             except Exception, err:
                 print ('Sqlite error creating tables: %s' % str(err))
 
@@ -105,3 +123,31 @@ class Database:
                 return data
             except Exception, err:
                 print ('Sqlite error in GetRottenCastByPersonId: %s\n' % str(err))
+
+    def GetRottenScoresByPersonId(self, person_id):
+        with self.conn:
+            try:
+                self.cur.execute('SELECT rottenmovies.score FROM rottenmovies inner join rottencast on rottenmovies.movie_id=rottencast.movie_id where rottencast.person_id = (?);', [person_id])
+                data = self.cur.fetchall()
+                return data
+            except Exception, err:
+                print ('Sqlite error in GetRottenCastByPersonId: %s\n' % str(err))
+
+    def UpdatePersonScore(self, person_id, mean, std):
+        with self.conn:
+            try:
+                self.cur.execute('update people set mean_rating=(?), std_rating=(?) where person_id=(?);', [mean, std, person_id])
+                return True
+            except Exception, err:
+                print ('Sqlite error in AddGenre: %s' % str(err))
+                return False
+
+    def AddFeatureForMovie(self, movie_id, score, genre, release_date, production_id, director_mean, director_std, cast1_mean, cast1_std, cast2_mean, cast2_std, cast3_mean, cast3_std, cast4_mean, cast4_std):
+        with self.conn:
+            try:
+                self.cur.execute('INSERT INTO features VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)',
+                    [movie_id, score, genre, release_date, production_id, director_mean, director_std, cast1_mean, cast1_std, cast2_mean, cast2_std, cast3_mean, cast3_std, cast4_mean, cast4_std])
+                return True
+            except Exception, err:
+                print ('Sqlite error in AddCast: %s' % str(err))
+                return False
