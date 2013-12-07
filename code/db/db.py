@@ -103,7 +103,7 @@ class Database:
                     [movie_id, score, genre, release_date, production_id, director_mean, director_std, cast1_mean, cast1_std, cast2_mean, cast2_std, cast3_mean, cast3_std, cast4_mean, cast4_std])
                 return True
             except Exception, err:
-                print ('Sqlite error in AddCast: %s' % str(err))
+                print ('Sqlite error in AddFeatureForMovie: %s' % str(err))
                 return False
 
     def GetAllMovies(self):
@@ -113,7 +113,7 @@ class Database:
                 data = self.cur.fetchall()
                 return data
             except Exception, err:
-                print ('Sqlite error in GetAllPersonIdsNames: %s\n' % str(err))
+                print ('Sqlite error in GetAllMovies: %s\n' % str(err))
 
     def GetAllPersonIdsNames(self):
         with self.conn:
@@ -141,7 +141,7 @@ class Database:
                 data = self.cur.fetchall()
                 return data
             except Exception, err:
-                print ('Sqlite error in GetRottenCastByPersonId: %s\n' % str(err))
+                print ('Sqlite error in GetRottenMovieByMovieId: %s\n' % str(err))
 
     def GetRottenScoreByMovieId(self, movie_id):
         with self.conn:
@@ -150,7 +150,7 @@ class Database:
                 data = self.cur.fetchall()
                 return data
             except Exception, err:
-                print ('Sqlite error in GetRottenCastByPersonId: %s\n' % str(err))
+                print ('Sqlite error in GetRottenScoreByMovieId: %s\n' % str(err))
 
     def GetRottenScoresByPersonId(self, person_id):
         with self.conn:
@@ -159,7 +159,7 @@ class Database:
                 data = self.cur.fetchall()
                 return data
             except Exception, err:
-                print ('Sqlite error in GetRottenCastByPersonId: %s\n' % str(err))
+                print ('Sqlite error in GetRottenScoresByPersonId: %s\n' % str(err))
 
     def GetCastStatsByMovieId(self, movie_id):
         with self.conn:
@@ -168,7 +168,16 @@ class Database:
                 data = self.cur.fetchall()
                 return data
             except Exception, err:
-                print ('Sqlite error in GetRottenCastByPersonId: %s\n' % str(err))
+                print ('Sqlite error in GetCastStatsByMovieId: %s\n' % str(err))
+
+    def GetAllFeatures(self):
+        with self.conn:
+            try:
+                self.cur.execute('SELECT * FROM features;')
+                data = self.cur.fetchall()
+                return data
+            except Exception, err:
+                print ('Sqlite error in GetAllFeatures: %s\n' % str(err))
 
     def UpdatePersonScore(self, person_id, mean, std):
         with self.conn:
@@ -176,5 +185,5 @@ class Database:
                 self.cur.execute('update people set mean_rating=(?), std_rating=(?) where person_id=(?);', [mean, std, person_id])
                 return True
             except Exception, err:
-                print ('Sqlite error in AddGenre: %s' % str(err))
+                print ('Sqlite error in UpdatePersonScore: %s' % str(err))
                 return False
