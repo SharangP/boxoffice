@@ -13,6 +13,7 @@ F = np.array(D.GetAllFeatures())
 
 F = np.array([x for x in F if all(x[5:] != -1)])      # remove examples with missing people
 np.random.shuffle(F)    #shuffle examples
+F.shape
 Mid = F[:,0]
 S = F[:,1]
 F = F[:,5:]
@@ -26,7 +27,7 @@ S_test = S[train_ind:]
 ###############################################################################
 # Fit regression model
 
-svr_rbf = SVR(kernel='rbf', C=0.001, gamma=0.1, degree=5)
+svr_rbf = SVR(kernel='rbf', C=1, gamma=.001, degree=3)
 model = svr_rbf.fit(F_train, S_train)
 S_test_guess = model.predict(F_test)
 

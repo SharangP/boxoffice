@@ -7,7 +7,7 @@ people_num = 0
 
 for person in [x for x in people]:
     people_num += 1
-    print "Updating stats for " + person[1]
+    # print "Updating stats for " + person[1]
     print "Person " + str(people_num) + " out of " + str(psize)
     scoreArray = D.GetRottenScoresByPersonId(person[0])
     if not scoreArray:

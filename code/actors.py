@@ -18,12 +18,15 @@ for person in [x for x in people]: #person[0] = id, person[1] = name
         print "Reached RTApi limit for today: " + str(RTapicalls)
         print time.asctime()
         print "Exiting on person: " + person[1]
+
     people_num+=1
+
     # skip people who have already been processed
+    # if people_num <7100:
+    #     continue
     if len(D.GetRottenCastByPersonId(person[0])) > 0:
         continue
-    if people_num <1100:
-        continue
+
     print "=========================================="
     try:
         print "Processing person: " + person[1] +str(person[0]) + " number "+str(people_num)+" out of "+str(psize)
@@ -65,6 +68,6 @@ for person in [x for x in people]: #person[0] = id, person[1] = name
                                  movie['release_date'])
                 D.AddRottenCast(person[0], movie['id'])
             else:
-            	print 
+            	print "Movie not found in Rotten Tomatoes"
     else:
         print person[1] + " doesnt have credits"

@@ -13,6 +13,9 @@ D = Database('boxoffice.db')
 # IGNORE movies with no score
 
 movies = D.GetAllMovies()
+genre_table = D.GetAllGenreStats()
+genre_dict = dict([(x[0], x) for x in genre_table])
+
 msize = len(movies)
 m_num = 0
 
@@ -24,14 +27,19 @@ for movie in [x for x in movies]:
     movie_id = movie[0]
     score = D.GetRottenScoreByMovieId(movie_id)
     if not score:
-        print "Skipping movie b/c score is null id: " + str(movie[0]) + " name: " + movie[1]
+        try:
+            print "Skipping movie b/c score is null id: " + str(movie[0]) + " name: " + movie[1]
+        except:
+            pass
         continue
     score = score[0][0]
     if score == 0:
-        print "Skipping movie b/c score==0 id: " + str(movie[0]) + " name: " + movie[1]
+        try:
+            print "Skipping movie b/c score==0 id: " + str(movie[0]) + " name: " + movie[1]
+        except:
+            pass
         continue
 
-    # genre
     # release_date = movie[2] #TODO: convert this into a number
     # production_id = movie[3] #TODO: normalize?
 
@@ -56,5 +64,21 @@ for movie in [x for x in movies]:
     cast4_mean = crew[3][1]
     cast4_std = crew[3][2]
 
-    # D.AddFeatureForMovie(movie_id, score, genre, release_date, production_id, director_mean, director_std, cast1_mean, cast1_std, cast2_mean, cast2_std, cast3_mean, cast3_std, cast4_mean, cast4_std)
-    D.AddFeatureForMovie(movie_id, score, None, None, None, director_mean, director_std, cast1_mean, cast1_std, cast2_mean, cast2_std, cast3_mean, cast3_std, cast4_mean, cast4_std)
+    # genre
+    genre_mean = 0
+    genre_std = 0
+    genre_count = 0
+    g_ids=D.GetGenresByMovieId(movie_id)
+    if not g_ids:
+        genre_mean = -1
+        genre_std = -1
+    else:
+        for g_id in g_ids[0]:
+            c = genre_dict[g_id][1]
+            genre_count += c
+            genre_mean += genre_dict[g_id][2]*c
+            genre_std += genre_dict[g_id][3]*c
+        genre_mean /= genre_count
+        genre_std /= genre_count
+
+    D.AddFeatureForMovie(movie_id, score, None, None, None, director_mean, director_std, cast1_mean, cast1_std, cast2_mean, cast2_std, cast3_mean, cast3_std, cast4_mean, cast4_std, genre_mean, genre_std)

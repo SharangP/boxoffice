@@ -1,0 +1,731 @@
+Creating Tables
+Processing movie: Cutthroat Island
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: John Carter
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Alamo
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Adventures of Pluto Nash
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Sahara
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Mars Needs Moms
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The 13th Warrior
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Town & Country
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Speed Racer
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Heaven's Gate
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Stealth
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Green Lantern
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Final Fantasy: The Spirits Within
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Fall of the Roman Empire
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Supernova
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Battlefield Earth
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Inchon
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Raise the Titanic
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Treasure Planet
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Ballistic: Ecks vs. Sever
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: The Postman
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddCast: columns movie_id, person_id are not unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Red Planet
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: K-19: The Widowmaker
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Monkeybone
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Lolita
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Windtalkers
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Dudley Do-Right
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Adventures of Rocky & Bullwinkle
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Soldier
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Gigli
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Around the World in 80 Days
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Ishtar
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Hudson Hawk
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Beloved
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: A Sound of Thunder
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Hart's War
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Osmosis Jones
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Nutcracker in 3D
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Land of the Lost
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Krull
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Astronaut's Wife
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Adventures of Baron Munchausen
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: How Do You Know
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Jack Frost
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Cotton Club
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Hard Rain
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Fathers' Day
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Pirates
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Lucky Numbers
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Holy Man
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Love Affair
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Catwoman
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Out-of-Towners
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Instinct
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Doctor Dolittle
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Edtv
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Virus
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: In the Name of the King: A Dungeon Siege Tale
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Jade
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: One from the Heart
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Revolution
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Get Carter
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Wyatt Earp
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: 1492: Conquest of Paradise
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Gods and Generals
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Last Castle
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Garbage Pail Kids Movie
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Mad City
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Rollerball
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: 3000 Miles to Graceland
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Havana
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Honky Tonk Freeway
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Mighty Joe Young
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Jakob the Liar
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Bonfire of the Vanities
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: The Legend of Bagger Vance
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Scarlet Letter
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: The House of the Spirits
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Fan
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Nothing But Trouble
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Death to Smoochy
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddCast: columns movie_id, person_id are not unique
+Processing movie: True Crime
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddCast: columns movie_id, person_id are not unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Meet Dave
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Bringing Out the Dead
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Molly Maguires
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Christopher Columbus: The Discovery
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: All the King's Men
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Lucky You
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Ride with the Devil
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Strange Days
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Core
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Titan A.E.
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Driven
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: North
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: I Spy
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Can't Stop the Music
+Processing movie: Son of the Mask
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Mary Reilly
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Scott Pilgrim vs. the World
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: BloodRayne
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Bulletproof Monk
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Stay
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Rock Star
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: At First Sight
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Texas Rangers
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Flyboys
+Processing movie: The Mod Squad
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Man on the Moon
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Mystery Men
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Gone Fishin'
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Lost Horizon
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Meteor
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Outlander
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Supergirl
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Looney Tunes: Back in Action
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Cradle Will Rock
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Timeline
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Majestic
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Blue Bird
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Zathura: A Space Adventure
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Deep Rising
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Little Nemo: Adventures in Slumberland
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Nomad: The Warrior
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Old Gringo
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Heaven & Earth
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Conan the Barbarian
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Super Mario Bros.
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Yes
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Delgo
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Alexander
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Fire Down Below
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Whole Ten Yards
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Warriors of Virtue
+Processing movie: Impostor
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Cats Don't Dance
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: White Squall
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Last Action Hero
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Big Trouble
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Santa Claus
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Street Fighter: The Legend of Chun-Li
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: City of Ember
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Legend
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Leonard Part 6
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Jonah Hex
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Miracle at St. Anna
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Sorcerer
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Roar
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Until the End of the World
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Relic
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Extreme Ops
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: A Troll in Central Park
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Pebble and the Penguin
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Fair Game
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Basic Instinct 2
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Little Nicky
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Big Year
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Sphere
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Exorcist: The Beginning
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Meteor Man
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddCast: columns movie_id, person_id are not unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Thunderbirds
+Processing movie: New York Minute
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Tekken
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Universal Soldier: The Return
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Imagine That
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Kull the Conqueror
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Megaforce
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: A Stranger Among Us
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Pushing Tin
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Missing
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Phantom
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Stupids
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Baby's Day Out
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Mixed Nuts
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Black Cauldron
+Processing movie: The Warrior's Way
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Toys
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Psycho
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Glitter
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Domino
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Larger Than Life
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Color of Night
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Josie and the Pussycats
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Twilight
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Envy
+Processing movie: Shanghai Surprise
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Trespass
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Spirit
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: The Avengers
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: Alfie
+Sqlite error in AddMovie: PRIMARY KEY must be unique
+Processing movie: Extreme Measures
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Processing movie: FeardotCom
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
+Sqlite error in AddPerson: PRIMARY KEY must be unique
