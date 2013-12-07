@@ -96,6 +96,25 @@ class Database:
                 print ('Sqlite error in AddRottenMovie: %s' % str(err))
                 return False
 
+    def AddFeatureForMovie(self, movie_id, score, genre, release_date, production_id, director_mean, director_std, cast1_mean, cast1_std, cast2_mean, cast2_std, cast3_mean, cast3_std, cast4_mean, cast4_std):
+        with self.conn:
+            try:
+                self.cur.execute('INSERT INTO features VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)',
+                    [movie_id, score, genre, release_date, production_id, director_mean, director_std, cast1_mean, cast1_std, cast2_mean, cast2_std, cast3_mean, cast3_std, cast4_mean, cast4_std])
+                return True
+            except Exception, err:
+                print ('Sqlite error in AddCast: %s' % str(err))
+                return False
+
+    def GetAllMovies(self):
+        with self.conn:
+            try:
+                self.cur.execute('SELECT * FROM movies;')
+                data = self.cur.fetchall()
+                return data
+            except Exception, err:
+                print ('Sqlite error in GetAllPersonIdsNames: %s\n' % str(err))
+
     def GetAllPersonIdsNames(self):
         with self.conn:
             try:
@@ -124,10 +143,28 @@ class Database:
             except Exception, err:
                 print ('Sqlite error in GetRottenCastByPersonId: %s\n' % str(err))
 
+    def GetRottenScoreByMovieId(self, movie_id):
+        with self.conn:
+            try:
+                self.cur.execute('SELECT score FROM rottenmovies WHERE movie_id = (?);', [movie_id])
+                data = self.cur.fetchall()
+                return data
+            except Exception, err:
+                print ('Sqlite error in GetRottenCastByPersonId: %s\n' % str(err))
+
     def GetRottenScoresByPersonId(self, person_id):
         with self.conn:
             try:
                 self.cur.execute('SELECT rottenmovies.score FROM rottenmovies inner join rottencast on rottenmovies.movie_id=rottencast.movie_id where rottencast.person_id = (?);', [person_id])
+                data = self.cur.fetchall()
+                return data
+            except Exception, err:
+                print ('Sqlite error in GetRottenCastByPersonId: %s\n' % str(err))
+
+    def GetCastStatsByMovieId(self, movie_id):
+        with self.conn:
+            try:
+                self.cur.execute('SELECT c.order_num, p.mean_rating, p.std_rating FROM people p inner join cast c on p.person_id=c.person_id where c.movie_id = (?) order by c.order_num;', [movie_id])
                 data = self.cur.fetchall()
                 return data
             except Exception, err:
@@ -140,14 +177,4 @@ class Database:
                 return True
             except Exception, err:
                 print ('Sqlite error in AddGenre: %s' % str(err))
-                return False
-
-    def AddFeatureForMovie(self, movie_id, score, genre, release_date, production_id, director_mean, director_std, cast1_mean, cast1_std, cast2_mean, cast2_std, cast3_mean, cast3_std, cast4_mean, cast4_std):
-        with self.conn:
-            try:
-                self.cur.execute('INSERT INTO features VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)',
-                    [movie_id, score, genre, release_date, production_id, director_mean, director_std, cast1_mean, cast1_std, cast2_mean, cast2_std, cast3_mean, cast3_std, cast4_mean, cast4_std])
-                return True
-            except Exception, err:
-                print ('Sqlite error in AddCast: %s' % str(err))
                 return False
