@@ -56,7 +56,7 @@ algorithms = [
     ]
 names=["SVR", "Boosted Decision Tree", "Gradient Boosting Regression", "Random Forest Regression"]
 
-niter = 1
+niter = 100
 train_ind = int(F1.shape[0]*4/5)
 test_ind = F1.shape[0] - train_ind
 
@@ -87,10 +87,10 @@ p5.suptitle("Estimated Audience Film Rating Histograms")
 ax6 = p6.add_subplot(111)
 
 ##### histogram of all audience ratings
-ax1.hist(F1[:,1],20)
-ax1.set_title("Dataset Audience Rating Distribution")
-ax1.set_xlabel("Ground Truth Audience Film Rating")
-plt.show()
+# ax1.hist(F1[:,1],20)
+# ax1.set_title("Dataset Audience Rating Distribution")
+# ax1.set_xlabel("Ground Truth Audience Film Rating")
+# plt.show()
 #####
 
 for n in xrange(niter):
@@ -164,17 +164,15 @@ for i in xrange(len(algorithms)):
         X.append( np.mean([x[0] for x in fullSortedErrors[n*grpSize:(n+1)*grpSize]]))
         Y.append( np.mean([x[1] for x in fullSortedErrors[n*grpSize:(n+1)*grpSize]]))
         Z.append( np.std([x[1] for x in fullSortedErrors[n*grpSize:(n+1)*grpSize]]))
-    # X = [x[0] for x in fullSortedErrors]
-    # Y = [x[1] for x in fullSortedErrors]
-    std = np.std(Y)
 
     ax7.plot(X, Y, 'b')
     ax7.plot(X, [y-z for y, z in zip(Y, Z)], 'r')
     ax7.plot(X, [y+z for y, z in zip(Y, Z)], 'r')
 
-    ax7.plot([0,100],[0,0], 'k')
-    ax7.plot([0,100],[std,std], 'k')
-    ax7.plot([0,100],[-std,-std], 'k')
+    # std = np.std(Y)
+    # ax7.plot([0,100],[0,0], 'k')
+    # ax7.plot([0,100],[std,std], 'k')
+    # ax7.plot([0,100],[-std,-std], 'k')
 
     ax7.axis([0,100,-100,100])
     ax7.set_title(str(names[i]))
