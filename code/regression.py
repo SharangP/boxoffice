@@ -86,6 +86,12 @@ p5.suptitle("Estimated Audience Film Rating Histograms")
 
 ax6 = p6.add_subplot(111)
 
+##### histogram of all audience ratings
+ax1.hist(F1[:,1],20)
+ax1.set_title("Dataset Audience Rating Distribution")
+ax1.set_xlabel("Ground Truth Audience Film Rating")
+plt.show()
+#####
 
 for n in xrange(niter):
     print "Begin iteration " + str(n) + "\n"
